@@ -1,6 +1,6 @@
 ---
-name: Urugendo rwa Bitcoin
-goal: Tora ivy’ishimikiro vya Bitcoin, harimwo n’agaciro kayo k’amahera, abacukuzi, amafaranga, n’amasakoshi.
+Izina: Uko Bitcoin yabayeho
+Ihagiro: Tahura vyerekeye ishimikiro rya Bitcoin, nagaciro kayo mumahera ihafatirwako, abacukuzi, ihanahanwa ry'amafaranga, n'ingodo.
 objectives: 
 
   - Uronke ugutahura rusangi kw'ubuhinga bwa Bitcoin
