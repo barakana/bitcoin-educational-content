@@ -3,9 +3,9 @@ name: Urugendo rwa Bitcoin
 goal: Tora ivy’ishimikiro vya Bitcoin, harimwo n’agaciro kayo k’amahera, abacukuzi, amafaranga, n’amasakoshi.
 objectives: 
 
-  - Uronke ugutahura rusangi kw'ubuhinga bwa Bitcoin
-  - Gutahura ingene wogura no gukingira ama bitcoins
-  - Ugire ugutahura rusangi kw'ubuhinga bwa Blockchain
+  - Uronke ugutahura rusangi kw'ubuhinga bwa Bitcoin.
+  - Gutahura ingene wogura no gukingira ama bitcoins.
+  - Ugire ugutahura rusangi kw'ubuhinga bwa Blockchain.
   - Menya neza iciyumviro ca Lightning Network.
   - Gutahura ingaruka za Bitcoin ku vyerekeye politike n’imibano.
 
