@@ -58,88 +58,88 @@ Ni ngombwa gutahura ko Bitcoin ari uburyo bushasha bw’amahera buhindura burund
 **Igice ca 1 - Intangamarara**
 
 
-- Igice ca 1 - Incamake y'amashure
-- Igice ca 2 - Amateka ya Bitcoin
+- Ikigabane ca 1 - Incamake y'icigwa
+- Ikigabane ca 2 - Imbere ya kahise ka Bitcoin
 
 
-**Igice ca 2 - Amahera**
+**Igice ca 2 - Amafaranga**
 
 
-- Igice ca 3 - Amahera muri kahise kose
-- Igice ca 4 - Amafaranga ya Fiat
-- Igice ca 5 - Ukwiyongera kw'ibiciro
-- Igice ca 6 - Miliyoni 21 z'ama Bitcoins
+- Ikigabane ca 3 - Amafaranga muri kahise kose
+- Ikigabane ca 4 - Amahera afatiye kucizere (Fiat)
+- Ikigabane ca 5 - Ukuduga kw'ibiciro birenze urugero
+- Ikigabane ca 6 - Imiriyoni 21 z'ama Bitcoins
 
 
-**Igice ca 3 - Amasakoshi ya Bitcoin**
+**Igice ca 3 - Ingodo za Bitcoins**
 
 
-- Igice ca 7 - Bitcoin Wallet ni iki?
-- Igice ca 8 - Bitcoin Amasakoshi n'umutekano
-- Igice ca 9 - Gushinga Wallet
-- Igice ca 10 - Guhagarara mu kigeragezo c'igihe
+- Ikigabane ca 7 - Ingodo za Bitcoin n'iki ?
+- Ikigabane ca 8 - Ingodo za Bitcoin hamwe n'umutekano
+- Ikigabane ca 9 - Gutanguza ingodo
+- Ikigabane ca 10 - Guhagarara mu kigeragezo c'igihe
 
 
 **Igice ca 4 - Ivyerekeye ubuhinga bwa Bitcoin**
 
 
-- Igice ca 11 - Gutanguza Bitcoin
-- Igice ca 12 - Ibikorwa vya Bitcoin
-- Igice ca 13 - Ivyuma vya Bitcoin
-- Igice ca 14 - Abacukuzi
-- Igice ca 15 - Bitcoin n'Ibidukikije
+- Ikigabane ca 11 - Gutanguza Bitcoin
+- Ikigabane ca 12 - Ihanahanwa rya Bitcoin
+- Ikigabane ca 13 - Amapfundo ya Bitcoin
+- Ikigabane ca 14 - Abacukuzi
+- Ikigabane ca 15 - Bitcoin n'Ibidukikije
 
 
-**Igice ca 5 - Uko woronka ama Bitcoins?**
+**Igice ca 5 - Nigute woronka ama Bitcoins?**
 
 
-- Igice ca 16 - Bitcoin Ntazokwigera asinzira!
-- Igice ca 17 - Kuronka Bitcoins biciye ku kazi
-- Igice ca 18 - Guzigama na Bitcoin
-- Igice ca 19 - Guhindura amafaranga menshi cane
+- Ikigabane ca 16 - Bitcoin ntiyigera isinzira!
+- Ikigabane ca 17 - kuronka ama Bitcoins biciye mukazi
+- Ikigabane ca 18 - kuziganya ama Bitcoins
+- Ikigabane ca 19 - Gutuma haba ama bitcoins menshi cane
 
 
 **Igice ca 6 - Kazoza ka Bitcoin: Lightning Network**
 
 
-- Igice ca 20 - Intangamarara ngufi y'igitabu ca Lightning Network
-- Igice ca 21 - Lightning Network Ikoreshwa
-- Igice ca 22 - Ikirungo c'umutuku canke ikirungo c'ubururu?
+- Ikigabane ca 20- Intangamarara ngufi ya Lightning Network
+- Igice ca 21 - Uko Lightning Network Ikoreshwa
+- Igice ca 22 - Ikirungo gitukura canke Ikirungo c'ubururu ?
 
 
-Imbere yo gutanga insobanuro y’amahera n’igikorwa cayo mu kibano (Igice ca 1), dukwiye gutangura kuri Genesis ya Bitcoin. Bitcoin yatangujwe mu mwaka w’2009, ni ubuhinga bushasha cane butandukanye n’ibindi vyose. Ni ibisanzwe rero kudatahura vyose ku bijanye na vyo, vyose icarimwe. Nkako, nk’uko nyene bigenda igihe wiga gukoresha Internet canke gutwara imodoka, ntukeneye guca umenya ibintu vyose bijanye n’ubuhinga: urashobora gutangura wiga ingene wokwakira, wokwishura no kubungabunga amahera yawe, hanyuma ugatera intambwe ntoyi kugira ngo uyige bimwe bigera kure.
+Imbere yo gutangana n'indangurakintu y'amafaranga hamwe n'akamaro kayo mukibano (ikigabaneca 1), dukwiye gutangurana n'amamuko ya Bitcoin. Bitcoin yatangujwe mu mwaka w’2009, n'ubuhinga bushasha cane ugereranije n'ubundi bwose . Ni ibisanzwe rero kudatahura vyose ku bijanye na yo, vyose icarimwe. Ariko, nk’uko nyene bigenda igihe wiga gukoresha Internet canke kunyonga imodoka, ntukeneye kumenya ubuhina bwose bukoreshwa : urashobora gutangura wiga ingene wokwakira, uko woriha,n'uko wokingira ubutunzibwawe, hanyuma ugatera intambwe ntoyi mukuyiga vyimbitse.
 
 
-Nakare, turi mu ntango gusa zo kwemerwa kwayo, kuko twaciye mu gihe co guhaguruka: uri mu gihe gusa co kuronka ubumenyi bwinshi nk’uko wipfuza ku bijanye n’ico gishasha gihambaye.
+Nakare, turacari mugihe c'intango yo kuyemeza, nkuko twamaze kurengana igihe co guhaguruka : uri mu gihe ciza co kwakira ubumenyi bwinshi wipfuza nkuko ubishaka kuvyerekeye buno buhinga bushasha ngirakamaro.
 
 
 ![image](assets/en/02.webp)
 
 
-Iciyumviro gihambaye aha ni ugutahura ubu buhinga bushasha mu buryo rusangi, rero twizigiye ko muzonezerwa n’iri shure kandi mukabandanya mutera imbere muri iyo nzira nshasha y’amahera y’isi yose.
+Ikintu nyamukuru hano n'igutahura bunobuhinga bushasha murimake, rero turizerako munezererewe kino cigwa kandi mubandanya mutera intambwe murikino kiringo cano mafaranga mpuzamakungu.
 
 
-Ni mwiteguye kwisuka mw’isi iryoshe cane ya Bitcoin no gutahura ingene ikora vyose imbere mu mutima? Reka tugende!
+Muriteguye gutangura mw'isi iryoshe cane ya Bitcoin kandi mugatahura ingene ikora vyimbitse ? twagiye !
 
 
-## Imbere y'amateka ya Bitcoin
+## Imbere ya kahise ka Bitcoin 
 
 
 <chapterId>9a94b627-5b69-5d81-9125-f1fa9b0aa6ad</chapterId>
 
 
-Imbere y'uko ijambo "Bitcoin" rihinduka amafaranga y'ubuhinga bwa none n'uguhindura ivy'ubutunzi, umushinge wo kuyirema warashizweho n'urutonde rw'ivyiyumviro, ubuhinga bushasha, n'imigwi y'abantu. Muri ivyo, umuhari Cypherpunk uragaragara nk'ikintu nyamukuru mu mateka ya Bitcoin.
+Imbere y'uko ijambo "Bitcoin" ricika amahera y'ubuhinga bwa none n'uguhindura ivyubutunzi, umushinge wo kuyirema wararushingiye kuruhererekane rw'ivyiyumviro, ubuhinga bushasha, n'imihari y'abantu. Muri ivyo, umuhari Cypherpunk uboneka nk'ikintu nyamukuru mumateka ya Bitcoin.
 
 
-### Cypherpunks: ababona isi y'ubuhinga bwa none
+### Cypherpunks: imbonerakure z'isi y'ubuhinga bwa none
 
 
 ![image](assets/en/03.webp)
 
-Mu mutima w’iterambere ry’ubuhinga ryo mu myaka ya 1980 na 1990, umugwi w’abantu watanguye kwibaza cane uruhara rw’ubuzima bwite n’umwidegemvyo mu gihe c’ubuhinga bwa none. Abo bantu, bazokwitwa "cypherpunks", barizera cane ko ubuhinga bwo gukingira amakuru bushobora kuba igikoresho co kurinda uburenganzira bw'umuntu ku giti ciwe ku bijanye n'ukwivanga mu bikorwa vya Leta n'amashirahamwe maninimanini.
+Hagati na hagati mugihe c'iterambere ry'ubuhinga yo mumyaka y'1980 hamwe n'1990, umugwi w'abantu watanguye kwiyumvira vyimbitse akamaro k'ibanga n'ubwigenge mugihe c'ubuhinga bwa none.  Abo bantu, bashoboye kumenyekana munyuma nka "cypherpunks", barizera cane ko ubuhinga bwo kunyegeza inyandiko buzoshobora gufasha nk'igikoresho co gukingira ubwigenge bw'abantu kubijanye n'ukwivanga kwa leta n'amashirahamwe manini .
 
 
-Abantu bazwi cane nka Julian Assange, Wei Dai, Tim May na David Chaum baragize uruhara runini mu guhingura ubuhinga n’iyerekwa ry’uwo muhari. Abo biyumvira barasangiye ivyiyumviro vyabo ku rutonde rw’abarungikirwa ubutumwa, aho abaje muri iyo nama bavuye hirya no hino kw’isi bariko baraganira ku buryo bwiza bwo gukoresha ubuhinga bwa none kugira ngo umuntu agire umwidegemvyo mwinshi.
+Barurangiranwa bazwi cane nka Julian Assange, Wei Dai, Tim May na David Chaum baragize uruhara rukomeye mugushiraho ivyiyumviro hamwe n'imbono vy'umuhari. Abo biyumvira barasabikanije ivyiyumviro vyabo bakoresheje uruntonde rwabarungikirwa ubutumwa bwa emeyiri, aho abitabira akamo bava mumihingo y'isi itandukanye bahanye ivyiyumviro kuvyerekeye uburyo bwiza bwogukoresha ubuhinga bwanone mu gukingira agateka kakiremwa muntu.
 
 
 ### Impapuro zitatu z’ishimikiro z’aba Cypherpunks .
@@ -148,25 +148,25 @@ Abantu bazwi cane nka Julian Assange, Wei Dai, Tim May na David Chaum baragize u
 ![image](assets/en/04.webp)
 
 
-Ishirahamwe Cypherpunk, ryashinze imizi cane mu bijanye n’ubuhinga bwa none n’ubuhinga bwa none, ryakoresheje ivyanditswe vyinshi vy’ishimikiro kugira ngo risobanure ingingo ngenderwako zaryo n’ivyo ribona muri kazoza. Muri ivyo vyanditswe, harimwo bitatu canecane:
+Umuhari Cypherpunk, washinze imizi cane mugukingira agateka kubijanye n'ubuhinga bwa none hamwe n'inyandiko z'ihishijwe, wakoresheje inyandiko nyinshi zitandukamye kugira usigure amategeko ngenderwako n'imbono ya kazoza. muri ivyo vyanditswe, zitatu ziritandukanya n'izindi :
 
 
 
-- "Ikete rya Cypherpunk":
+- "A Cypherpunk's Manifesto":
 
-yanditswe na Eric Hughes mu 1993, yemeza yuko ubuzima bwite ari uburenganzira bw’ishimikiro. Umwanditsi avuga ko ubushobozi bwo kuvugana n’abandi mu mwidegemvyo kandi mu ibanga ari ngirakamaro kugira ngo umuntu agire igihugu cidegemvya. Iryo kete rivuga riti: "Ntidushobora kwitega ko intwaro, amashirahamwe canke ayandi mashirahamwe manini manini atagira mu maso aduha ubuzima bwite [...]. Tubwirizwa kurwanira ubuzima bwite bwacu nimba twiteze ko tuzobugira".
-
-
-
-- "Ikete ry'abanyagihugu b'abanyagihugu":
-
-yanditswe na Timothy C. May mu 1992, iyo nyandiko irasigura ingene gukoresha ubuhinga bwo gukingira amakuru bishobora gutuma haba ikiringo c’ubuja mu vy’ubuhinga bwo gukingira amakuru aho intwaro zoba zitagira ububasha bwo kwivanga mu bikorwa vy’ibanga vy’abanyagihugu. May yariyumviriye kazoza aho abantu bazotanga amakuru n’amahera ata wundi muntu azobafasha.
+ryanditswe na Eric Hughes mu 1993, yemezako ukugira ibanga ari uburenganzira nyamukuru . Umwanditsi arasigurako ubushobozi bwo guhanahana amakuru mu mwidegemvyo kandi mwibanga ari nkenerwa mw'isi yidegemvya. Iryo kete rivuga riti: "Ntidukwiyr kwitega ko intwaro, amashirahamwe, canke izindi nzego , ayandi mashirahamwe ataco yitayeho ngo yoduha ubwigenge bwokubihanga bwanone [...]. Dutegerezwa gukingira ubwo bwigenge bwacu nimba dushaka kuburonka nagato".
 
 
 
-- "Itangazo ry'ukwikukira kw'Ikirere":
+- "The Crypto Anarchist Manifesto":
 
-naho atari Cypherpunk gusa, iki canditswe kirerekana inyiyumvo z’abantu benshi bari muri uwo muhari. Yanditswe mu 1996 na John Perry Barlow, ni inyishu y’ukuntu intwaro zigenda zirushiriza gutegeka Internet. Iryo tangazo ryemeza ko ikirere co kuri Internet ari ikibanza gitandukanye n’ikirere c’umubiri kandi ko kitakwiye gukurikizwa n’amategeko amwe. Nk'uko bivugwa, "Nta leta dufise yatowe, eka mbere ntidushobora kuyigira".
+Ryanditswe na Timothy C. May mu 1992, iyo nyandiko irasigura nigute ugukoresha ubuhinga bw'ukunyegeza inyandiko bishobora gutuma haba igihe c'ubuhinga bw'ukunyegeza inyandiko aho inzego zotakaza inguvu zo kwivanga mumabanga y'abenegihugu. Vyatumye hiyumvirwa kazoza aho abantu bahanahana ubutumwa n'amafaranga mwibanga atakwivanga kw'igice cagatatu .
+
+
+
+- "A Declaration of the Independence of Cyberspace":
+
+Nubwo atari Cypherpunk gusa, zino nyandiko zirerekana amarangamutima y'abagize umuhari benshi. Yanditswe mu 1996 na John Perry Barlow, n'inyishu kwiduga cane ry'ukugenzuraca Internet bikozwe n'ibihugu. Iryo tangazo riremeza ko ikirere cokuri Internet kiratandukanyen'ikirere gisanzwe kandi ntibikwiye kuba bimwe imbere y'amategeko. Nk'uko bivugwa, "Nta leta dufise yatowe, kandi wanashima ntayo dushaka kugira ".
 
 
 ### Ababanjirije Bitcoin
