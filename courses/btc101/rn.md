@@ -169,10 +169,10 @@ yanditswe na Timothy C. May mu 1992, iyo nyandiko irasigura ingene gukoresha ubu
 naho atari Cypherpunk gusa, iki canditswe kirerekana inyiyumvo z’abantu benshi bari muri uwo muhari. Yanditswe mu 1996 na John Perry Barlow, ni inyishu y’ukuntu intwaro zigenda zirushiriza gutegeka Internet. Iryo tangazo ryemeza ko ikirere co kuri Internet ari ikibanza gitandukanye n’ikirere c’umubiri kandi ko kitakwiye gukurikizwa n’amategeko amwe. Nk'uko bivugwa, "Nta leta dufise yatowe, eka mbere ntidushobora kuyigira".
 
 
-### Ababanjirije Bitcoin
+### Abatanguriye Bitcoin
 
 
-Imbere y’uko Bitcoin igaragara, hariho ivyigwa vyinshi vyo guhingura amafaranga y’ubuhinga bwa none. Nk'akarorero, David Chaum yashizeho iciyumviro c'"amahera y'ubuhinga bwa none atazwi" n'umugambi wiwe "DigiCash" mu myaka ya 1980. Ikibabaje, kubera ingorane zitandukanye, DigiCash ntiyigeze itera imbere.
+Imbere y'uko Bitcoin imenyekana, hariho ivyigwa vyinshi vyo guhingura amafaranga y’ubuhinga bwa none. Nk'akarorero, David Chaum yashizeho iciyumviro c'"amahera y'ubuhinga bwa none atazwi" n'umugambi wiwe "DigiCash" mu myaka ya 1980. Ikibabaje, kubera ingorane zitandukanye, DigiCash ntiyigeze itera imbere.
 
 
 Ikindi kintu gihambaye ni "amahera B" ya Wei Dai. Naho nyene ritarigeze rishirwa mu ngiro, ryarashizeho iciyumviro c’amahera y’ubuhinga bwa none atazwi aho gutahura ubusuma vyakorwa n’umuryango w’abagenzuzi aho gukorwa n’ubuyobozi bukuru.
