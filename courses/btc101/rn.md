@@ -172,28 +172,27 @@ naho atari Cypherpunk gusa, iki canditswe kirerekana inyiyumvo z’abantu benshi
 ### Ababanjirije Bitcoin
 
 
-Imbere y’uko Bitcoin igaragara, hariho ivyigwa vyinshi vyo guhingura amafaranga y’ubuhinga bwa none. Nk'akarorero, David Chaum yashizeho iciyumviro c'"amahera y'ubuhinga bwa none atazwi" n'umugambi wiwe "DigiCash" mu myaka ya 1980. Ikibabaje, kubera ingorane zitandukanye, DigiCash ntiyigeze itera imbere.
+Imbere y’uko Bitcoin igaragara, hariho abagerageje benshi kurema amafaranga akoreshwa n'uubuhiga bwa none. Akarorero , David Chaum yarazanye iciyumviro c'"amafaranga y'ubuhinga bwa none yihishije"  kumugambi wiwe "DigiCash" mumyaka ya 1980. Ariko, bivuye kuntambamyi nyinshi, DigiCash ntiyigeze itera imbere.
 
 
-Ikindi kintu gihambaye ni "amahera B" ya Wei Dai. Naho nyene ritarigeze rishirwa mu ngiro, ryarashizeho iciyumviro c’amahera y’ubuhinga bwa none atazwi aho gutahura ubusuma vyakorwa n’umuryango w’abagenzuzi aho gukorwa n’ubuyobozi bukuru.
+Uwundi mukurambere kirumara  "B-money" ya Wei Dai. Naho nyene itigezwe ishirwa mungiro, yarerekanye iciyumviro c'amafaranga y'ubuhinga bwa none aho ifatwa ryibidaca mumategeko vyakorwa n'umugwi w'abasuzuma ahogukorwa n'ubutungane bw'igihugu.
 
-
-Ishusho iri musi yerekana neza ingene uwo muhari wateye imbere biciye mu buhinga bwinshi bwawo.
+Ishusho riri musi ryerekana neza iterambere ry'uwo muhari biciye mubuhinga bwinshi buhinyanyuwe.
 
 
 ![image](assets/en/05.webp)
 
 
-Muri ivyo bidukikije vyiza ni ho uwo munyamabanga Satoshi Nakamoto yasohoye igitabu cera ca Bitcoin mu 2008. Muri iyo nyandiko, yashize hamwe ivyiyumviro vyinshi bivuye mu muhari wa Cypherpunk, nka Proof of Work n’ibimenyetso vy’igihe vy’ubuhinga bwa none, kugira ngo haboneke ubuhinga bwo guhangana n’ubuhinga bwa none kandi bushobora gucengera amafaranga.
+Hari mukirere kimeze neza aho umuyoberabahinga Satoshi Nakamoto yashira kumugaragaro the Bitcoin whitepaper mu 2008. Murizino nyandiko yashizehamwe ivyiyumviro vyinshi biva mumuhari wa Cypherpunk, nk'uguhembera uwakoze, nk'ikidodo kiri mubuhinga bw'inyandiko zinyegeje, nk'ukurema amafaranga y'ubuhinga bwanone adafatirwa ibihano kandi atawuyagenzura.
 
 
-Ariko rero, Bitcoin yari irenze ivyo gusa: yari igereranya ugushika ku vyiyumviro vya Cypherpunk. Uretse ubuhinga bwayo, ryari ikigereranyo c’ihinduka ry’imirongo ngenderwako y’ivy’ubutunzi kandi ryari ritanga ubundi buryo bushingiye ku gukorera mu mucyo, kwegereza ubutegetsi abaturage, no ku busegaba bw’umuntu ku giti ciwe.
+Nubwo biruko, Bitcoin yari irenze ivyo gusa: yerekanye ivyashoboye kurangurwa n'ivyiyumviro vya Cypherpunk. Ivyiyongera kubuhinga bwayo, yarabaye ikigereranyo c'ukwibohora kunzego zigenzura ubutunzi za kera hama yaratanze ayandi mahitamwo yubakiye kumuco, ukutagenzurwa, n'ubwigenge bw'abantu.
 
 
-### Iciyumviro
+### Ugusozera 
 
 
-Amateka y’imbere ya Bitcoin ashinze imizi cane mu muhari wa Cypherpunk no mu kurondera hamwe umwidegemvyo mwinshi mu gihe c’ubuhinga bwa none. Mu guhuza ingingo ngenderwako z’ubuhinga bwo gukingira amakuru, ukwegereza ubutegetsi abantu bose, n’ubunyankamugayo, Bitcoin yaracitse ikintu kirenze cane amafaranga. Nkako, ni ingaruka y’ihinduka ry’ubuhinga bwa filozofiya n’iry’ubuhinga riguma rihindura isi yacu.
+Imbere yakahise ka Bitcoin gafise imizi mumuhari wa Cypherpunk no mu kurondera hamwe umwidegemvyo mwinshi mu gihe c’ubuhinga bwa none. Mu guhuza ingingo ngenderwako z’ubuhinga bwo gukingira amakuru, ukwegereza ubutegetsi abantu bose, n’ubunyankamugayo, Bitcoin yaracitse ikintu kirenze cane amafaranga. Nkako, ni ingaruka y’ihinduka ry’ubuhinga bwa filozofiya n’iry’ubuhinga riguma rihindura isi yacu.
 
 
 Rero, Bitcoin ni umurongo ufata igihe kirekire, kandi uturemesha kwibaza ubucuti dufitaniye n’inguvu, umwanya n’amahera.
