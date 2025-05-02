@@ -193,16 +193,15 @@ Ariko rero, Bitcoin yari irenze ivyo gusa: yari igereranya ugushika ku vyiyumvir
 ### Iciyumviro
 
 
-Amateka y’imbere ya Bitcoin ashinze imizi cane mu muhari wa Cypherpunk no mu kurondera hamwe umwidegemvyo mwinshi mu gihe c’ubuhinga bwa none. Mu guhuza ingingo ngenderwako z’ubuhinga bwo gukingira amakuru, ukwegereza ubutegetsi abantu bose, n’ubunyankamugayo, Bitcoin yaracitse ikintu kirenze cane amafaranga. Nkako, ni ingaruka y’ihinduka ry’ubuhinga bwa filozofiya n’iry’ubuhinga riguma rihindura isi yacu.
+Amateka y’imbere ya Bitcoin ashinze imizi cane mu muhari wa Cypherpunk hamwe n'ukurondera ubwigenge bwinshi mugihe c'isi y'ubuhinga bwa none. Mugushira hamwe amategekongenderwako y'ubuhinga bwokunyegeza inkuru, ukwegereza ubutegetsi abantu bose, hamwe n'ukudahengama, Bitcoin yaracitse ikintu gisumba amafaranga. Ariko, n'igikorwa cavuye kwihinduka y'ivyiyumviro, n'ubuhinga bibandanya gihindura isi yacu.   
 
 
-Rero, Bitcoin ni umurongo ufata igihe kirekire, kandi uturemesha kwibaza ubucuti dufitaniye n’inguvu, umwanya n’amahera.
+Ariko, Bitcoin n'urukwirikirane rufata igihe kirekire, kandi rudutuma intege kwibaza ubucuti dufitaniye n'inguvu, umwany, hamwe n'amahera.
 
 
-Ariko none, Bitcoin yoba ari amafaranga "y'ukuri"? Kugira ngo ivyo tubitahure, turakeneye ubwa mbere gutahura iciyumviro c’amahera n’uburyo bwayo butandukanye, ivyo tuzobitohoza mu kigabane gikurikira.
+Nubwo biruko, Bitcoin yoba ari amafaranga "vy'ukuri" ? kugira ngo ivyo tuzobitahure, ubwambere turakeneye gutahura iciyumviro c'amafaranga n'imigwi yayo, ivyo tuzorabira hamwe mukigabane gikwirikira.
 
-
-Niba ushaka gutohoza amateka ya Bitcoin mu buryo burambuye, turagusavye cane kwiga inyigisho yacu ya HIS 201, aho uzobona inkomoko ya Bitcoin n’ukuntu yaje buhoro buhoro, hamwe n’intango y’amateka yayo n’imibano yayo. Iryo shure ryanditswe neza kandi ryakomotse, rifise, birumvikana, inkuru nyinshi z’uruhererekane:
+Niba ushaka gutahura Bitcoin mumajambo aramvuye, turagutumiriye cane kwiga icigwa cacu ca HIS 201, aho uzovumbura inkomoko ya Bitcoin, uko yagiye iraja ahagaragara, hamwe n'intango yakahise kayo hamwe n'umuryango wayo. Kino cirwa canditswe neza kandi caragiriwe ubushakashatsi, hamwe, birumvikana,  n'inkuru zitandukanye :
 
 
 https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
@@ -219,47 +218,46 @@ https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 <chapterId>c838e64d-d59f-5703-8c74-ea5e8c4fdd31</chapterId>
 
 
-Ugutera imbere kw’amahera ni ikintu gishimishije cane muri kahise k’abantu kigaragaza ubuhinga bw’amahanga mu bihe vyose mu gushitsa ivyipfuzo vy’ubutunzi biguma bihinduka.
+Iterambere ry'amafaranga n'ikintu cakahise yakiremwa muntu gitangaje cane cerekana ubuhinga n'iterambere y'ibihe vyagiye birahura n'ibikenewe mubutunzi.
 
 
 ![image](assets/en/06.webp)
 
 
-### Kuva ku bikoko gushika ku makonti ya banki
+### Kuva ku bikoko gushika kubushinguzi bwa banki
 
+Mu ntango, amafaranga yari  umutungo ushobora gukorako, nk'intete, ibitungwa, canke ikindi kidandazwa. Ariko rero, bino bintuvyose vyari bifise intambamyi nyamukuru yuko bishobora kwononekara, ivyo bikaba vyatuma bigorana kubikoresha nk’uburyo bwo kuziganya kukiringo kirekire. Nk’akarorero, umusaruro udashimishije canke indwara z'ibikoko vyoshobora gusenyura ubutunzi bw’umuntu mw’ijoro rimwe.
 
-Mu ntango, amafaranga yari umutungo ufatika, nk'intete, amatungo, canke ikindi kintu. Ariko rero, ivyo bintu vyari bifise akaga gakomeye k’uko vyari bishobora kwonona, ivyo bikaba vyatuma bigorana kubikoresha nk’uburyo bwo kuzigama igihe kirekire. Nk’akarorero, umwimbu mubi canke indwara y’ibikoko vyoshobora gusenyura ubutunzi bw’umuntu mw’ijoro rimwe.
-
-Gutyo, uko amahanga yatera imbere kandi ubudandaji bukaja mu turere tushasha, ni ko hakenerwa ko habaho uburyo bwo gukoresha Exchange bwo kw’isi yose. Abantu ku giti cabo barabanje kugerageza ibintu nk’ibikoko vyo mu mazi n’amabuye y’agaciro, ariko ntivyari bikomeye canke ngo bibe bike nk’uko bavyizera. Amaherezo, inzahabu ni yo yacitse ikigereranyo, kubera ukuntu idakunze kuboneka, iramba, kandi igabanywa. Yari, kandi iracariho gushika n’uyu musi, ikimenyetso c’ubutunzi n’ububasha.
+Gutyo, uko iterambere ryagiyerija imbere urudandazwa ruraguka mubundi burere bushasha, ni ko hakenerwa ko habaho uburyo bwo gukoresha muguhanahana ibidandazwa kwisi yose. Ubwambere abantu baca baratangura kugerageza ibikoresho nk'ibikoko vyo kumazi hamwe n'amabuye y'agaciro, ariko ntabwo vyigeze bigira uburambe canke ngo bibe ivyagaciro nkuko bavyizera. Vyarangiye, inzahabu ni yo yacitse icitegerezo, bivuye kukuntu ukuntu idakunze kuboneka, iramba, kandi ishobora kugabanywa . Yari, kandi iracariho gushika n’uyu musi, ikigereranyo c’ubutunzi n’ububasha.
 
 
 ![image](assets/en/07.webp)
 
 
-### None amahera afise uruhara uruhe?
+### N'akahe kamaro k'amafaranga ?
 
 
-Amahera ni igikoresho gikomeye cane co guhanahana amakuru:
-
-
-
-- Bituma habaho uguhanahana amakuru hagati y’ubu n’ivyo muri kazoza, kuko bihindura umwanya wacu n’inguvu zacu bikagira umutungo ushobora gusubira gukoreshwa mu gihe kizoza ata ngorane yo gutakaza agaciro.
+Amahera ni igikoresho kiyobeye co guhanahana amakuru:
 
 
 
-- Bituma umuntu ashobora kuvugana mu rurimi rw’isi yose: batamenyana canke bavuga ururimi rumwe, abantu babiri batazi barashobora Exchange, gucuruza, no kwemeranya ku gaciro k’ibintu.
-
-
-Ico ikora mw’isi yacu kiragoye kwisubiriza mu buryo bw’ubuhinga. Nkako, nta muntu canke umugwi ushobora kurema amahera, kuko ari ikintu gisanzwe kigomba kuva mw’isoko no mu kwumvikana ku bushake. Muri ubwo buryo, ibiciro bikora nk’ibimenyetso n’ibice vy’amakuru biyobora igihugu mu gutanga ubutunzi.
-
-
-Kubera izo mpamvu, inzahabu nk’amahera ni ingaruka y’imyaka 4.000 y’ubuhinga bwa Darwin bw’amahera bushingiye ku bikorwa vya Aristote bikurikira:
+- Kiratuma habaho uguhanahana amakuru hagati ya kubu hamwe na kazoza, kuko bihindura umwanya wacu n’inguvu nkigikoresho gishobora gukoreshwa mu gihe kizoza ata ngorane yo gutakaza agaciro.
 
 
 
-- Ububiko bw’agaciro**: amahera arashobora gukoreshwa mu guhindura ubushobozi bwo kugura muri kazoza, rero arakeneye kuba ikintu kiramvye;
-- Medium of Exchange**: amahera ashobora gukoreshwa muri Exchange mu bicuruzwa n’ibikorwa aho guhinduranya, gutyo hakaba hariho uguhuza kw’ivyo abacuruzi bashaka;
-- Unit of account**: amahera na yo aratuma tugereranya agaciro k’ibintu bitandukanye kugira ngo dutahure neza ukuntu bimeze.
+- Biratuma uguhanahana amakuru mururimi rutahurwa n'isi yose vyoroha : wanashima batazinanye canke ngo bavuge ururimi rumwe, abanyamahanga barashobora guhanahana, bakandandaza, kandi bakemeranya agaciro k'ikintu.
+
+
+Akamaro kayo mw’isi yacu kiragoye gusubiriza mu buryo bw’ubuhinga. Ariko, nta muntu wenye canke umugwi woshobora kurema amahera, kuko ari ikintu gitegezwa kuba kivuye mw’isoko no mu kwumvikana ku bushake. Muri ubwo buryo, ibiciro bikora nk’ibimenyetso canke ibice vy'amakuru afasha kuyobora amahanga mugusabikanya ubutunzi.
+
+
+Kubera izo mpamvu, inzahabu nk’amahera ni ingaruka y’imyaka 4.000 y’ubuhinga bwa Darwin bw’amafaranga bishimikiye kubikorwa vyabanya Aristiote :
+
+
+
+- Ubushinguzi bw'agaciro**: amafaranga ashobora gukoreshwa mukurungika ubushobozi bwokugura ikintu muri kazoza, rero arakeneye kuba kiramba;
+- Urugero rwo guhindurirako**: amafaranga ashobora gukoreshwa mwihanahanwa ry'ibicuruzwa n'ubufasha aho guhinduranya, gutyo bigatuma hataberaho icarimwe iciyumvira cukwipfuza gusa hagati y'abadandaza; 
+- Ingero y'ikonte**: amafaranga aratuma kandi habaho ukugereranya agaciro k'ibintu bitandukanye kugira dutahure neza ukwo bimeze. 
 
 
 ![image](assets/en/08.webp)
@@ -272,30 +270,30 @@ Kubera izo mpamvu, inzahabu nk’amahera ni ingaruka y’imyaka 4.000 y’ubuhin
 ### Ibiranga amahera
 
 
-Inzahabu irahuye neza n’ingingo ngenderwako z’amahera akora neza: ukuntu ari gake cane bituma igira agaciro, mu gihe imiterere yayo y’imiti ituma idasenyuka uko igihe kigenda kirarenga. Ivyo bimenyetso vyatumye inzahabu iba **ububiko bukomeye bw’agaciro**, ariko si amafaranga rusangi, kuko ubwo buryo bw’amahera ntibworoha ko bugabanywa canke ngo butwarwe ku rugendo rurerure. Mu isi y’isi yose n’iy’ubuhinga bwa none, inzahabu iragorwa no kugendana n’iyindi kandi isaba ikigo nyamukuru kugira ngo igabanuke kandi ihindurwe bitagoranye (ni ukuvuga biciye mu biceri vy’amahera).
+Mubisanzwe inzahabu zirafise ivyangombwa bikwiye vy'afaranga akora neza: ukuntu udapfa kuyibona bituma igira agaciro, mu gihe uburanga bwayo bwemezako itononekara nagato uko hahera igihe. Ivyo bimenyetso vyatumye inzahabu iba **ububiko bukomeye bw’agaciro**, ariko atari amafaranga rusangi, kuko ubwo buryo bw’amahera ntibworoha kugabura  canke ngo kwunguruzwa ku rugendo rurerure. Murinosi yiyunze kandi y'ubuhinga bwa none, inzahabu iragira ingorane yo kugumana agaciro kayo kandi irakeneye urwego ruyobowe ruyituma igaburwa kandi yoroha guhanahana (akarorero : biciye mubiceri vy'amahera)
 
 
-Ku rundi ruhande, amafaranga y’igihugu (fiat) arakoreshwa bitagoranye, ariko aguma agabanywa agaciro n’inzego ziyagenzura (abami, amabanki akomeye, abami b’abami, abanyagitugu).
+Ku rundi ruhande, amafaranga y’igihugu yizewe (fiat) aroroshe kugabura, ariko aguma atandukanywa n'inzego ziyagenzura (abami, amabanki y'ibihugu, abami b’abami, abanyagitugu).
 
 
-Kugira ngo dusigure neza ico ciyumviro, turaza gutohoza ibiranga amafaranga akora neza:
+Mugusigura bino vyiyumviro neza, turaza kurabira hamwe ibimenyetso vy'amahera akora neza : 
 
 
 ![image](assets/en/11.webp)
 
 
 
-- Fungibility**, bisobanura ko ishobora guhindurwa n’ikindi gice c’ubwoko bumwe ataco itakaje agaciro;
-- Ugucapura**, kuko bishobora gucagurwa mu bice bitobito kugira ngo bishobore kworohereza ibikorwa vy’ubudandaji vy’ingero zitandukanye;
-- Liquidité**, bisobanura ko bishobora guhindurwa bitagoranye bikaba ibicuruzwa canke ibikorwa.
+- Uguhindura**, bisigurako ushobora kuyahindura n'ayandi asanzwe ameze kumwe adatakaje agaciro; 
+- Ukugaburika**, nkuko ashobora kugaburika muduce dutoduto kugirango afashe kworohereza ibikorwa vy'uguhanahana vy'ingero zitandukanye; 
+- Amahera y'ibipapuro**, bisigura ko ashobora guhindurwa vyoroshe mubicuruzwa canke ubufasha.
 
 
-Kugira ngo bishike kuri ivyo bipimo, amafaranga yarateye imbere mu mateka mu gutera intambwe zitandukanye:
+Kugira ngo bishike kuri ivyo bipimo, amafaranga yarateye imbere muri kahise mu gutera intambwe zitandukanye:
 
 
 
-- Ibuye ry'ibitoke -> Igiceri
-- Amanoti ya banki -> ikarita ya banki
+- Ibuye ry'agaciro -> Igiceri
+- Amanoti ya banki -> ikarata ya banki
 - Blockchain -> Lightning Network
 
 
