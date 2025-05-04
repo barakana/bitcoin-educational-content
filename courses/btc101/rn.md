@@ -299,63 +299,61 @@ Kugira ngo bishike kuri ivyo bipimo, amafaranga yarateye imbere mu mateka mu gut
 - Blockchain -> Lightning Network
 
 
-Amafaranga aracariko arahinduka gushika n’uyu musi, ahindura uburyo bwayo kugira ngo ahure n’ibintu bitandukanye bikoreshwa. Nk’uko twabivuze, naho inzahabu ari ububiko bwiza cane bw’agaciro, ntigishobora gukoreshwa mu bukungu bw’isi yose buriho ubu. Navyo nyene, amafaranga y’ivy’ubutunzi nk’idolari n’amayero ni Liquid cane kandi ashobora gutwara bitagoranye kuko ubu ahanini ari ay’ubuhinga bwa none, ariko agaciro kayo kaguma kagabanywa n’ugutera imbere kw’amahera.
+Amafaranga aracariko arahinduka gushika n’uyu musi, arahindagurika uburyo ateyemwo kugira ngo ahure nuko abariko arakoreshwa. Nk’uko twabivuze, naho inzahabu ari ubushinguzi bwagaciro bwiza,, ariko ntibugihuriranye n'ubutunzi mpuzamakugu bw'ikigihe. Navyo nyene, amafaranga ashingiye kucizere twovuga nk'amadorari hamwe n'amayero aroroshe cane, kandi aroshobora gutwarwa vyoroshe kuko ubu menshi ari kubuhinga bwa none, ariko agaciro kayo karakunda kugabanurwa n'itakaza ryagaciro. 
 
 
-Ku rundi ruhande, Bitcoin iratanga uburyo bushasha bwo gukora. Ivyo ifise, nk’ivyo bita Supply bifise aho bigarukira cane, biyigira ububiko bwiza cane bw’agaciro. Ikindi kandi, nk’ifaranga rya internet ritagira aho ribogamiye, rikora nk’umurongo ushoboka wa **Exchange** urenga imipaka. Ariko rero, n’ubu nyene ntiryemerwa cane mu bucuruzi, naho [riguma ryemezwa](https://btcmap.org/map).
+Ku rundi ruhande, Bitcoin iratanga ubundi buryo bushasha bwo gukoresha. Uburanga bwayo, nk'igikoresho kihari kurugero ruharuye, buyituma iba ubushinguzi bw'agaciro bwiza. Ikindi, nk'amafaranga yokuri Internet ataho ahengamiye, arafasha nk'igikoresho c'**uguhanahana** gifasha kujabuka imbibe. Ariko rero, ntirashobora kwemerwa kurugezo runini murudandazwa, naho [riguma ryemezwa](https://btcmap.org/map).
 
 
-## Amafaranga y'ivyizigiro
+## Amafaranga ashingiye kubucuti
 
 
 <chapterId>25151d46-7db1-5b48-8bba-cbde1944555a</chapterId>
 
 
-> George Santayana ati: "Abadashobora kwibuka kahise baraciriwe urubanza rwo kubisubiramwo".
+> George Santayana ati: "Abadashobora kwibuka kahise bategezwa kuguma bagasubiramwo".
 
 Ukuri kuvuga cane iyo bishitse ku bijanye n’uburyo bw’amahera buriho ubu.
 
 
-### Ukwizigira = Ukwizigira
+### Fudiciary = Ukwizigira
 
 
-Muri iki gihe, amafaranga akomeye nk’Euro n’Idolari afatwa nk’ay’ivy’ubutunzi. Ivyo bisigura ko zitagira agaciro k’imbere kandi zivana rwose n’ukwizigira n’ukwizigira dushira mu nzego zizirongora.
+Muri iki gihe, amafaranga akomeye nk'amayero n'amadorari afatwa nk'ayashingiye kucizere. Ivyo bisigura ko atagira agaciro ka nyako kandi ashingiye yose kucizere hamwe n'ukwizigira dushira mubigo biyayoboye.
 
 
-Ifaranga ry’ubutunzi ni uburyo bw’amahera ategekwa n’ikigo, ni ukuvuga Leta, nk’Ubushinwa bufise Yuan, canke ubumwe bwa politike n’ubutunzi, nk’Ubumwe bw’Uburayi bufise Euro. Ikigo gijejwe gutanga iyo nkuru ni banki nkuru (Nk’akarorero, twovuga Banki Nkuru y’Ubushinwa, Banki Nkuru ya Leta Zunze Ubumwe za Amerika canke Banki Nkuru ya Repubulika ya Gineya). Ivyo bigo nyene ni vyo bijejwe gutegura politike y’amahera rero n’amahera akwiye gushirwa mu nzira canke gucapwa.
-
+Ifaranga ry’icizere n'uburyo bw'amahera ashirwaho n’ikigo, akarorero Leta, nk’Ubushinwa bufise Yuan, canke ubumwe bwa politike n’ubutunzi, nk’Ubumwe bw’Uburayi bufise Euro. Ikigo kijejwe kuyazigama n'ibanki nkuru (Nk’akarorero, twovuga Banki Nkuru y’Ubushinwa , Banki Nkuru ya Leta Zunze Ubumwe za Amerika canke Banki Nkuru ya Repubulika ya Gineya). N'ibibigo bishinzwe gushiraho amategeko agenga amahera, igitigiri c'amafaranga ashobora gushirwa mubantu canke akwiye gucapwa.
 
 ![image](assets/en/12.webp)
 
 
-### Gugabanya agaciro k’amahera: ubuhinga bwa kera nk’ubw’Ubwami bw’Uburoma
+### Kugabanuka kw'agaciro k'amahera: ubuhinga bwa kera nk’ubw’Ubwami bw'ubwami bw’Uburoma
 
 
-Kuva kera na rindi, inzahabu yarakoreshwa nk’ikigereranyo c’amahera, mugabo ukuntu yari ikomeye cane vyatumye kenshi abarongozi, baba abami b’abami b’Abaroma canke intwaro zo muri iki gihe, bafata ayandi mafaranga, akenshi akaba ari ay’amahera y’abanyagihugu.
+Kuva muri Antikite, inzahabu yakoreshwa nk'ikigereranyo c'amafaranga, mugabo ubukomezi bwayo bwatumye kenshi abarongozi, baba abami b’abami b’Abaroma canke inzego zo muri iki gihe, bemeza amafaranga yandi kenshi cane ayashingiye kucizere.
 
 
 Uburyo bwo kubikora burasanzwe kandi bushingiye ku migenzo yariho kuva mu ntango z’ubutekerezi. Abarongozi, kubera ko bafise umushasharo wo kugenzura ubutunzi, batangura gushiramwo inzahabu, akenshi bagakoresha ububasha bwabo kandi bagasezerana uburinzi n’umutekano. Bafise iyo nkuru y’agaciro, barazana amahera mashasha, angana n’agaciro k’inzahabu, mugabo akacukurwa mu gishushanyo cabo. Aya mafaranga aca atangura gukwiragira, kandi abantu baca bamenya ningoga ukuntu bimeze neza mu kuyakoresha mu buryo bworoshe.
 
 
-Ariko rero, abo barongozi baca batangura kugabanya agaciro k’ayo mafaranga mashasha mu buryo buhorobuhoro, de facto bagagabanya agaciro kayo n’ibice bikeyi kw’ijana buri mwaka ugereranije n’igiciro c’inzahabu ca mbere. Ukwo gusenyura agaciro k’ibintu mu gacerere akenshi gushingira intahe ko ari mu nyungu z’abantu. Mu vy’ukuri, abazigama muri ayo mafaranga y’ubutunzi babona ko agaciro k’ayo bazigamye kariko karagabanuka, mu gihe Leta itanga amahera y’imigambi yayo biciye mu gutera imbere kw’ibiciro. Ikindi kandi, iyo nzira y’ugucika intege ituma umwenda woroha kwishura.
-
+Ariko rero, abo barongozi baca batangura buhorobuhoro gutuma amafaranga mashasha atakaza agaciro, de facto bagagabanya agaciro kayo n’ibice bikeyi kw’ijana buri mwaka ugereranije n’igiciro c’inzahabu c'intanguro. Iryo gabanuka ry'agaciro kenshi risigurwako riri munyungu z'abanyagihugu. Mu vy’ukuri, abo baziganya murano mafaranga babona ubutunzi bwabo bugabanuka, mugihe ama leta aterera imigambi yayo biciye muririno takaza agaciro k'amahera . Iciyongeyeko, rino takaza agaciro ry'amahera rituma amadeni yoroha kuriha.
 
 ![image](assets/en/13.webp)
 
 
-Mu gihe gikomeye, umurongozi aratangaza: amafaranga ntagishigikiwe n’inzahabu. Abantu bose, ubu bamenyereye amafaranga y’ivy’ubutunzi kandi akenshi bamenyeshwa nabi ivyerekeye ivy’amahera, baravyemera, ivyo bikaba bituma Leta ishobora gukoresha amahera Supply mu mwidegemvyo, ikacapura amahera menshi cane hafi ata co itwara.
+Mu bihe bitoroshe, umurongozi aratangaza: amafaranga ntagihagarikiwe n’inzahabu. Abanyagihugu, ubu baremeye ano mafaranga ashingiye kucizere, kandi kenshi na kenshi bafise amakuru atariyo kuvyerekeye ingorane z'ubutunzi, bakemera kunokuri, bigatuma ama leta ashobora gukoresha amafaranga mumwidegemvyo uko ishaka, Igacapura amafaranga ishatse atagiciro nakimwe.
 
 
-Gucapura amahera rero bituma haba ugutera imbere kw’ibiciro, buhorobuhoro bikaba bituma abantu baba abakene. Vyongeye, urutonde rw’ivy’ubutunzi ruratunganijwe kandi rurabujijwe kugira ngo ntirusenyuke, kubera ko uguhungabana kwose kwoshobora gutuma haba ingorane ikomeye mu vy’ubutunzi. Mu buryo butandukanye n’abantu benshi, ibigo vy’imari n’abantu batunze baravyungukirako cane muri iyo nzira, ivyo bikaba bituma habaho ubusumbasumbane kandi bikaba bishigikira ubutegetsi bw’agahomerabunwa. Muri ivyo, ntibavyurirwa umutima wo guhindura cane, ivyo bikaba bituma urutonde rubandanya gushika aho rushobora gusenyuka.
+Amahera acapuwe agatuma haba itakaza ry'agaciro, hama bukebuke bigatuma abantu bagira ubukene. Iruhande, y'uko ubutunzi bwubatse buratunganijwe kandi burabujijwe gusenyurwa, kubera ko uguhungabana kwose kwoshobora gutuma haba ingorane zikomeye muvy'ubutunzi. Mubitandukanye narusangi, inzego zigenzura ubutunzi hamwe n'inyungu kubutunzi bw'abantu zirungukira cane kuri buno buryo, ivyo bikaba bituma habaho ubusumbasumbane bunini hamwe n'akamwana wamama kunzego. Muri icogihe, ntibarota bahindura ikintu nakimwe, bituma iyonyubako ibandanya uwomurindi gushika habaye itembagara.
 
 
-Iyo iyo nzira ishizwe mu ngiro neza, irashobora kumara imyaka mirongo. Ariko rero, birahambaye kumenya ko ugucika intege kw’agaciro vyihuta cane canke gutakaza icizigiro bishobora gutuma haba inflation nyinshi cane (raba igice gikurikira). Amateka yerekana ko idolari ryatakaje 98% vy’agaciro karyo mu myaka 100, euro 30% mu myaka 20, n’ipound sterling 99% kuva ryaremwa.
+Iyo iteguwe neza, bunoburyo bushobora kumara imyaka mirongo. Arikorero, n'ivyingirakamaro gutahurako ar'itakaza ry'agaciro canke itakaza ry'icizere rishobora kwerekeza kw'iduga ry'ibiciro rirenze (Turabibona mukigabane gikwirikira). Kahise karerekanako ama dorari yatakaje agaciro kubice 98% vy'agaciro kayo mumyaka 10, amayero 30% mumyaka 20, hamwe n'ama powundi siteriringi 99% kuva abayeho.
 
 
-Mu mpera, ayo mafaranga yoshobora kutagifitaniye isano n’inzahabu, nk’uko vyari ku biceri vy’Abaroma vyari ku mpera y’Ubwami, canke mbere akagabanywa akagira agaciro koroshe k’imibare, akatagira isano n’ukuri gufatika.
+Mu mpera, ayomahera ashobora kuba amaze igihe kinini ataho ahuriye n'inzahabu, ibisa n'ibiciro vy'aba Romani mumpera y'ubwo bwami bw'abami, canke wanashima akagabanywa akagira agaciro k'ibiharuro bikeyi, bigatandukana n'ukuri kuzwi. 
 
 
-Muri iki gihe, turiko turabona ihinduka rikomeye cane mu mateka. Idolari ryamaze igihe kirekire riganzwa, risa n’iririko riragabanuka, mu gihe inzahabu yo yatakaje uruhara rwayo nyamukuru. Turahagaze ku mbuga y’ingendo nshasha y’amahera, bitwibutsa ko ivyigwa vyo muri kahise kenshi bibagirana .
+Muri iki gihe, turiko turabona ihinduka rikomeye ryakahise. Idorari rimaze igihe kireki riganzwa, ribonneka nkiririkorirasenyuka, mugihe inzahabu yatakaje akamaro kayo nyamukuru. turahagaze mukiringo c'umuvuduko mushasha w'amafaranga, bitwibutsa y'uko inyigisho zakahise zikunda kwibagirwa kenshi. 
 
 
 ![image](assets/en/14.webp)
