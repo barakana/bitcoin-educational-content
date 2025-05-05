@@ -361,84 +361,82 @@ Muri iki gihe, turiko turabona ihinduka rikomeye cane mu mateka. Idolari ryamaze
 ![image](assets/en/14.webp)
 
 
-### Mbega Bitcoin ni umuti?
+### Bitcoin yoba ari inyishu ?
 
 
-Kubera ivyo bibanza, ihinduka rya Bitcoin ririko riratera imbere. Mu buryo butandukanye n’amafaranga ya kera, bisaba **ata muntu agira gatatu yizigirwa** kandi bigamije gutandukanya Leta n’amahera.
+Kubera ivyo bibanza, ihinduka rya Bitcoin ririko riraba rurangiranwa. Mu buryo butandukanye n’amafaranga ya kera, bisaba **ata muntu agira gatatu yumwizigirwa** kandi bigamije gutandukanya Leta n’amahera.
 
 
 ![image](assets/en/15.webp)
 
 
-Nkako, Bitcoin yiyerekana nk’inyishu y’izo ngorane z’urutonde mu gutanga umuti wegerejwe n’uburyo bushasha bw’amahera buhuye. Mu mateka, nimba inzahabu yarakunzwe nk’amahera kubera ko idashobora kwigana, Bitcoin na yo nyene ntishobora kwihenda. Ikindi kandi, ishobora gushika ku miriyoni 21, kubera ko ikoreshwa n’abantu benshi kandi ikaba ifise ubuhinga bwo gukingira amakuru. Bitcoin ni ifaranga ryishimikije uguseruka no kutagira aho ribogamiye, ritanga ubundi buryo bukwegera abantu ku bijanye n’uburyo bw’amahera bukoreshwa ubu.
-
+Ariko, Bitcoin yiyerekana nk’inyishu kuri bino bibazo vy'urukwirikirane, ugushikiriza inyishu zigenga hamwe n'ingengantwaro y'amahera nshasha itandukanye n'iyahahora. muri kahise, nimba inzahabu yarakunzwe nk’amahera kubera ko idashobora kwiganwe , Bitcoin nayo nyene ntishobora kwiganwa. Iciyongeyeko, iri kurugero ntarengwa rw'imiriyoni 21, bivuye kukuntu yigenga nakamere kayo kokunyegeza amakuru. Bitcoin ni ifaranga ishimikiye k'umuco hamwe nokutagira aho rihengamiye, ritanga ubundi buryo kungenga ntwaro y'amafaranga ikoreshwa ubu.
 
 ![image](assets/en/16.webp)
 
 
-Iyindi mpamvu yatumye Bitcoin igira ico ikoze ni ukuza kw’amafaranga y’ubuhinga bwa none yo muri banki nkuru, canke CBDCs, ivyo bikaba bimeze nk’ibidashobora gukurwaho. Ubwo buryo bushasha bw’amahera bwotuma ubutunzi butegurwa cane, kandi bwoshobora gutuma abantu bagira umwidegemvyo mu vy’amahera no kworohereza ubutegetsi bw’agahomerabunwa.
+Iyindi mpamvu yatumye Bitcoin yirukirwa, n'ugushaka kwacane kw'ibanki nkuru gukoresha amafaranga yokuhinga bwanone, canke ama CBDCs bisa nkuko atawovyirengagiza. Buno buryo bushasha bw'amafaranga bwotuma ubutunzi bugenzurwa cane, kandi bwotuma icarimwe habura ubwigenge bw'ubutunzi no kworohereza intwaro y'agahotoro. 
 
-Turashobora gusozera iki gice n’amajambo yavuzwe n’umuhinga mu vy’ubuhinga bwa none yitwa F.A Hayek mu 1984:
+Turashobora gusozera kino kigabane n’amajambo yavuzwe n’uwatsindiye agashimwe ka Nobel muri 1984 yitwa F.A Hayek:
 
 
-> "Sinemera ko twosubira kuronka amahera meza, imbere y'uko dukura ico kintu mu maboko ya leta. Nimba tutashobora kubakura mu minwe ya leta ku nguvu, ico dushobora gukora n'ugushiramwo ikintu badashobora guhagarika."
+> "sinizerako twosubira kuronka amahera meza, tutarashobora gukura ico ico kintu mu maboko ya leta. Nimba tudashobora kubikura  mu minwe ya leta ku nguvu, ico dushobora gukora n'ugushiramwo ikintu badashobora guhagarika."
 
 Kugira ngo umenye vyinshi ku bijanye n’amakosa y’ubutunzi n’umwidegemvyo, turagutumiye kumenya inyigisho yacu ya ECO 102, ikurikirana ubuzima n’ivyiyumviro vya Frédéric Bastiat, umunyabwenge w’Umufaransa wo mu kinjana ca 19, ata gukeka ko yari gushima ukuza kwa Bitcoin:
 
 
 https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 
-## Ukwiyongera kw'ibiciro
+## Ukwiyongera kw'ibiciro vyacane
 
 
 <chapterId>b04c024c-54f3-50cb-997f-58721cfc74be</chapterId>
 
 
-Hyperinflation ni ikintu c’amahera kidasanzwe ku mafaranga y’amahera: kigaragazwa n’ugutakaza ukwizigira burundu amafaranga n’ukwiyongera cane kw’amahera bitewe n’icapa ry’amahera n’abategetsi. Ivyo bituma amahera abantu bazigamye ashobora gutakara mu kiringo gitoyi cane, bigatuma igihugu gishika ku ruhande rwo gusenyuka mu vy’ubutunzi, mu mibano no mu vya politike.
+Hyperinflation ni ikintu c’amahera cerekeye amafaranga ashingiye kucizere yonyene: Yerekanwa  n’ugutakaza ukwizigira burundu amafaranga n’ukwiyongera cane kw'ibiciro n’icapa ry’amahera n’abategetsi. Icobitanga, ukuziganya kw'abanyagihugu gutakaza agaciro kukiringo gito cane, bigatuma igihugu gishika ku ruhande rwo gusenyuka mu vy’ubutunzi, mu mibano no mu vya politike.
 
 
-### Inflation iriko iriruka cane!
+### Iduga ry'ibiciro ririko ririruka cane!
 
 
-Kugira ngo dutahure ingaruka z’ugutera imbere kw’ibiciro ku vyo tuzigama, turakeneye kwitwararika ibipimo bitandukanye vy’ugutera imbere kw’ibiciro.
+Kugira ngo dutahure ingaruka z'iduga ry'ibiciro kuvyo tuziganya, turakeneye kurabira hamwe ibipimo bitandukanye vy'iduga ry'ibiciro.
 
 
 
-- Iyo inflation iteye 2%, utakaza 2% vy’ubushobozi bwo kugura ku mwaka, ivyo bikaba bingana na 10% mu myaka 5.
-- Ufise 7%, utakaza igice cavyo mu myaka 10.
-- Ufise 20%, utakaza hafi igice cavyo mu myaka 3.
+- Iyo iduga ry'ibiciro ari irya 2 %, utakaza 2 % vy'ubushobozi bwokugura kumwaka, bituma habaho iya 10% mumyaka 5.
+- hari iya 7%, utakaza igice cavyo mu myaka 10.
+- Hari iya 20%, utakaza hafi igice cavyo mu myaka 3.
 
 
-Iyo hyperinflation ibaye, ntituba tugivuga 20% ku mwaka, ahubwo tuvuga 20% ku kwezi canke, iyo iri ku rwego rwo hejuru, mbere ku MUSI. Gushikirwa n’ugutera imbere kw’ibiciro 100% ku musi mu misi itatu ni ikintu nyaco cabaye kandi gikomeza kubaho mw’isi yacu.
+Iyo hari ugutakaza agaciro vyacane, ntituba tugivuga 20% ku mwaka, ahubwo tuvuga 20% ku kwezi canke, ukwirasa bwampi, mbere ku MUSI. Gushikirwa n'iduga ry'ibiciro 100% kumusi kukiringo c'imisi itatu nikintu gishobora gushika, cigeze kubaho kandi kibandanya kibaho mwisi yacu. 
 
 
-Ni ngombwa cane gutahura ko ugutera imbere cane kw’ibiciro kutaba ku mpanuka, ku bu kapitalizimu canke ku bitero vya politike biva ku barwanya ubutegetsi. Hyperinflation ni ingaruka zitaziguye z’ingingo mbi z’amahera zifatwa n’abakozi ba banki nkuru n’abanyapolitike. Inkurikizi zavyo zigira ico zikoze ku munyagihugu wese mbere zikagira ico zikoze ku bihe bizokurikira. Turagutumiye n’umutima mwiza ngo umare iminota itanu usoma imbonerahamwe ikurikira kugira ngo umenye neza ingaruka nyazo z’ico kintu (inyigisho ya ECO204 irarushiriza kwihweza iyo nkuru). Nk’uko ushobora kubibona, nta gihugu canke ifaranga bishobora kuba bifise umutekano.
+Ni ivy'akamaro gutahura ko idugary'ibiciro bidashika kubzw'impanuka, kubanyamitahe, canke kubitero vya poritike biva mubategetsi. iduga ryibiciro ryacane n'ingaruka z'amahitamwo mabi kumafaranga n'ama banki makuru hamwe n'abanya poritike. Inkurikizi zavyo ziba kubanyagihugu wanashima bikagira ingaruka kurunganwe rukwirikira. Turagutumiye n’umutima mwiza ngo umare iminota itanu usoma runo rubaho rukwirikira kugira ushobore kwihweza neza ingaruka nyazo zakinokintu  (icigwa ca ECO204 kirarushirizaho kwihweza iyo nkuru). Nk’uko ushobora kubibona, nta gihugu canke ifaranga bishobora kuba bifise umutekano.
 
 
 ![image](assets/en/17.webp)
 
 
-### Ni ibihe bice vy’ugutera imbere cane?
+### Ni ibihe bice vy’iduga ry'ibiciro?
 
 
 ![image](assets/en/18.webp)
 
 
-Kugira ngo hyperinflation ibeho, hari ibintu bimwebimwe bitegerezwa kuba.
+Kugira ngo iduga ry'ibiciro rirenze ribeho, hari ibintu bimwebimwe bitegerezwa kuba.
 
 
-Icigwa ca 1 - Gutakaza icizigiro
-
-
-
-- Gushira ububasha bw’amahera hamwe bituma habaho uguhingura amahera n’ukuyakoresha nabi. Muri ivyo, ibintu vyo hanze nk’intambara, politike za Leta, canke uguduga kw’ibiciro vy’ibintu nyamukuru — nk’ingano canke amavuta ya peteroli — birashobora gutuma haba ugutera imbere kw’ibiciro. Gutyo, umuntu arashobora gutakaza ukwizigira amahera, maze abantu bagatangura kwibaza aho amahera akomoka be n’ivyiza biva ku ngingo ngenderwako y’amahera itegekanijwe.
-
-
-Icigwa ca 2 - Amafaranga arasenyuka n'ukwiyongera kw'ibiciro
+Igice ca 1 - Gutakaza icizere
 
 
 
-- Uko intwaro zitakaza ububasha bwo kwizigira, abantu batangura gukoresha Exchange ku mafaranga yabo kugira ngo baronke ayandi ahagaze neza, nk’uko vyagenze muri Venezuela ku dolari y’Amerika. Ivyo bituma ibiciro vyiyongera, bikaba bituma haba uruziga rw’ububisha aho ibintu n’ibikorwa bigenda birazimvye. Kugira ngo Leta ishobore gushitsa ivyo bikenewe no gukosora politike y’amahera, iracapura amahera menshi, ivyo bikaba bituma haba ugutera imbere kw’ibiciro.
+- Gushira ububasha bw’amahera hamwe bituma habaho uguhingura amahera n’ukuyakoresha nabi. Muriki gihe , imvo ziva hanze nk'ingwano, amategeko ya Leta, canke iduga ry'ibiciro ry'ibintu ngirakamaro — nk’ingano canke amavuta y'igitoro — bishoora gutuma haba iduga ry'ibiciro . Gutyo, itakaza ry'icizere mw'ifaranga rigashobora kuduga, hama abantu bagatangura kwibaza inkomoko y'amahera hamwe n'akamaro kogushiraho amategeko y'amafaranga.
+
+
+Igice ca 2 - Ifaranga rirasenyuka hama ibiciro bikaduga
+
+
+- Uko intwaro zitakaza ububasha kucizere, abantu batangura kuguza amafaranga yabo kugira baronka ayandi afise agaciro gukoresha Exchange ku mafaranga yabo kugira ngo baronke ayandi ahagaze neza, nk’uko vyagenze muri Venezuela ku dolari y’Amerika. Ivyo bituma ibiciro vyiyongera, bikaba bituma haba uruziga rw’ububisha aho ibintu n’ibikorwa bigenda birazimvye. Kugira ngo Leta ishobore gushitsa ivyo bikenewe no gukosora politike y’amahera, iracapura amahera menshi, ivyo bikaba bituma haba ugutera imbere kw’ibiciro.
 
 
 Icigwa ca 3 - Uruziga rubi rwo gucapura amafaranga
