@@ -427,57 +427,54 @@ Ni ngombwa cane gutahura ko ugutera imbere cane kw’ibiciro kutaba ku mpanuka, 
 Kugira ngo hyperinflation ibeho, hari ibintu bimwebimwe bitegerezwa kuba.
 
 
-Icigwa ca 1 - Gutakaza icizigiro
+Ikiringo ca 1 - Gutakaza icizigiro
 
 
 
 - Gushira ububasha bw’amahera hamwe bituma habaho uguhingura amahera n’ukuyakoresha nabi. Muri ivyo, ibintu vyo hanze nk’intambara, politike za Leta, canke uguduga kw’ibiciro vy’ibintu nyamukuru — nk’ingano canke amavuta ya peteroli — birashobora gutuma haba ugutera imbere kw’ibiciro. Gutyo, umuntu arashobora gutakaza ukwizigira amahera, maze abantu bagatangura kwibaza aho amahera akomoka be n’ivyiza biva ku ngingo ngenderwako y’amahera itegekanijwe.
 
 
-Icigwa ca 2 - Amafaranga arasenyuka n'ukwiyongera kw'ibiciro
+Ikiringo ca 2 - Amahera arasenyuka hama biciro bikaduga 
 
 
 
-- Uko intwaro zitakaza ububasha bwo kwizigira, abantu batangura gukoresha Exchange ku mafaranga yabo kugira ngo baronke ayandi ahagaze neza, nk’uko vyagenze muri Venezuela ku dolari y’Amerika. Ivyo bituma ibiciro vyiyongera, bikaba bituma haba uruziga rw’ububisha aho ibintu n’ibikorwa bigenda birazimvye. Kugira ngo Leta ishobore gushitsa ivyo bikenewe no gukosora politike y’amahera, iracapura amahera menshi, ivyo bikaba bituma haba ugutera imbere kw’ibiciro.
+- Uko intwaro zitakaza ububasha kucizere  , abantu batangura guhindura amaranga yabo muyandi afise agaciro, nk'ivyigeze gushika muri Venezuela kuma dorari yomuri Leta zunze ubumwe bwa Amerika. Ibi bihe vyerekeza kwiduga ry'ibiciro, bigashiraho uruhererekane aho ibintu hamwe n'ibufasha bitera bizimba. Kugira ngo Leta ishobore gushitsa ivyo bikenewe no gukosora amategeko agenga amafaranga, Igihugu gica gicapura amafaranga menshi bigatuma haba iduga ry'ibiciro ryirasa bwampi .
 
 
-Icigwa ca 3 - Uruziga rubi rwo gucapura amafaranga
+Ikiringo ca 3 - Umuzingi udahera wo gucapura amafaranga
 
 
-
-- Gutyo, hakenerwa amafaranga menshi cane kugira ngo umuntu agure ibintu, ivyo bikaba bituma amahera y’impapuro abura. Mu kwishura, intwaro zicapura amafaranga menshi, ivyo bikaba bituma mbere n’ugutera imbere kw’ibiciro kurushirizaho.
+- Gutyo, amafaranga menshi kandi menshi cane arakenerwa mukugura ibintu, ibituma ibura ry'amafaranga y'ibipapuro. Nk'inyishu, intwaro ica icapura amahera menshi ibituma habaho iduga ry'ibiciro kurushirizaho.
 
 
 ![image](assets/en/19.webp)
 
 
-Icigwa ca 4 - Guseruka kw'ifaranga rishasha
+Ikiringo ca 4 - Ugukenerwa kw'ifaranga rishasha
 
 
 
-- Hanyuma hashirwaho amafaranga mashasha asubirira aya kera, kugira ngo hakurweho uruzitiro rw’ugutera imbere kw’ibiciro mu gushiramwo ubugenzuzi bukomeye butariho ku mafaranga ya kera yemewe n’amategeko.
+- Ifaranga rishasha rirashirwaho kugira risubirire iryakera, kugirango risenyure umuzingi w'iduga ry'ibiciro mugushiraho amategeko nugushiramwo ubugenzuzi bukomeye butariho ku mahera yakera yemewe n'amategeko. 
+
+Mugutorera inyishu ingorane z'iduga ry'ibiciro rirenze kenshi gashoboka risaba ihinduka rikomeye, nk'imyigaragamvyo, nk'ihinduka ry'intwaro, abakora mumabanki bagahinduka n'ibindi vyinshi. Itakaza ry'agaciro, ifaranga rigasenyuka , no gusubira kwubaka n'ibiringo bihambaye mukuvyura ubutunzi bwubakiye kumafarana ashimikiye kucizere. 
 
 
-Gutorera umuti ingorane y’ugutera imbere kw’ibiciro kenshi bisaba amahinduka akomeye, nk’amahinduka, guhindura intwaro, guhindura abakozi ba banki nkuru, n’ibindi. Gutakaza icizigiro, gusenyuka kw’amahera, no gusubira kwubaka ni ibice bihambaye vyo kuvyura ubutunzi bushingiye ku mafaranga y’amahera.
-
-
-### Ingero zitatu zihambaye
+### Uburorero butatu bwibonekeza
 
 
 
 - Ubudage, kuva mu 1922-1923.
 
 
-Imwe mu ngero zikomeye cane z'ugutera imbere kw'ibiciro vyabaye muri Repubulika y'Ubudage yitwa Weimar inyuma y'intambara ya mbere y'isi yose.
+kamwe muburorero bukomeye cane bw'iduga ry'ibiciro ryabaye muri Repubirika y'ubudage muri Weimar inyuma y'ingwano yamberey'isi yose.  
 
 
-Ubudage bwari bwaguze amahera menshi cane kugira ngo bufashe mu ntambara. Ariko rero, Ubudage ntibwatsinzwe intambara gusa, ahubwo bwabwirijwe kwishura amamiliyaridi y’amadolari y’indishi. Ukwezi kwari gufise igipimo kinini c’ugutera imbere kw’ibiciro ni Ukwakira 1923, kwari ku rugero rwo hejuru rwa 29.500%, ivyo bikaba vyari bingana n’igipimo c’ugutera imbere kw’ibiciro c’ibice 20,9% ku musi. Ibiciro vyariyongereye kabiri inyuma y’imisi 3,7!
+Ubudage bwari bwaguranije amafaranga menshi kugira ngo buterere intambara. Ariko rero, Ubudage ntibwatsinzwe intambara gusa, ahubwo bwabwirijwe kwishura amamiliyaridi y’amadolari y’indishi. Ukwezi kw'igipimo kinini c'iduga ry'ibiciro n'ukwicumi 1923, vyari kurugero rwohejuru gushika 29,500% , ivyo bikaba vyari bingana n'iduga ry'ibiciro rishika kuri 20,9% kumusi. ibiciro vyariyongera incuro zibiri burimisi 3,7!
 
-Amafaranga y’Ubudage yaracitse ubusa ku buryo abanyagihugu bamwebamwe bahisemwo guturira amahera yabo y’impapuro aho guturira inkwi kuko mu vy’ukuri yari ahendutse. Biravugwa mbere yuko mu maresitora, abasuku bategerezwa gutangaza ibiciro vy’ibifungurwa buri minota 30 kugira ngo bamenye ko hariho ugutera imbere kw’ibiciro.
+Amafaranga y’Ubudage acika ayadakenewe gushika aho abenegihugu bamwebamwe bahitamwo guturira amafaranga yabo aho gucana inkwi kuko nivyo vyaribizimbutse . Biravugwa wanashimako muburiro, abazimana bavuga ibiciro buriminota 30 kugirango bamenyekpo hariho iduga ry'ibiciro. 
 
 
-Amaherezo, abategetsi barashizeho amahera mashasha, ashigikiwe n’imyenda y’Ubudage, Ubufaransa n’Ubwongereza, kandi ashigikiwe n’ubutaka bw’Ubudage.
-
+Mumpera, inzego zarashizeho amafaranga mashasha, ahagarikiwe n'imyenda y'ubudage, ubufaransa n'ubwongereza, kandi atanga ingwati nk'butaka bw'ubudage. 
 
 ![image](assets/en/20.webp)
 
