@@ -486,13 +486,12 @@ Amaherezo, abategetsi barashizeho amahera mashasha, ashigikiwe n’imyenda y’U
 - Hongiriya, 1945-1946
 
 
-Igihugu cashikiwe n’igihe kibi kuruta ibindi vyose c’ugutera imbere kw’ibiciro gushika ubu ni Hongiriya inyuma y’Intambara ya Kabiri y’Isi Yose.
+Igihugu cashikiwe n’igihe kibi kuruta ibindi vyose kw'idoga ry'ibiciro ni Hongiriya inyuma y'ingwano y'isi yose yakabiri.
+
+Hongiriya yisanze mugice c'abatsinzwe mumishamirano, hamwe n'ubushobozi bw'amahinguriro burasenyuka. Ukwezi igipimo c'iduga ry'ibiciro kurenze kwari ukwezi kwindwi muri 1946,  aho ibiciro vyadutse bitangaje ku rugero rwa 41.900.000.000.000.000%, bingana na 207% ku musi umwe. Ibiciro vyarigwizako incuro zibiri buri masaha 15 !
 
 
-Hongiriya yarisanze iri ku ruhande rwo gutsindwa muri iyo ntambara, ubushobozi bwayo bwo gukora ibintu vyinshi mu nganda bwarasenyutse. Ukwezi kwari gutera imbere cane ni muri Nyakanga 1946, aho ibiciro vyadutse bitangaje ku rugero rwa 41.900.000.000.000.000%, bingana na 207% ku musi. Ibiciro vyariyongereye kabiri amasaha 15 yose!
-
-
-Inoti ya nyuma yashizwe mu bikorwa yari iya Pengo y'amamiliyaridi miliyoni 100 (100.000.000.000.000.000) mu 1946.
+Inoti ya nyuma y'Ibanki yashizwe muruja n'uruza yari iya  Pengo y'amamiliyaridi miliyoni 100 (100.000.000.000.000.000) muri 1946.
 
 
 ![image](assets/en/21.webp)
@@ -502,27 +501,27 @@ Inoti ya nyuma yashizwe mu bikorwa yari iya Pengo y'amamiliyaridi miliyoni 100 (
 - Zimbabwe, 2007-2008
 
 
-Gushika mu mwaka w’2000, Zimbabwe yari yitunga hafi mu vyo yari ikeneye vyose kiretse amavuta.
+Gushika mu mwaka w’2000, Zimbabwe yari yarifise ibintu vyankenerwa vyikwije havuyemwo igitoro.
 
 
-Mu mwaka w’1997, idolari rya Zimbabwe ryaragabanutse n’ibice birenga 72% inyuma y’aho Leta yemeye guha abasirikare ba kera mu ntambara amahera angana n’amadolari y’Amerika miliyoni 450. Kubera ko leta itagira amahera nk’ayo mu vyo yakoresha, yaciye ifata ingingo yo gukoresha imashini y’icapa. Mu mwaka w’2005, inflation yashitse ku bice 586%, ariko igipimo cari hejuru hagati mu kwezi kwa 11 2008 n’igipimo kigereranywa n’ibice 79.600.000.000% ku kwezi.
+Mu mwaka w’1997, idolari ryaba nya Zimbabwe ryaratembagaye kurenza 72% inyuma y'aho Leta yemeye gushumbusha abahoze kurugamba amahera angana n'amadorari y'ama ny'Amerika miriyoni  450.  Kubera ko leta itari ifise amafaranga angana uko muvyo yakoresha, yaciye ihitamwi ingingo yo kuyacapura . Mu mwaka w’2005, iduga ry'ibiciro ryarashitse kubice 586%, ariko igipimo cari hejuru hagati mu kwezi kwa 11 2008 cari kugipimo kigereranywa n’ibice 79.600.000.000% ku kwezi.
 
 
-Muri Ruheshi 2007, Leta yari yaramaze gufata ingingo mu gushinga amategeko agenga ibiciro, ariko ico gikorwa ntaco cagize ku bukungu. Amaduka yarasahuwe mu vy’ukuri, kandi abacuruzi ntibari bagifise uburyo bwo gusubira gushiramwo ibintu mu maduka yabo.
+Muri Ruheshi 2007, intwaro yari yamaze kugira ico ikora mugutegeka igenzura ry'ibiciro, ariko kino gikorwa  nticigeze kigira ingaruka  kubutunzi. Amaduka yaratakaje agaciro mu y'ukuri, kandi abadandaza ntibari bagifise uburyo bwo gusubira gushiramwo ibintu mu maduka yabo.
 
 
-Muri Ndamukiza 2009, umushikiranganji w'ivy'imari yatangaje ko idolari rya Zimbabwe rizohagarara, yongera yemerera gukoresha amafaranga atandukanye y'amahanga mu bucuruzi. Amakonti yose yo muri banki, amapensiyo be n’ibigo vy’ivy’imari vyabonye amahera yabo yose agenda arahungabana mw’ijoro rimwe.
+Muri Ndamukiza 2009, umushikiranganji w'ivy'ubutunzi yarashize ahabona iDorari ry'ama nya Zimbabwe yongera ategekako amafaranmga mvamakungu akoreshwa murudandazwa. Amakonti yose yo muri banki, imishahara be n’ibigo vyivy'ubutunzi vyabonye ubutunzi bwabo butumuka mwijoro rimwe. 
 
 
 ![image](assets/en/15.webp)
 
 
-Mu gusozera, ugutera imbere cane kw’ibiciro biragira ingaruka zo gutuma agaciro k’amahera kagabanuka ningoga, bikaba bituma amafaranga azigamiwe agenda arasenyuka, n’ugutakaza icizigiro ku bijanye n’ubuhinga bw’amahera. Nk’uko Voltaire yigeze kubivuga, amafaranga y’amahera azokwama amaherezo atakaza agaciro kayo k’imbere maze akaja ku zero.
+Mugusozera, iduga ry'ibiciro rirenze rifise ingaruka ryogutuma agaciro k'amafaranga gatakara ningoga, bikerekeza kw'isenyuka ry'amafaranga yaziganijwe, hama n'itakaza ry'icizere kunyubako y'inzego z'ubutunzi. Nk’uko Voltaire yigeze guhanura, amafaranga ashingiye kucizere azokwama atakaza agaciro k'ibanza wanashima agashika nokubusa.
 
-Ifaranga ryishimikije uwundi muntu yizigirwa nk’ikigo c’ivy’imari, mu bikorwa no mu gihe kirekire, ni ifaranga rifise ubumuga, kuko ridashobora gutanga ubushobozi bwo kugura canke ngo rizigame amahera yazigamye.
+Ifaranga ryishimikije ikindi gice cizigirwa nk'ikigo c'ubutunzi, mu bikorwa no mu gihe kirekire, ni ifaranga rifise , kuko ridashobora kwizeza ubushobozi bwo kugura canke ngo rizigame amahera yazigamye.
 
 
-Kugira ngo ushiremwo ivy’ugutera imbere cane kw’ibiciro, turagusavye kwiga inyigisho ya David St-Onge yitwa ECO 204, aho uzomenya ivyo inzinguzingu z’ugutera imbere kw’ibiciro ari vyo be n’ingaruka nyazo zigira ku buzima bwacu. Uzobona kandi ivyo izo nzira zisa n’izo, ikiruta vyose, ingene wozikingira.
+Kugirango utahure vyimbitse iduga ry'ibiciro rikomeye, turaguhamagarira icigwa ca ya David St-Onge citwa ECO 204, aho uzomenya iyariyo imizingi y'iduga ry'ibiciro hamwe n'ingaruka nyazo kubuzima bwacu. uzovumbura kandi ihwaniro ririhagati y'iyo mizingi hamwe, n'vyankenerwa hamwe nuko woyikingira. 
 
 
 https://planb.network/courses/caa75343-ac90-4249-bcca-0e2e57c3a0f1
@@ -533,28 +532,28 @@ https://planb.network/courses/caa75343-ac90-4249-bcca-0e2e57c3a0f1
 <chapterId>f4a06d76-1963-56fd-93ff-dfa41489bcde</chapterId>
 
 
-### Amategeko y'amahera ya Bitcoin
+### Amategeko agenga amafaranga ya Bitcoin
 
 
-Bitcoin ni amafaranga y’ubuhinga bwa none yegerejwe abantu bose afise umubare w’amafaranga **21 miliyoni**. Ico kiranga ubukene kigenwa n’itegeko ryaco rya mudasobwa kandi gikomezwa n’uguhuza kw’abakoresha bose bagize uruhara muri iyo porotokole.
+Bitcoin ni amafaranga y’ubuhinga bwa none atagira uwuyagenzura afise igitigiri cashizwehoc'ibice bingana n'  **miriyoni 21**. Ico kiranga ukutaboneka kwacane gushirwaho n'ama kode ya mudasobwa kandi igashimangirwa n'ukwemeza kw'abakoresha bose bagize uruhara muriryo hererekanwa.
 
 
 ![image](assets/en/22.webp)
 
 
-Ivyo bishobora kwerekanwa n’umurongo ugereranya urugero rw’ama bitcoins yaremwe mu gihe. Nk’akarorero, mu 2022, amafaranga ashika ku miriyoni 18,5 y’ama bitcoins yariko arakoreshwa. Ivyiyumviro vyerekana ko mu mwaka w’2025, hazoba ama bitcoins ashika ku miriyoni 19,5, bikaba bigereranya nk’ibice 93% vy’amahera yose ya Supply, kandi mu mwaka w’2037, uwo mubare uzoshika ku miriyoni 20,4.
+Ubukomezi bwayo bushobora kwerekanwa n'umurongo ugereranya urugero rw'agaciro kashizweho mu gihe. Nk’akarorero, mu 2022, amafaranga yababa miriyoni 18,5 y’ama bitcoins yariko arakoreshwa. Ingereranyo zerekanako mu mwaka w'2025, hazoba ama bitcoins ashika ku miriyoni 19,5, bikaba bigereranya nk’ibice 93% vy’amahera yose akenerwa, kandi imbere y'umwaka w'2037, kino giharuro kizoshika kumiriyoni 20,4.
 
 
 ### None ama bitcoins mashasha aremwa gute?
 
 
-Ivyo kurema ama bitcoins mashasha ni ingaruka y’igikorwa ca Mining. Mu majambo make, abacukuzi b’amabuye y’agaciro barakoresha orodinateri zikomeye zitorera umuti ingorane zikomeye zo mu biharuro (Hash), zikaba zituma amafaranga yemezwa kandi akagira umutekano. Iyo ingorane itorewe umuti (canke Hash ibereye ibonetse), Miner yongerako igice gishasha c’ibikorwa ku Blockchain, Ledger yegerejwe kandi ikwiragijwe yandika ibikorwa vyose bikoreshwa ku rubuga. Blockchain ituma haba uguseruka n’umutekano, kuko igice cose gifitaniye isano n’ikibanza, bikaba bituma hafi bidashoboka guhindura amakuru ya kera ata n’umwe yemeranya n’urubuga.
+Ivyo kurema ama bitcoins mashasha ni ingaruka y’igikorwa c'ugucukura. Mu majambo make, abacukuzi bakoresha za mudasobwa zikomeye zitorera inyishu ingorane zikomeye zo mubiharuro ( Hash), zikaba zituma haba iyemezwa canke ugukingira ihanahanwa ry'amafaranga. Iyo ingorane itorewe inyishu (canke Hash ibonetse)  abacukuzi bongerako ipfundo rishasha kuri Blockchain, Ledger ataho igenzurirwa kandi isabikanijwe yuzuza ihererekana ry'amafaranga mumuryango. Blockchain ituma habaho umuco, hamwe n'umutekano,  kuko igice cose gifitaniye isano n’ikibanza, bikaba bituma hafi bidashoboka guhindura amakuru ya kera ata n’umwe yemeranya n’umuryango.
 
 
 ![image](assets/en/23.webp)
 
 
-Amaze gukora neza ico gikorwa, abacukuzi barahezagirwa mu gutanga ama bitcoins mashasha buri minota cumi. Iyi mpembo itegekanijwe guca igice c'amabuye 210.000, ni ukuvuga nk'imyaka ine yose (ikintu kizwi nka "Halving"), bikaba bituma umurongo w'ugutanga amahera ugira ishusho imeze nk'ingazi. Kubera ubwo buryo, birashobora kuvugwa mu biharuro ko uguhingura ama bitcoins mashasha bizohagarara mu mwaka w’2140, igihe umubare wose uzoshika ku rugero rwawo rw’imiliyoni 21.
+Inyuma yogukora kinogikorwa neza, abacukuzi bararonka impembo ivuye muma bitcoins mashasha buri minota cumi. Iyo mpembo yatateguwe yigabura na kabiri buri  mapfundo angana na 210.000, ibi biba n'imiburiburi mumyaka ine yose ( Umusi mukuru uzwi nka "Halving"), bivuye kuri buno buryo, birashobora kuvugwa mubiharuro ko uguhingura ama bitcoins mashasha bizohagarara mumwaka w'2140, igihe igiharuro cose kizoba cashitse kumpera y'imiriyoni 21. 
 
 
 | Halving Number | Block Height | BTC Reward After Halving  | Estimated BTC in Circulation After Halving |
@@ -580,20 +579,19 @@ Amaze gukora neza ico gikorwa, abacukuzi barahezagirwa mu gutanga ama bitcoins m
 | 19             | 3,990,000    | 0.000095367431640625 BTC  | 20,999,959.946 BTC                         |
 | 20             | 4,200,000    | 0.0000476837158203125 BTC | 20,999,979.973 BTC                         |
 
-Tuzosubira gusubira ku ciyumviro ca Mining mu buryo burambuye mu [kigabane ca Miner]
+Tuzosubira kuraba icigwa c'ugucukura mumajambo aramvuye mu  [kigabane ca Abacukuzi]
 
 
-### Kwemeza ubukene bwa digitale
+### Kwemeza uzimba rishingiye kubuhinga bwanone
 
 
-Igitigiri c’imiliyoni 21 ni co gishingiyeko ubukene bwa Bitcoin, kandi gishingiye ku buryo bubiri nyamukuru: uguhindura ingorane za Mining n’inyigisho y’urukino.
+Urugero rw'imiliyoni 21 nico ibura rya Bitcoin rishimikiyeko, kandi rishingiye ku buryo bubiri nyamukuru: uguhindura ingorane z'ugucukura n'urukino rw'ivyiyumviro. 
 
 
 
-- Ivyo guhindura ingorane za Mining ni igikorwa gikorwa buri mabarabara y’umwaka wa 2016, canke nk’indwi zibiri, kugira ngo haboneke ko ibarabara rishasha ryongerwa kuri Blockchain buri minota cumi ku rugero rwa mwayeni. Ivyo bihe vy’uguhingura amabuye n’umubare wose w’amafaranga y’amafaranga (bitcoins) vyose ni ibintu bihoraho vy’amasezerano ya Bitcoin kandi ntibishobora guhindurwa ata n’umwe yemeranya muri rusangi, bitandukanye n’ingingo zifatwa ataco zitwaye mu mice y’amahera ya kera.
+- Ivyo guhindura ingorane z'ubucukuzi n'igikorwa kibaho buri amapfundo 2016, camke nk'indwi zibiri, kugira twiyemezeko ipfundo rishasha ryongrweko kuri blockchain buri minota cumi kurugero rwo hagati . Runo rukwirikirane rw'iremwa ry'amapfundo hamwe n'igitigiri cose c'ama bitcoins ntirushobora guhindugwa n'amasezerano ya Bitcoin kandi ntirushobora guhindurwa batemeranije bose muri rusangi, bitandukanye n'ingingo zifatwa atawe babajije muburyo bwakera bw'amafaranga. 
 
-
-Ingorane yo kuronka Hash ibereye ikurikira ubwoko bumwe bw’ingendo: iyo umubare w’abacukuzi wiyongera kandi amabuye menshi akaboneka ningoga, ivyo bituma igihe ca mwayeni co kuronka ibuye kigabanuka kandi rero ingorane iragwira. Ivyo bituma umubare w’amabuye abacukuzi basanga ugabanuka, ivyo bikaba bisobanura ko iyo nzira isubira ku giciro c’iminota 10 ku butaka. Raba ishusho iri musi kugira ngo ubone ivyo ubona.
+Ingorane yo kuronka Hash ibereye ikurikira unomuzingi:  iyo igitigiri c'abacukuzi kiduze hama imigwi imwe ikaba ifise ububangutsi, ivyo bituma igitigiri cohagati na hagati cokuronka  umurwi w'abacukuzi basanga ugabanuka, ivyo bikaba bisobanura ko iyo nzira isubira ku giciro c’iminota 10 ku butaka. mbasabe ishusho iri musi kugira ngo ubone ivyo ubona.
 
 
 ![image](assets/en/24.webp)
