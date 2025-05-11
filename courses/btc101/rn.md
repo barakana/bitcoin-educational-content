@@ -730,78 +730,73 @@ Naho imfunguruzo zawe zibitswe muri Wallet yawe, ama bitcoins ubwayo mu vy'ukuri
 ![image](assets/en/28.webp)
 
 
-Ikintu ciza ni uko kuva mu 2017, urufunguzo rw’ibanga rushobora guserukirwa n’urutonde rworoshe rw’amajambo 12 canke 24, azwi kw’izina rya ‘Mnemonic phrase, yoroshe cane kubika. Iri jambo rikora nk’igikoresho co gukingira amahera yawe kandi rigufasha gusubira kurema Wallet yawe ukoresheje porogarama canke porogarama iyo ari yo yose ya Bitcoin Wallet. Rero, uwuzoronka uru rutonde rw’amajambo arashobora gushika ku bitcoins zawe.
+Ikintu ciza nuko kuva mu 2017, urufunguruzo rw'ibanga rushobora kwandikwa murutonde rw'amajambo 12 canke 24, azwi kwizina rya 'Mnemonic phrase, yoroshe cane kubika. Rino ryungane ifasha nk'igikoresho co gukingira ubutunzi bwawe kandi igafasha gusubira guhingura ingodo yawe iyo ukoresha ingodo yariyo yose iba iyo porogarama canke apirikasiyo. Ariko rero, uwariwe wese ashoboye kuronka urutonde rw'amajambo ashobora gushikakuma bitcoins yawe.
 
 
-### None abasuma bo?
+### None abasuma bo gute ? 
 
-
-Bimeze gute iyo umuntu atekereje mu mpanuka urutonde rwacu rw’amajambo 12 canke 24? Inyishu ngufi ni uko bidashoboka cane, kubera ubuhinga bwo gukingira amakuru bwakoreshejwe mu guhingura Wallet. Kugira ngo tubishire mu buryo bubereye, kuvumbura mu mpanuka ijambo ryawe nyene rya Mnemonic bisa n'ukuronka umubare "ubereye" uri hagati ya 1 na $2^256$, ivyo bikaba bingana hafi no kuronka atome "ibereye" mu Sanzure ry'Ijuru. Ariko rero, nimba utanyuzwe n'uwo mutekano, urashobora kwama uwutera imbere mu kwongerako passphrase (ijambo ry'inyongera) kuri Bitcoin Wallet yawe.
+None nigiki kiba iyo umuntu ashoboye kwiyumvira urutonde rwacu rw'amajambo 12 canke 24? Inyishu ngufi nuko bigoye gushika, kubera ubuhinga bwogukingira amakuru bukoreshwa muguhingura ingodo. Kubishira muvyiyumviro gushobora kuvumbura mnemonic phrase nyene biragoye nko gutora igiharuro c'ukuri hagati ya 1 na $2^256$, bihakwa kungana n'ugutora agace gatoye cane "kukuri" mwisi n'ikirere hose. Ariko rero, nimba udashimishwa n'uwo mutekano, ushobora kwongerako agace k'iryungane (ijambo ryiyongerako) kungodo yawe ya Bitcoin. 
 
 
 ![image](assets/en/29.webp)
 
 
-Gutyo, ubushobozi bwo gutera Bitcoin Wallet yawe ni buke cane iyo ukurikije ingendo nziza zo gucungera umutekano tuzodondora mu buryo burambuye mu gice gikurikira.
+Gutyo, amahirwe yogushobora kwiba ingodo yawe y'ama Bitcoin nintoyicane gose iyo wakwirikiye neza uburyo bwokwikingira, ivyo duhva tudondangura ido n'indo mugace gakwirikira. 
 
 
-Gumana mu muzirikanyi guhitamwo Wallet ibereye ku vyo ukeneye no ku vyo ukoresha: inyigisho zitomoye ku bijanye no gucunga no gukingira amasakoshi atandukanye ziraboneka mu [gice c’inyigisho ca kaminuza yacu](https://planb.network/tutorials/Wallet).
+Ugumane kumuzirikanyi guhitamwo ingodo ibereye kuvyo ukeneye n'ivyo ukoresha: Ivyigwa kiramvuye cerekeye ugukoresha no gukingira ingodo zitandukanye birahari hano : [gice ci'ivyigwa vya kaminuza yacu](https://planb.network/tutorials/Wallet).
 
 
-Niba, mu rugendo rwawe rwo kumanuka mu mwobo w’inkwavu, ushaka kumenya vyinshi ku bijanye no kwubaka Bitcoin Wallet, kuva ku entropie gushika ku kwakira amaderesi, turagusavye inyigisho ya CYP 201 yihariye kuri iyi nsiguro:
-
+Niba, mu rugendo rwawe rwo kwiga vyimbitse, ushaka kumenya vyinshi ku bijanye no kwubaka ingodo za Bitcoin, kuva kuntango gushika kuronka amerekezo, turaguhimiriza icigwa ca CYP 201 cerekeye gusa ino nyigisho : 
 
 https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 
-## Bitcoin Amasakoshi n'Umutekano
+## Ingodo za Bitcoin n'umutekano
 
 
 <chapterId>00c1afea-e54a-511f-bab3-2efc2fbfa6a1</chapterId>
 
 
-### Kubaza ibibazo bikwiye imbere yo gutangura .
+### Kubaza ibibazo bikwiriye imbere yo gutangura .
 
 
-Iyo ufise ama bitcoins, umutekano w’amahera yawe ni ikintu gihambaye cane. Uburyo bwiza bwo gusobanura urugero rw’umutekano rubereye ivyawe ni ukwibaza urutonde rw’ibibazo:
+Iyo ufise ama bitcoins, umutekano w'ubutunzi bwawe n'ikintu nyamukuru. uburyo bwiza bwogushiraho urugero rw'umutekano rubereye n'ukwibaza urutonde rw'ibibazo bikwirikira: 
 
 
 
-- Ni nde yoshobora kuronka amahera yawe? Mu yandi majambo, woba ufise uburenganzira bwo gukoresha amahera yawe wenyene, canke uwundi muntu (nk’ishirahamwe) araguha uburenganzira bwo gukoresha amahera yawe?
-- None mutegura gute gukoresha ama bitcoins muri iyo Wallet nyene? Kenshi? Ku bijanye n’amahera yo kuzigama y’igihe giciye hagati, canke y’igihe kirekire?
-- None ubuhinga bwawe bwo mu vy’ubuhinga ni ubuhe?
-- None ingengo y’imari yawe y’umutekano ni iyihe?
+- Ninde yoshobora kuronka ububasha bwo gushikira ubutunzi bwawe ? Muyandi majambo, woba ufise uburenganzira bwo gukoresha amahera yawe wenyene, canke uwundi muntu (nk’ishirahamwe) araguha uburenganzira bwo gukoresha ubutunzi bwawe ?
+- Nigute mutegekanya gukoresha ama bitcins muriyo ngodo ? Incuro nyinshi ? kugihe kigereranye, canke kugihe kirekire c'ukuziganya ? 
+- N'ubwahe buhinga ufise ? 
+- N'amafaranga angahe agenewe umutekano ufise ?
 
-
-Mu vy’ukuri nta n’inyishu canke umuti wo kw’isi yose, rero fata umwanya wo kwishura ivyo bibazo, kuko bizofasha guhuza ingingo zawe zo kwirinda umutekano n’ivyo ukeneye.
-
+Muvyukuri nta nyishu canke umuti bihurirwako nabose, rero fata akanya mukwishura bino bibazo, kuko bizofasha mungingo z'umutekano ushaka. 
 
 ![image](assets/en/30.webp)
 
 
-### Kwiyumvira ivyerekeye amasakoshi ya Bitcoin mu bijanye n’ugusobanuka
+### Kwiyumvira ivyerekeye ingodo za Bitcoin kubijanye n'ukugorana
 
 
-Aha musi, turasigura ingero nyinshi z'umutekano:
+Hano musi, turasigura intambwe nyinshi z'umutekano: 
 
 
-
-- Urugero rwa 0**, ukoresha ivyo bita "service de custodial" aho atari wewe wenyene ufise amafaranga yawe ya bitcoins. Menya ko uwo muntu wa gatatu wizigirwa ashobora kugubuza gukoresha amahera yawe igihe cose. Muri ivyo, urugero rw’ubusegaba bwawe mu vy’amahera rusa n’urw’uburyo bwa kera bwo gukoresha banki bufise konti ya banki.
+- Intambwe y'0**, isanzwe yitwa  "Costudial service" aho aba atariwe ugaba ama bitcoins yawe. Umenyeko kino gice c'agatatu cizewe gishobora kukubuza gushikira imitahe yawe umwanya wariwe wese. murikino gihe, urugero rw'umutekano wawe muvy'ubutunzi biba bisa n'ubuhinga bw'amabanki bwakera hamwe na konti yawe ya banki. 
 
 
 ![image](assets/en/31.webp)
 
 
 
-- Urugero rwa 1**, ukoresha Bitcoin Wallet kuri telefone yawe canke kuri mudasobwa yawe, aho ari wewe wenyene ufise ama bitcoins yawe kandi ushobora gukora ibikorwa vyawe bitagoranye. Ico gikoresho twavuze haruguru citwa "Hot Wallet", kuko urufunguzo rw'ibanga rubikwa ku gikoresho gifise internet. Muri ivyo, birahambaye cane ko ukora backup y’ijambo ryawe rya Mnemonic kugira ngo wongere ubone amahera yawe mu gihe woba watakaje telefone yawe canke mudasobwa yawe.
+- Intambwe ya 1 **, Ushoora gukoresha ingodo za bitcoins kuri ngendanwa canke mudasobwa yawe, aho ushobora kuba ama bitcoins hama ugashobora kurungika n'ukwakira bitagoranye. Ico gikoresho twavuze haruguru citwa "Hot Wallet", kuko urufunguzo rw'ibanga rubikwa ku gikoresho gifise internet. Murikino gihe, birakenewe gukingira Mnemonic phrase kugirango ushobore gusubira kuronka ubutunzi bwawe mugihe utakaje ingendanwa canke mudasobwa yawe.
 
 
-Nk'akarorero, ushobora gukoresha igisiga Wallet nk'igisiga Hot:
+Nk'akarorero, ushobora gukoresha Sparrow Wallet nka hot wallet:
 
 
 https://planb.network/tutorials/wallet/desktop/sparrow-c674e2ac-d46f-4c82-92a7-7d1b0e262f5d
 
 
-- Urugero rwa 2**, ukoresha Wallet y’umubiri, kandi waracunze urutonde rwawe rw’amajambo 12/24. Akenshi yitwa "Cold Wallet" kuko imfunguruzo zawe zibikwa ku gikoresho kitari kuri internet. Muri ivyo, uzokwama ukeneye gusinya ku giciro cose ukoresheje igikoresho cawe, ivyo bikaba bituma amahera yawe adashobora gushikwako ku musi ku musi.
+- Intambwe ya 2**, ukoresha ingodo ngendanwa, hama waracunze urutonde rw'amajambo 12/24. Akenshi yitwa  "Cold Wallet" kuko imfunguruzo zawe zibikwa ku gikoresho kitari kuri internet. Muri unomwanya, uzokenera gukoresha buri rungika n'iyakira, ukoresheje icuma cawe ibituma ubutunzi bwawe bushikirwa gake kwikoreshwa kumusi kumusi.
 
 
 Nk’akarorero, woshobora gukoresha Ledger, Satochip canke Tapsigner:
@@ -817,10 +812,9 @@ https://planb.network/tutorials/wallet/hardware/tapsigner-ab2bcdf9-9509-4908-9a4
 
 
 
-- Urugero rwa 3**, ukoresha urugero rwa 1 canke 2 Wallet, ariko wongeyeko passphrase y'inyongera. Muri ivyo, menya neza ko ukeneye gusubiza inyuma urutonde rw'amajambo 12/24 **na** passphrase yawe. Ivyiza ni uko ayo makuru abiri yobikwa ahantu habiri hatandukanye.
+- Intambe ya 3**, ukoresha urugero rwa 1 canke 2 rw'ingodo, ariko ijambo rindi ry'umutekano. Murikino gihe, umenyeko ukeneye gukingira icarimwe urutonde rw'amajambo 12/24 **na** hamwe n'iryojambo ryawe. Muvy'ukuri tuno duce tw'amakuru tubikwa mubice bitandukanye 
 
-
-Kugira ngo umenye vyinshi ku bijanye n’ikoreshwa n’imikorere ya BIP39 passphrase:
+Kugira ngo umenye vyinshi ku bijanye n’ikoreshwa n’kora ry'ijambo y'ibanga BIP39:
 
 
 https://planb.network/tutorials/wallet/backup/passphrase-a26a0220-806c-44b4-af14-bafdeb1adce7
@@ -829,25 +823,25 @@ https://planb.network/tutorials/wallet/backup/passphrase-a26a0220-806c-44b4-af14
 
 
 
-- Urugero rwa 4**, ukoresha umugwi w'amasakoshi kugira ngo ukore "Multisig" Wallet, bisobanura ko bisaba imikono myinshi kugira ngo ukore igikorwa. Muri ivyo, numenye ko igice cose c’ico gitabu Multisig gikwiye kubikwa ahantu hatandukanye. Ubwo buryo akenshi bufatwa nk’uburyo buteye imbere bwo gukoresha Bitcoin, ahanini mu gucunga amahera menshi no mu ntumbero z’amashirahamwe.
+- Intambwe ya 4**, ukoresha umugwi w'ingodo kugira ngo ukore "Multisig" Wallet, bisigura ko bisaba imikono myinshi kugira ngo ukore igikorwa. Muri ivyo, numenye ko igice cose c’ico gitabu Multisig gikwiye kubikwa ahantu hatandukanye. Ubwo buryo akenshi bufatwa nk’uburyo buteye imbere bwo gukoresha Bitcoin, ahanini mu gucunga amahera menshi no mwihangiro ry'amashirahamwe.
 
 
 ![image](assets/en/34.webp)
 
 
-Ego ni ko, uburyo butandukanye bwo gukoresha na bwo busaba amasakoshi atandukanye ya Bitcoin, kandi nta muti umwe wo gutorera umuti vyose.
+Nivyo nyene, uburyo butandukanye bwo gukoresha na bwo busaba ingodo zitandukanye za Bitcoin, kandi ntanyishu imwe ikoreshwa kubibazo vyose. 
 
 
-### Umutekano utegerezwa guhindurwa
+### Umutekano utegerezwa guhindurwa bivanye n'ibikenewe
 
 
-Amahera umuntu yiteguriye gusiga ku rugero runaka rw’umutekano ava ku muntu ku giti ciwe. Ku bamwebamwe, gusiga BTC 1 kuri Hot Wallet birabereye, mu gihe, ku bandi, ari ibihushanye n’ivyo. Uko biri kwose, iyo ushaka gukingira amahera makeyi, turaguhanura kudakoresha amahera menshi cane ku gukingira mu kugura Wallet y’umubiri. Ikindi, uzirikane ko gutera ingorane cane umutekano n’ugushikira amafaranga yawe bishobora kuba bibi cane cane iyo ukoresheje nabi ama backups y’ama wallets yawe.
+Amafaranga umuntu ashobora gusiga ku rugero runaka rw’umutekano ava ku muntu ku giti ciwe. kuri bamwebamwe, gusiga BTC 1 kuri Hot Wallet birabereye, mu gihe, ku bandi, bitandukanye nivyo. Uko biri kwose, iyo ushaka gukingira amafaranga makeyi, turaguhanura kudakoresha amafaranga menshi cane mugukingira ukagura ingodo ngendanwa. Ikindi naco, uzirikane ko gukoresha ubuhinga buhanitse cane mumutekano n’ugushikira amafaranga yawe bishobora kuba bibi cane cane iyo ukoresheje nabi ugukingira ingodo zawe.
 
 
-Mu gusozera, Ownership itaziguye y’amahera y’umuntu ni ikintu gihambaye kugira ngo umuntu agire ubusegaba bw’ivy’ubutunzi. Ni vyiza gukoresha Wallet igendagenda kugira ngo ukoreshe amahera y’umusi ku musi be n’iyindi Wallet idakoreshwa kuri internet, canke "Cold," Wallet y’umubiri kugira ngo ubike amahera menshi. Ku rundi ruhande, ubucuruzi bukwiye kwiyumvira gukoresha uburyo bwo gusinya cane, canke "Multisig," kugira ngo umutekano wongerekane kandi usangiwe. Ni ngombwa kandi kwirinda ibikorwa vyo kubungabunga, bishobora gusubiramwo ubugoyagoye bumwebumwe bw’uburyo bw’ivy’ubutunzi bwa kera.
+Mu gusozera, gutunfga bwite amahera y’umuntu ni ikintu gihambaye kugira ngo umuntu agire ubwigenge bw’ivy’ubutunzi. Birahimirizwa gukoresha ingodo ngendanwa kugira ngo ukoreshe amahera y’umusi ku musi be n'iyindi ngodo idakoreshwakuri Internet, canke "Cold," Wallet y'icuma kugira ngo ubike amahera menshi. Ku rundi ruhande, ubucuruzi bukwiye kwiyumvira gukoresha uburyo bwo gusinya cane, canke "Multisig," kugira ngo umutekano wongerekane canke usabikanywe. Ni ngombwa kandi kwirinda ibikorwa vyo kubungabunga, bishobora gusubiramwo ubugoyagoye bumwebumwe bw’uburyo bw’ivy’ubutunzi bwa kera.
 
 
-Dufise ivyo mu muzirikanyi, ubu turashobora kuja mu gice gikurikira aho tudondora ingene twokora Bitcoin Wallet. Ariko rero, nimba wipfuza kurushiriza gutohoza ivyerekeye umutekano, urashobora gusoma iyi [ngingo yanditswe na DarthCoin](https://asi0.substack.com/p/Bitcoin).
+Dufise ivyo mu muzirikanyi, ubu turashobora kuja mu gice gikurikira aho tuvuga biramvuye ingene twokora ingodo za Bitcoin . Ariko rero, nimba wipfuza kurushiriza gutohoza ivyerekeye umutekano, urashobora gusoma iyi [ngingo yanditswe na DarthCoin](https://asi0.substack.com/p/Bitcoin).
 
 
 ## Gushinga Wallet
@@ -856,34 +850,33 @@ Dufise ivyo mu muzirikanyi, ubu turashobora kuja mu gice gikurikira aho tudondor
 <chapterId>615519eb-4565-557d-86a0-021badf7616f</chapterId>
 
 
-Umutekano w’ama bitcoins yawe urafise akamaro kanini cane, kandi ikosa ryoroshe rishobora kugira ingaruka mbi cane. Ni co gituma dukwiye kwiga uburyo bwiza bwo gukurikiza igihe dukora Bitcoin Wallet nshasha.
+Umutekano w’ama bitcoins yawe urafise akamaro kanini cane, kandi ikosa ritoyi gusa rishobora kugira ingaruka mbi cane. Niyo mpamvu dukwiye kwiga uburyo bwiza bwo gukwirikiza iyo turiko dukora ingodo ya Bitcoin nshasha. 
 
 
-Iyumvire ko inyigisho ya BTC102 izoguyobora muri iyo ntambwe.
+Nukuri ndagusavye ufatejo icirwa ca BTC102 kizokuyobora muriyo ntambwe.
 
 
 https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
 
-### Iyi ntambwe nta n’agatwengo!
+### Iyi ntambwe ntagufyina!
 
 
-Iyo ushizeho Wallet, porogarama akenshi irema urufunguzo rwawe rw'ibanga, akenshi rugereranywa n'urutonde rw'amajambo 12/24 (akenshi yitwa "seed phrase" canke "Mnemonic phrase"): ayo majambo ni yo agira uburenganzira bwo gushika ku mahera yawe. Iyo urwo rufunguzo rwigeze guhishurirwa uwundi muntu, ukwiye kubona ko amahera ajanye n’urwo yoshobora guhungabanywa. Ku bw’ivyo, igihe ushinga Wallet yawe, birahambaye ko ukurikiza aya mategeko:
+Iyo ukoze ingodo, inyabwonko akenshi irahingura urufunguzo rwawe rw'ibanga, akenshi rwandikwa murutonde rw'aamajambo 12/24 (akenshi yitwa "seed phrase" canke "Mnemonic phrase"): ayo majambo niyo atanga uruhusha rwo gushikira amafaranga yawe yawe. Iyo runo rufunguzo rushoboye kumenya uwundi muntu, ukwiye kubona ko amahera ajanye n’urwo yoshobora guhungabanywa. Ku bw’ivyo, igihe ukora ingodo yawe, birahambaye ko ukurikiza aya mategeko:
 
 
 
 - Fuka ama kamera yose.
-- Ntufate ifoto y’urutonde rw’amajambo.
-- Ntukishire kuri orodinateri canke kuri telefone.
-- Ntuyibike nk’umuntu wo guhamagara canke ngo uyirungikire wewe nyene biciye kuri SMS.
+- Ntufate isanamu y’urutonde rw’amajambo.
+- Ntuvyinzize muri nyabwonko canke ngendanwa. 
+- Ntuyibike nk’umuntu wo guhamagara canke ngo uyirungikire wewe nyene biciye mubutumwa butoyi.
 - Ntukigere usiga amajambo yawe ku meza yawe ata wuyicungera.
 - Ntukigere uhisha urutonde rw’amajambo yawe ahantu hadasanzwe.
 
 
-Ushobora gufata urupapuro rudafise ikintu canke ugacapura iki [citegererezo](https://bitcoiner.guide/backup.pdf), hanyuma ukandika urutonde rw’amajambo ukoresheje ikaramu, ukurikije urutonde rwashikirijwe neza kandi rutomoye. Menya ko iyo wino izimvye uko igihe kigenda kirarenga, ushobora gutakaza amahera yawe. Ni ngombwa rero ko urwo rupapuro rurindwa ivyo bintu vyo mu bidukikije bishobora kuruhonya, nk’ubukonje canke umuriro.
+Ushobora gufata urupapuro rudafise ikintu nakimwe canke ugacapura iki [citegererezo](https://bitcoiner.guide/backup.pdf), hanyuma ukandika urutonde rw’amajambo ukoresheje ikaramu, ukurikije urutonde rwashikirijwe neza kandi rutomoye. Menya ko buno bwino bugenda burafudika uko igihe kigenda, ushobora gutakaza amahera yawe. Kandi, ningirakamaro kugumana runo rupapuro urukingire kumvo zitandukanye zituma rushobora kwononekara, nk'ifira canke nk'umuriroro.
 
 
-Ndagusavye urondere akarorero k’ingene wokoranya urupapuro hano aha hepfo: amajambo ni ay’ibinyoma, rero ntuyakoreshe!
-
+Turagusavye urabe akarorero k'ukuntu wobika urupapuro bikwirikira : amajambo siyo, ntuhave rero uyakoresha !
 
 ![image](assets/en/35.webp)
 
