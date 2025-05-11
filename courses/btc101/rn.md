@@ -662,70 +662,65 @@ Mu ncamake, Bitcoin, n’uburyo bwayo bwo kwegereza ubutegetsi, ubukene bwayo bu
 <chapterId>1c0166ab-cb7a-5bc6-9175-d13482bd91f1</chapterId>
 
 
-Mu gice ca 2, tugiye gutohoza ububiko n’umutekano wa Bitcoin biciye mu gukoresha ama wallet, kugira ngo dutahure aho izo bitcoins zizwi cane ziri n’ingene twozikorana!
+Mugice ca 2, tugiye kurabira hamwe ububiko n'umutekano wa Bitcoin biciye mungodo, kugira dutahure aho izi rurangiranwa za Bitcoin ziri hamwe n'uko twozikoresha!
 
 
-### Gukuraho amabanga y'amasakoshi ya Bitcoin
+### Gukuraho amabanga y'ingodo za Bitcoin
+
+Turakoresha ingodo kugira dukorane n'umunryango wa Bitcoin muburyo nyamukuru butatu : 
 
 
-Turakoresha ama wallets kugira ngo dukorane n’urubuga rwa Bitcoin mu buryo butatu nyamukuru:
-
-
-
-- Kugira ngo uronke ama bitcoins
+- Kuronka ama bitcoins 
 - Kurungika ama bitcoins
-- Kugira ngo bakingirwe ubusuma n’ubusuma .
+- Kuyakingira ubusuma n'ibitero vy'abasuma.
 
 
-Bitcoin Wallet ishobora kugira imiterere myinshi n’imiterere myinshi: porogarama iri kuri mudasobwa yawe, porogarama iri kuri telefone yawe ngendanwa, igikoresho co mu mubiri nk’urufunguzo rwa USB, canke mbere n’urupapuro. Imwe yose muri zo ikoresha ibintu bitandukanye. Nkako, zimwezimwe zigenewe gucuruza ibintu vyinshi zishimikiye cane ku mutekano, mu gihe izindi zishira imbere ivy’ubuzima bwite, canke zigenewe kwishura amahera makeyi ku musi ku musi.
+Ingodo za Bitcoin zishobora kugira imforo n'imiterere myinshi : porogarama iri kuri mudasobwa yawe, porogarama iri kuri ngendanwa yawe, akuma ngendanwa nk'urupfunguruzo rwa USB, canke wanashima agace k'urupapuro. Imwe yose murizo ikoresha muburyo butandukanye. Ariko, zimwe zigenewee kurungika amahera menshi zigashira imbere umutekano, mugihe izindi zishira imbere gukingira ivy'ubuzima bwite bw'umuntu, canke zikaba zigenewe kuriha amafaranga make make kumusi.  
 
-
-Amafaranga rero arashobora gushirwa mu miryango yagutse y’ikoreshwa, yama ashingiye ku kibazo nyamukuru: woba uri nyen’amahera canke woba usiga ububasha bwo kugenzura amahera yawe ku wundi muntu? Iyi nkuru tuzoyisuzuma mu buryo burambuye mu kigabane gikurikira, ariko ikibazo kiguma ari ikigororotse: amahera yoba ari mu mufuko wawe canke ari mu mufuko w’umukozi wawe wa banki?
+Amafaranga rero arashobora gushirwa mu miryango yagutse y’ikoreshwa, Imisi yose vyubakiye kukibazo nyamukuru : woba uri nyene amafaranga canke woba ushaka kurekera ubugenzunzi amafaranga yawe kuwundi muntu ? Iki cigwa tuzokirabira hamwe muburyo buramvuye mukigabane gikwirikira, ariko ikibazo kiguma ari ikigororotse: amahera yoba ari mu mufuko wawe canke ari mu mufuko wa banki yawe ?
 
 
 ![image](assets/en/26.webp)
 
 
-### None Bitcoin Wallet ikora gute?
+### Nigute ingodo ya Bitcoin ikora ?
 
-
-Yaba ari "banker" yawe ya Bitcoin canke wewe nyene, igice kinini c'amasakoshi ya Bitcoin akorana n'ubuhinga busa n'ubwo bushingiye ku buhinga bwo gukingira amakuru butagira aho bugarukira, bujanye n'uburyo bw'urufunguzo rubiri: urufunguzo rw'ibanga rwo gukoresha n'urufunguzo rwa bose rwo kwakira.
+Yaba ari "ibanki" yawe ya Bitcoin canke wewe nyene, igice kinini c'ingodo za Bitcoin zikoresha ubuhinga busa bwubakiye kuburyo bwogukingira inkuru butagira aho bugarukira, ibituma habaho uburyo bukoresha impfunguruzo zibiri : Urupfunguruzo rw'ibanga rwogukoresha n'urupfunguruzo rwo kukarubanda rwo kwakira.  
 
 
 
 - Urufunguzo rw'ibanga
 
 
-Igihe utanguye Wallet, ijambo ry’ibanga ryo gusubirana, rizwi kandi nk’ijambo Mnemonic (urufunguzo rw’ibanga), rirasohoka rikagushikirizwa mu buryo bw’amajambo 12 canke 24.
+Iyo utanguye gukoresha ingodo, Iryungane ry'ugusubirana ry'ibanga, rizwi kandi nk’iryunga rya Mnemonic (urufunguzo rw’ibanga), rirasohoka rikagushikirizwa mu buryo bw’amajambo 12 canke 24.
 
 
-Urufunguzo rw’ibanga ni rw’ishimikiro kuko rugize Ownership y’ama bitcoins rero uburenganzira bwo kuyakoresha canke kuyarungika. Rero, uwufise urufunguzo rw’ibanga ni we nyen’ukuri vy’ama bitcoins. Nk’uko amajambo azwi cane abivuga, “Si imfunguruzo zawe, si ibiceri vyawe.”
+Urufunguzo rw’ibanga ni rw’ishimikiro kuko rugize ububasha bwogutunga ama bitcoins hamwe kandi n'uburenganzira bwo kuyakoresha canke kuyarungika. Ariko, uwufise urufunguzo rw’ibanga niwe nyeneyo vy'ukuri ayoma bitcoins. Nk’uko iryungane rurangiranwa rivuga, “Ata mfunguruzo zawe, ntabiceri vyawe.”
 
 
-Urufunguzo rutegerezwa kuba ibanga kandi rukingiwe neza, kuko rufungura ubutunzi bwawe!
+Runo rufunguruzo rutegezwa kuguma mwibanga kandi rukingiwe, kuko rufungura ubutunzi bwawe !
 
 
 
-- Urufunguzo rwa bose & Address
+- Urufunguzo rwo kukarubanda  & amerekezo
 
 
-Urufunguzo rwa bose ruva ku rufunguzo rw’ibanga kandi rurahuzwa na rwo. Gusangira urufunguzo rwa bose biratera ingorane ku buzima bwite (kuko abandi bakoresha bashobora kubona umubare wawe) ariko ntibitera ingorane ku mutekano (kuko badashobora gukoresha amahera yawe batagira urufunguzo rw’ibanga). Na ryo nyene, urufunguzo rwa bose rurakoreshwa mu guhingura amaderesi ya Bitcoin, gutyo umuntu akaronka amahera.
+Urufunguzo rwo kukarubanda ruva kurufunguruzo rw'ibanga kandi rufatanijwe narwo. Gusabikanya urufunguruzo rwo kukarubanda bitera ingorane kubuzima bwibanga (kuko  abandi bakoresha bashobora kubona ubutunzi bwawe) ariko ntabwo bitera ingorane kumutekano  (kuko badashobora gukoresha amahera yawe batagira urufunguzo rw’ibanga). Na ryo nyene, urufunguruzo rwo kukarubanda rukoreshwa muguhinguro amarekezo y'ama Bitcoin, canke kwakira amafaranga. 
 
 
-Izo aderesi zihita ziremwa na Wallet yawe kandi zishobora gusangizwa ata nkomanzi. Kugira ngo ushobore gukoresha neza ubuzima bwiwe bwite, ni vyiza ko ubikoresha rimwe gusa.
+Ano merekezo araremmwa atagisabwa n'ingodo yawe kandi agashobora gutangwa mumutekano. mugutuma haba ibanga rikwiye, ni vyiza ko uyakoresha rimwe gusa. 
 
 
-Mu ncamake, ubu buhinga buraduha ubushobozi bwo kwakira ama bitcoins ataco dushobora gutuma uwuyakira yiba amahera yacu! Isandugu y’amakete yoshobora kuba imvugo ngereranyo ibereye: abantu barashobora kuyishiramwo amahera, mugabo ni wewe wenyene ushobora kuyifungura.
+Muri make, buno buhinga budufasha kwakira ama bitcoins bidatumye uwakira ashobora kutwiba amahera yacu ! Isandugu y’amakete yokubuhinga bwa none(Mailbox) yoshobora kuba imvugo ngereranyo ibereye: abantu barashobora kuyishiramwo amahera, mugabo ni wewe wenyene ushobora kuyifungura.
 
 
 ![image](assets/en/27.webp)
 
 
-### Mbega amafaranga y’ibiceri ari muri Wallet?
+### Mbega Bitcoins zoba zirio mungodo?
 
 
-Naho imfunguruzo zawe zibitswe muri Wallet yawe, ama bitcoins ubwayo mu vy'ukuri "abitswe" muri Bitcoin Blockchain, ariyo Ledger ikwiragizwa ku mugaragaro mu rwego rw'urunganwe rwa Bitcoin (tuzovyihweza cane mu gice ca 3). Ivyo bisigura ko gutakaza igikoresho kirimwo Wallet yawe bitazotuma utakaza amafaranga yawe ya bitcoins. Icogufasha gusubira kurema Wallet yawe no gukoresha Bitcoin yawe mu vy’ukuri ni urufunguzo rw’ibanga, rero wama wibuka kurukingira neza!
-
+Naho imfunguruzo zawe zibitswe mungodo yawe, ama bitcoins ubwayo mu vy'ukuri "abitswe" muri Blockchain ya Bitcoin, n'igitabu gikwiragijwe kumugaragaro mumuryango wa Bitcoin (Tuzovyihweza mukigabane ca 3). Bino bisigurako gutakaza igikoresho gishingura ama Bitcoin yawe badatuma utakaza amafaranga yawe y'ama bitcoins. Ibishobora kugufasha guhingura nokurungika ama Bicoins yawe muvyukuri n'imfunguruzo z'ibanga, rero wame wibuka kurukingira neza!  
 
 ![image](assets/en/28.webp)
 
