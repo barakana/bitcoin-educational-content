@@ -891,87 +891,85 @@ Ndagusavye urondere akarorero k’ingene wokoranya urupapuro hano aha hepfo: ama
 ### Impanuro zacu zo kubikora neza
 
 
-Raba neza ko udakora amakosa igihe uriko urakopa neza kandi usoma neza ijambo Mnemonic, ahandi ho abazungu bawe boshobora kugorwa no kurisoma kandi ntibashobore kugarura ayo mahera. Umaze kubika amajambo, ni vyiza ko ukora kopi ya kabiri ukayibika ahantu hatandukanye n’iya mbere. Ivyo bituma ufise ivy’ugusubiza inyuma mu gihe ivy’umwimerere vyoba vyatakaye canke vyononekaye.
+Nukuvyitondera ukarabako udakora amakosamugihe uba uuriko uracapura kandi witondeye neza ijambo Mnemonic phrase, bitagenze uko aho uyarungitse bishobora kugora kuyasoma hama bikagora kugarukana ayo mahera. Umaze gushingura amajambo, nivyiza ko uyandika iyindi ncuro ukayashingura ahantu hatandukanye n'ahambere . Ibi bifasha kuronka iyindi mugihe watakaje iyambere. 
 
 
 ![image](assets/en/36.webp)
 
 
-Urutonde rw’amajambo rukwiye kubikwa ahantu heza ushobora kwibuka bitagoranye. Irinde guhingura imigambi igoye cane yo kwihisha yoshobora gutuma uyitakaza.
+Urutonde rw'amajambo rukenewe kubikwa mukibanza gitekanye, ahantu ushobora kwibuka vyoroshe. Wihoze ibintu vyo kuzibika bigoye cane bishobora kugutuma uyatakaza. 
 
 
 **Amajambo yawe = amahera yawe.**
 
 
-Ivyo bikoresho vyose bibiri 'Cold' na 'Hot' bikoresha uburyo bw'urutonde rw'amajambo nk'urugero rwo gukingira imfunguruzo z'ibanga. Ivyo bituma ushobora kwinjiza ijambo ryawe rya Mnemonic muri porogarama canke igikoresho ico ari co cose gihuye na Wallet kugira ngo usubire gukoresha. Ku rundi ruhande, turaguhanura cane kudakoresha ama wallet adatanga ijambo seed, kuko yoshobora kugusaba gutanga konti, imeyili Address, canke, ikibi kuruta, indangamuntu.
+Ivyo bikoresho vyose bibiri 'Cold' na 'Hot' bikoresha uburyo bw'urutonde rw'amajambo nk'urugero rwo gukingira imfunguruzo z'ibanga. Ivyo bituma ushobora kwinjiza ijambo ryawe rya Mnemonic muri porogarama canke igikoresho ico ari co cose guhura n'ingodo kugirango usubire kuronka uruhusha rwo kuyaronka. kurundi ruhande, turaguhanura cane kudakoresha ingodo zidakoresha amajambo y'ibanga, kuko zishobora kugusaba gutanga iKonti, imeyiri yawe, canke, ibindi birutaaho, n'indangamuntu.
 
 
-**ICIBUKIRO: Kubura urutonde rw'amajambo 12/24 bikwiye kukumenyesha.**
+**MWIRINDE: Kubura urutonde rw'amajambo 12/24 bikwiye kugutera umutima uhagaze.**
 
 
-Niba wipfuza kumenya, intambwe ku yindi, ingene woshiraho Wallet yawe maze ukaronka ama bitcoins yawe ya mbere, turagusavye gufata iyi yindi nyigisho:
+Niba wipfuza kuvumbura, intambwe ku yindi, ingene wogira ingodo yawe maze ukakira ama bitcoins yawe yambere turaguhamagariye kwiga kinocigwa :
 
 
 https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
 
-## Gutsinda ikigeragezo c'igihe
+## Gutsinda ikigeragezo c'umwanya
 
 
 <chapterId>f58cd446-c202-5eff-aab7-e61cc40e5c06</chapterId>
 
 
-Cokimwe n’ubutunzi bwose, ama bitcoins yawe ategerezwa kurindwa gutakaza, kwiba, no gusenyuka, cane cane mu kiringo kirekire. Kurinda amafaranga yawe y’ibiceri bisaba ubumenyi bumwe bumwe bw’ubuhinga no gutahura ingorane zijanye n’ivyo, ivyo bikaba biguha ingamba zibiri nyamukuru: gucapura amafaranga yawe y’ibiceri ku gipande c’icuma no gushinga umugambi w’iragi.
-
+Cokimwe n’ubutunzi bwose, ama bitcoins yawe ategerezwa kurindwa gutakaza, kwibwa, no gutakaza agaciro, cane cane mu kiringo kirekire. Gukingira ama bitcoins yawebisaba ubuhinga bumwe bumwe hamwe n'ugutahura ibiza bijanye nayo, ivyo iguha imitwe ibiri ikomeye: Gushira ama bitcoins yawe kucuma hamwe nogushiraha umugambi ukomeye wokuyakingira.
 
 ### Gucapura mu vyuma
 
 
-Uburyo bumwe bwo gukingira ama bitcoins yawe mu gihe kirekire ni ugucapura ijambo ryawe Mnemonic ku kintu gikomeye cane nk’icuma. Ivyo bituma imfunguruzo zawe zigira ububiko bw’umubiri bushobora guhangana n’amazi n’umuriro.
+Uburyo bumwe bwo gukingira ama bitcoins yawe mukiringo kirekire ni gucapa ijambo Mnemonic ku kintu kiramba ca nk'icuma. Gukora bino bituma imfunguruzo zawe zigira ububiko bufadika bushobora kuguma bukomeye hatera amazi canke umuriro. Ivyo bituma imfunguruzo zawe zigira ububiko bw’umubiri bushobora guhangana n’amazi n’umuriro.
 
 
-Hariho inyishu zitandukanye: zimwe muri zo zidahenda cane, nka "Blockmit", mu gihe izindi zishobora gusaba ibikoresho vy'umwihariko. Ushobora gutohoza neza iyo nkuru mu gice ca [inyigisho](https://planb.network/ru/inyigisho/Wallet) c’ishure ryacu.
+Inyishu zitandukanye zirahari: zimwe murizo zirazimbutse cane, nka "Blockmit", mugihe izindi zishobora gusaba ibikoresho vyihariwe. Ushobora gukwirikirana imbere kino cigwa mugace k' [inyigisho](https://planb.network/ru/inyigisho/Wallet) ka kaminuza yacu.
 
 
 ![image](assets/en/37.webp)
 
 
-### Iyumvire ivy’uruvyaro ruzokurikira!
+### Iyumvire ivy'urunganwe ruzokwirikira!
 
 
-Inyuma y’iyi ngeso ya mbere, gukora umugambi w’iragi ni intambwe ihambaye cane kugira ngo umenye neza ko amafaranga yawe y’ama bitcoins akoreshwa neza inyuma y’urupfu rwawe. Uwo mugambi usaba kwandika ikete n’ukuboko aho ugaragaza kamere y’itunga ryawe, uburyo bwo kurironka, n’amakuru y’abantu wizigira bafise inshingano kuri ryo. Ni ngombwa kandi kuganira ku bijanye n’iragi ry’ama bitcoins n’umucungezi w’amakonte n’/canke umuvugizi w’ivy’ubutunzi kugira ngo umenye neza ko imisoro yubahiriza, naho uwo muntu yoba atazokwigera yizigirwa ata guca ku ruhande uburongozi bw’ama bitcoins yawe.
+Iruhande y'ino myimenyerezo yambere, gushiraho umugambi w'ugukingira ibisigi n'intambwe ikomeye cane kugira ngo umenye neza ko ama Bitcoins yawe akoreshwa neza inyuma y’urupfu rwawe. Uno mugambi usaba kwandika ikete n’amaboko aho ugaragaza kamere y’itunga ryawe, uko boyashikira, abantu bafise amakuru b'abizigigwa bafise ububasha kuriyo. Ni ngombwa kandi kuganira ku bijanye  n’iragi ry’ama bitcoins n’umuhinga muvy'ubutunzi  n’/canke umuvugizi w’ivy’ubutunzi kugira ngo umenye neza ko amakori yubahirizwa, naho uwomuntu atoba yizigirwa cane n'abafise ububasha bw’ama bitcoins yawe.
 
 
-Niba wipfuza kurushiriza gutohoza ikiganiro c’umugambi w’iragi ry’amahera yawe, turagusavye gusoma igitabu ca Pamela Morgan [Umugambi w’iragi ry’ibintu vy’agaciro](https://planb.network/resources/books/28) canke wiyandikishe mu nyigisho ya BTC102, aho dutanga ubuyobozi ku mugambi wawe wo kurema.
+Nimba wipfuza kubandanya icigwa c'ugukingira iragi ry'ama Bitcoins yawe, turaguhimirije gusoma igitabo ca Pamela Morgan [Umugambi w’iragi ry’ibintu vy’agaciro](https://planb.network/resources/books/28) canke wiyandikishe mucigwa ca BTC102, aho dutanga amerekezo y'ukuntu wokora umugambi wawe.
 
 
 ![image](assets/en/38.webp)
 
 
-### Ubuzima bwite burahambaye
+### Ubuzima bw'ibanga burahambaye
 
 
-Uretse gukora ama backups y’umubiri no gutegura umugambi w’iragi, ubuzima bwite ni ikindi ciyumviro gihambaye iyo bije ku mutekano w’igihe kirekire w’ama bitcoins yawe. Nk’akarorero, ni vyiza kugura ama bitcoins utatanga ikimenyetso kugira ngo ugabanye ingorane zo kwiba ikimenyetso canke gukurikirana amahera yawe n’izo nzego zifise ibikoresho bikwiye.
+Iciyongera gukora imigambi yo gukingira nogukomeza ibisigi, ubuzima bw'ibanga n'ikindi kintu gihambaye iyo hagezweho umutekano w’igihe kirekire w’ama bitcoins yawe. Nk’akarorero, ni vyiza kugura ama bitcoins udatanze umwidondoro wawe kugira ngo ugabanye ingorane zo kwibwa n'abasuma b'imyidondoro canke gukwirikirana ubutunzi bwawe n'izo nzego zifise ibikoresho bikwiye. 
 
 
-Ku bijanye n’ubuzima bwite, birahambaye cane ko wirinda kubwira umuntu uwo ari we wese ivyerekeye amafaranga yawe ya bitcoins. Ntidushobora kumenya ingene ubu buhinga buzobonwa muri kazoza, rero kuguma ufise ubukerebutsi ku bijanye na Ownership yawe ni uguhitamwo kw’ubwenge: ntushaka ko abantu bitaho wewe canke Wallet yawe.
+Kuvyerekeye ubuzima bw'ibanga, birahambaye cane kubwira umuntu wariwe wese ivyerekeye ama bitcoins yawe. Ntidushobora kuburira uko buno buhinga buzoba bubonwa muri kazoza, rero kuguma ufise ibanga kubijanye n'ubutunzi bwawe ni amahitamwo meza : ntushaka kuguma wikeka abantu canke kungodo yawe.
 
 
-Na wewe nyene, wirinde gusangira ku mugaragaro amakuru yerekeye uburyo bwawe bwo gucungera umutekano mu gihe c'amakoraniro ya Bitcoin canke mu guhura n'abantu utazi...
+bifitaniye isano, wirinde gushira kumugaragaro amakuru yerekeye uburyo bwawe bwo gucungera umutekano mu gihe c'amakoraniro ya Bitcoin canke iyo uhuye n'abantu utazi... 
+
+### Incamake ku Mutekano w'ingodo za Bitcoin
 
 
-### Incamake ku Mutekano wa Bitcoin Wallet
-
-
-Bitcoin wallets zigufasha gushika ku bitcoins no gukora amafaranga. Hari ubwoko bwinshi:
+Ingodo za Bitcoin zigufasha gushika ama bitcoins no kurungika no kwakira. Hari ubwoko bwinshi:
 
 
 
-- ama wallets y’amatelefone ngendanwa canke ya PC, abereye ku mahera makeyi be n’/canke ku mahera asanzwe;
-- ama wallets y’umubiri, akwiriye cane kubika ama bitcoins mu kiringo giciye hagati n’igihe kirekire;
-- Multisig wallets, zikaba zigoye cane gucungera kandi zisaba amasinya menshi kugira ngo umuntu ashobore gukora ibikorwa.
+- Ingodo zokuri ngendanwa canke nyabwonko (mobile or PC wallets), zateguriwe amafaranga makeyi be n'/canke kurungika n'ukwakira vya burimisi yose; 
+- Ingodo z'ivyuma (physical wallets), zagenewe cane gushingura ama bitcoins mugihe kigereranye n'igihe kirekire;
+- Ingodo zikoreshwa nabenshi (multisig wallets ), zisa nizigoye cane gukoresha kandi zisaba imikono myinshi kugira habe irungika n'iyakira
 
 
-Igihe urema Wallet, birahambaye cane ko ubanza gukora backup y’urutonde rwawe rw’amajambo 12 canke 24 ku mpapuro canke ku gipande c’icuma. Iryo jambo ryitwa Mnemonic rigufasha kugarura Wallet yawe biciye ku nzira iyo ari yo yose ya Bitcoin Wallet. Menya ko umuntu wese aronka uburenganzira bwo gushika kuri uru rutonde na we nyene aronka uburenganzira bwo gushika ku mahera yawe.
+Igihe urigukora ingodo, birakenewe cane  cane ko ubanza gukingira urutonderwawe rw’amajambo 12 canke 24 ukarushira ku mpapuro canke ku gipande c’icuma. Iryo jambo ryitwa Mnemonic rigufasha kugarura ingodo yawe yawe biciye ku nzira iyo ari yo yose yingodo ya Bitcoin. Shira kumuzirikanyi ko umuntu wese Menya ko umuntu wese aronka uburenganzira bwo gushika kuri uru rutonde na we nyene aronka uburenganzira bwo gushika ku mahera yawe.
 
 
 Mu isi ya Bitcoin, ubusegaba bw’ivy’ubutunzi burafitaniye isano cane n’inshingano z’umuntu ku giti ciwe, bikaba bihambaye cane ko ushobora gushika ku ma wallets yawe n’ivyo ukoresha mu gucungera. Kugira ivyo ubishikeko, birahambaye ko ukurikiza amabwirizwa amwamwe:
