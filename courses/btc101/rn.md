@@ -1072,85 +1072,82 @@ Kugira ngo umenye vyinshi ku vyanditswe na Satoshi Nakamoto, turagusavye gusoma 
 None ko dufise amakuru, reka dusuzume ingene igikorwa co gucuruza Bitcoin gikora muri rusangi.
 
 
-## Bitcoin Ibikorwa
+## Irungika n'irungikwa rya Bitcoin
 
 
 <chapterId>03482644-5473-590b-975b-b43bb65eac21</chapterId>
 
 
-Igurisha rya Bitcoin ni uguhindura gusa Ownership y'amahera y'ibiceri biciye mu gukoresha Bitcoin Address. Kugira ngo tudondore iyo nzira, reka tumenyeshe abantu babiri bahambaye: Alice na Bob. Alice yipfuza kuronka ama bitcoins, mu gihe Bob asanzwe afise amwe.
+Irungika n'irungikwa rya Bitcoin muri make nukuruingika ubutunzi bwa Bitcoin biciye kugukoresha kwa Bitcoin Adress. Kugira ngo dushobore gkoresha runo rukwirikirane, reka tubereke abantu babiri bahambaye : Alice na Bob.  Alice yipfuza kuronka ama bitcoins, mugihe Bob asanzwe afise amwe.
 
 
-### Intambwe ya 1 - Gukora ubucuruzi biciye kuri Wallet
+### Intambwe ya 1 - Gukora itrungika n'irungikwa biciye mungodo
+
+Kugira ngo Bob arungikire Alice amafaranga y’ama bitcoins, ategerezwa kumuha imwe muma aderesi yiwe ya Bitcoin, isanzwe yihariye kungodo yiwe ya Bitcoin. Nkakurya kw'urupfumguruzo rw'ibanga rukoreshwa mugukora urupfunguruzo rwo kukarubanda, urwo rwanyuma rurakoreshwa mugukora amaderesi.
 
 
-Kugira ngo Bob arungikire Alice amafaranga y’ibiceri, ategerezwa kumuha imwe mu ma aderesi yiwe Bitcoin, ari yo yihariye kuri Bitcoin Wallet yiwe. Nka kurya nyene urufunguzo rw’ibanga rukoreshwa kuri generate urufunguzo rwa bose, urwo rwa nyuma rurakoreshwa kuri generate amaderesi.
+Mu majambo nyayo, iyo Alice yuguruye Wallet yiwe agafyonda kuri "kwakira", kode ya QR canke aderesi (nk'iyi) iraja ahabona. Ivyo bimufasha gukora nk’igitabu ciwe citwa ‘Bitcoin IBAN’, ashobora kuyiha rero Bob.
 
 
-Mu majambo nyayo, iyo Alice yuguruye Wallet yiwe maze akanda kuri "receive", kode ya QR canke Address (nk'iyi) izogaragara. Ivyo bimufasha gukora nk’igitabu ciwe citwa ‘Bitcoin IBAN’, aca akagiha Bob.
+Inyuma y'ivyo vyose, Bob akora irungikwa n'irungika mukeugurura ingodo agafyonda  " kurungika". Araheza agacapura uko aderesi ya Alice yanditse akayishira  mu kibanza gikenewe, akongera agashiraho amafaranga yipfuza kurungika, maze agafata ingingo ku bijanye n'amafaranga yo kurihira, ivyo bikaba bitera intege abacukuzi  bashiramwo iyo nzira mu gice gikurikira ca Blockchain. ariko rero, uko amafaranga Bob ariha ari menshi, ni ko amahirwe yiwe yo gutuma iyo nzira yo kurungika n'ukwakira bishirwa mu gice gikurikira congerewe kuri Blockchain, ni ukuvuga igitabo ca bose kandi kidahinduka candikwamwo irungka n'irungikwa rya Bitcoin.
 
 
-Inyuma y'aho, Bob akora iyo nzira mu gufungura Bitcoin Wallet yiwe agakanda "kohereza". Araheza akopa urupapuro rwa Alice Address akarushira mu kibanza gikenewe, akongerako amahera yipfuza kohereza, maze agafata ingingo ku bijanye n’amahera yo gukoresha, ivyo bikaba bituma abacukuzi b’amabuye y’agaciro bashiramwo iyo nzira mu gice gikurikira. Nkako, uko amafaranga Bob ariha ari menshi, ni ko amahirwe yiwe yo gutuma iyo nzira yo gucuruza ishirwa mu gice gikurikira congerewe kuri Blockchain, ni ukuvuga Ledger ya bose kandi idahinduka yandika ibikorwa vyose vya Bitcoin.
-
-
-Kugira ngo Bob arangize iyo nzira, ategerezwa kuyishirako umukono n’urufunguzo rwiwe rw’ibanga kugira ngo asuzume ko ari we nyen’amahera ya bitcoins ashaka gutanga. Iyi ntambwe ikunda kwikora ku bikoresho vy'amafaranga, canke ifata uburyo bwo kwemeza kuri Wallet yawe: "Urazi neza ko ushaka kohereza X kuri Y? Ego canke oya".
-
+Muguheraheza  irungika n'irungikwa, Bob ategezwa kuriterako umukono akoresheje urupfunguruzo rwiwe rw'ibanga kugira hasuzumwe kwariwe nyene ayo ma bitcoins ashaka kurungika. Ino ntambwe kenshi iba inyaruka kungodo ngendanwa canke iza muburyo bwokwemeza kungodo y'icuma : Uruashaka vyukuri kurungika X kuri Y ? Ego canke Oya. 
 
 ![image](assets/en/46.webp)
 
 
-**Kubera iki twishura amafaranga?** Amafaranga ni ngombwa kugira ngo haboneke isoko ry’ubuntu ryo gushiramwo amafaranga mu bice. Nkako, igice gifise ubunini bwa 1 MB (ico cagutse kikaja kuri 4MB inyuma y'ivugurura rya SegWit), rero umubare w'ibikorwa bishobora "kwinjizwa" mu gice ugarukira ku bihumbi bikeyi vy'ibikorwa ku gice. Ubwinshi bw’ibintu bigurishwa bivana n’ingene bikomeye. Ku bw’ivyo, amasezerano agoranye cane akenshi asaba amahera menshi.
+**Kubera iki dutanga amafaranga y'irungikwa ?** Amafaranga y'irungika arakenewe kugira habeho isoko yigenga kugira hajemwo irungika n'irungikwa mumuryango. Ariko, umuryango ufise ubunini bwa 1 MB (iba yongerejweko gushika kuri 4 MB inyuma y'ihinduka rya SegWit),  rero igiharuro n'irungikwa ishobora gushirwamwo mumuryango uafise imbibe ungana n'ibihumbi bikeyi vy'irungika n'irungikwa kumuryango umwe. Ubunini bw'irungika n'irungikwa buvana n'ukuntu kugoye. Hambavu y'ivyo, irungika n'irungikwa ukobimeze bisaba irihwa rinini.
+
+### Intambwe ya 2: Gukwiragiza irungika n'irungikwa biciye kw'iphundo
 
 
-### Intambwe ya 2: Gukwiragiza ibikorwa biciye mu nzira
-
-
-Kuri iyi ntambwe, iyo nzira y’ugucuruza yararemewe kandi Wallet ya Bob izoyisangira n’urubuga rwa Bitcoin. Kugira ngo ivyo bishoboke, Wallet yiwe izovugana n’uruzitiro rw’uruzitiro rwa Bitcoin, urwo ruzitiro ruzokwiragiza ayo makuru ku zindi nzira. Ubwo bwoko bw’inzira butuma urubuga rwose rubona iyo nzira nshasha y’ugucuruza maze rukayifata mu muzirikanyi.
+Kuri iyi ntambwe, irungika n'irungikwa ryarashizweho hama ingodo ya Bob irayisabikanya mumryango wa Bitcoin. Kugira ngo ivyo bishoboke, Ingodo yiwe irahanahana amakuru n'umuryango wa Bitcoin, buno buryo bw'urukwirikirane rufasha umuryango wose kubona rino hanahanwa rishasha hama bukaritwara mububiko.
 
 
 ![image](assets/en/47.webp)
 
 
-Muri iki gihe, naho iyo nzira izwi na bose (biciye ku gikoresho citwa Mempool), ntishobora gufatwa nk’iyemejwe gushika yinjijwe mu gice c’ibarabara n’umu Miner, ari we wenyene yemeza ibikorwa mu kubishira muri Blockchain.
+Kurino ntambwe, naho biba biciye mwirungika n'irungikwa bizwi naburimuntu wese (biciye ku gikoresho citwa Mempool), ntishobora gufatwa nk’iyemejwe gushika yinjijwe mumuryango n'abacukuzi, basanzwe aribo bonyene bemeza irungika n'irungikwa mukurishira muri Blockchain.
 
 
-Nkako, abacukuzi barafise uruhara rwo kwegeranya amafaranga afise akamaro n’ataremejwe kugira ngo bayashire hamwe mu gice kimwe. Mu majambo make, bategerezwa gutorera umuti uruzitiro rw'ubuhinga bw'ibanga mu buryo bwitwa "Proof of Work" kugira ngo igice cabo kibe ari co gikurikira muri Bitcoin Blockchain.
+Ariko, abacukuzi barafise uruhara rwo gushira hamwe irungika n'irungikwa y'ayemejwe n n'ayatwemejwe mugushikiriza hamwe mumuryango. Mu majambo make, bategerezwa gutorera inyishu agakino k'ubuhinga bw'inyandiko z'ibanga mu buryo bwitwa "Proof of Work" kugira ngo uwomuryango ube uwukwirikira muri Bitcoin Blockchain.
 
 
 ![image](assets/en/48.webp)
 
 
-### Intambwe ya 3: Ivyo bikoresho bicukurwa mu gice ca Miner.
+### Intambwe ya 3: Ihanahanwa riracukurwa mumuryango n'aacukuzi.
 
 
-Uburyo bwa Proof of Work busaba kurondera "Hash" ibereye ku gice kivugwa: wiyumvire nk'ikimenyetso c'urutoke kidasanzwe gifitaniye isano n'igice, gifise inyuguti 256. Uburemere bw’iyi Hash buvana n’ingorane z’uruja n’uruza rwa Bitcoin (tuzoja mu bindi bimenyetso mu nyuma). Ubu rero, zirikana ko igitabu Miner caronse igitabu gifise akamaro, kandi ko ivyo Bob yaguriye Alice biri muri co. Hanyuma, iyo block nshasha ifise akamaro yongerwa kuri Blockchain, Ledger rusangi ku bakoresha bose ba Bitcoin.
+Uburyo bwa Proof of Work busaba kurondera "Hash" ibereye kumuryango ukwenewe: wiyumvire nk'ikimenyetso c'urutoke kidasanzwe kirikumwe n'umuryango, gifise indome 256. Ukwemeza kw'iyi Hash buvana n’urugero umuryango wa bitcoin ugoye (tuzovyinjiramwo vyimbitse hanyuma).  Fata y'uko abacukuzi baronse umuryango wemewe, hama irungika rya Bob kwa Alice ririmwo murivyo. Hanyuma, umuryango mushasha wemewe urongerwa kuri Blockchain, igitabo rusangi c'abakoresha Bitcoin bose. 
 
 
 ![image](assets/en/49.webp)
 
 
-### Intambwe ya 4: Igipande kirafise akamaro kandi kigenzurwa n’urudodo rw’ishingiro rwa Alice.
+### Intambwe ya 4: Urukuta ruremezwa rugasuzumwa n'ipfundo ry'ishingiro rwa .
 
 
-Muri iki gihe, iyo nzira ifatwa ko ari ngirakamaro: Miner izoca ikwiragiza iyo nzira nshasha ku rubuga biciye ku nzira yabo, maze Wallet ya Alice izohindurwa.
+Kuri runorugero, ihanahanwe rifatwa nk'iryemewe :  abacukuzi baca bakwiragiza iyo nzira nshasha ku rubuga biciye ku nzira yabo, maze Ingodo ya Alice izohindurwa.
 
 
 ![image](assets/en/50.webp)
 
 
-**Iciyumviro:** Naho Alice yomenyeshwa ko yaronse ama bitcoins kuri imwe mu ma aderesi yiwe, ni vyiza ko iyo nzira idahinduka gusa iyo imaze kwakira **ivyemezo bitandatu**. Ivyo bisigura ko hari amabuye atandatu y’inyongera ategerezwa gucukurwa hejuru y’ibuye ririmwo ivy’ugucuruza vya Bob. Mu yandi majambo, uko igikorwa gikomeye kiri muri Blockchain, ni ko kigenda kidahinduka.
+**menyaneza:** Naho Alice yomenyeshwa ko yaronse ama bitcoins kuri imwe mu ma aderesi yiwe, birahanurwa ko iyo nzira idahinduka gusa iyo imaze kwakira **ivyemezo bitandatu**. Ivyo bisigura ko hari amabuye atandatu y’inyongera ategerezwa gucukurwa hejuru y’ibuye ririmwo ivy’ugucuruza vya Bob. Mu yandi majambo, ihanahanwa yakera iri muri Blockchain, ni ko kigenda kidahinduka.
 
 
-### None iyo nzira ifise akamaro akahe?
+### None urworuhererekane rufise akamaro akahe?
 
 
-Uburyo bwo gutanga amafaranga bwa Bitcoin burashizwe ahantu hamwe kandi bukorana n’abandi, ata n’umwe yizigirwa.
+Uburyo bwo gutanga amafaranga bwa Bitcoin ntaho buhengamiye kandi bukorana n’abandi, ata n’umwe yizigirwa.
 
 
-Bob yohereza amafaranga yiwe ku rubuga rwa Bitcoin, kandi iyo Miner isohoye igice gifise akamaro kirimwo amafaranga Bob yagurishije, Alice arashobora gutangura kwiyumvira ko ayo ma bitcoins ari ayiwe. Ukwizigira ntigusabwa ku ntambwe iyo ari yo yose y’uguhindura Bitcoin Ownership: amategeko y’amasezerano n’inkurikizi z’ubutunzi vyonyene bituma bitwara amahera menshi cane gukora nabi muri sisitemu ya Bitcoin.
+Bob arungika ihanahanwa munuryango wa Bitcoin, kandi iyo umucukuzi ashize ahabona  igice gifise akamaro kirimwo amafaranga Bob yagurishije, Alice arashobora gutangura kwiyumvira ko ayo ma bitcoins ari ayiwe. Ukwizigira ntigusabwa ku ntambwe iyo ari yo yose mukurunguka ubutunzi bw'ama Bitcoin: amategeko y’amasezerano n’inkurikizi z’ubutunzi vyonyene bituma bitwara amahera menshi cane gukora nabi muri sisitemu ya Bitcoin.
 
 
-Nkako, abakoresha bararungika Ownership y’amahera yabo mu gusinya ku bikorwa vy’ubuhinga bwa none bakoresheje imfunguruzo zabo bwite. Ku rundi ruhande, abacukuzi bafise ububasha buke, kandi abakoresha baraguma bafise ububasha buhambaye bakoresheje amanode ya Bitcoin kugira ngo bemeze amabuye mashasha n’ibikorwa vyashizwemwo. Igipande cose gifise kopi yuzuye canke igice ca Ledger, ni co gituma uruja n’uruza rwakozwe n’ibipande vya Bitcoin rutuma iyo sisitemu iba vy’ukuri yegerejwe ahantu hamwe.
+Ariko, abakoresha bararungika Ownership y’amahera yabo mu gusinya ku bikorwa vy’ubuhinga bwa none bakoresheje imfunguruzo zabo bwite. Ku rundi ruhande, abacukuzi bafise ububasha buke, kandi abakoresha baraguma bafise ububasha buhambaye bakoresheje amanode ya Bitcoin kugira ngo bemeze amabuye mashasha n’ibikorwa vyashizwemwo. Igipande cose gifise kopi yuzuye canke igice ca Ledger, ni co gituma uruja n’uruza rwakozwe n’ibipande vya Bitcoin rutuma iyo sisitemu iba vy’ukuri yegerejwe ahantu hamwe.
 
 
 Nk’inkurikizi, kugira ngo urusobe rwa Bitcoin rusenyuke burundu, kopi yose ya Blockchain iri ku nzira zose za Bitcoin yokenerwa gukurwaho, ivyo bikaba ari igikorwa kidashoboka cane kubera ukuntu izo nzira zisanzwe zisanzwe ziri mu karere kamwe be n’ingorane zo kuzifata ku mubiri.
