@@ -1159,64 +1159,60 @@ Nk’inkurikizi, kugira ngo urusobe rwa Bitcoin rusenyuke burundu, kopi yose ya 
 Reka twihweze neza ingene urudodo rwa Bitcoin rukora.
 
 
-## Bitcoin Ivyuma
+## Amapfundo ya Bitcoin
 
 
 <chapterId>8533cebc-f799-528b-89df-8d75d4c37f1c</chapterId>
 
 
-Ivyuma ni ikintu nyamukuru c’ubwubatsi bw’urubuga rwa Bitcoin, kuko bikora ibikorwa bitandukanye bihambaye:
+Amapfundo n'ibintu vy'ishimikiro munyubako y'umuryango wa Bitcoin, nkuko vyerekanwa n'ibikorwa bikwirikira :
 
 
 
-- Kubungabunga kopi y’urupapuro rwa Bitcoin Blockchain
-- Kwemeza ubucuruzi
-- Gutanga amakuru ku bindi bice
-- Gushitsa amategeko y’itegeko rya Bitcoin.
+- Kugumana kopi ya blockchain ya Bitcoin
+- Kwemeza irungika n'irungikwa
+- Kurungika amakuru kuyandi mapfundo
+- Gukomeza amategeko y'urukwirikirane rwa Bitcoin. 
 
-
-Ku bw’ivyo, igikoresho cose gikoresha igice ca porogarama ya Bitcoin, citwa node ya Bitcoin (kenshi gikoresha [Bitcoin Core](https://Bitcoin.org/g/Bitcoin-core/)), kiragira ico gikoze ku gusenyura urubuga.
-
+Iciyongerako, igikoresho caricocose gikoresha igice c'ubuhinga bwa Bitcoin ca Bitcoin, citwa ipfundo rya Bitcin (kenshi gikoresha [Bitcoin Core](https://Bitcoin.org/g/Bitcoin-core/)), bigafasha mugufasha umuryango ataho uhengamiye.
 
 ![image](assets/en/51.webp)
 
 
-### Ivyuma ni vyo bishingiyeko Bitcoin.
+### Amapfundo ni core yohagati ya Bitcoin.
 
 
-Buri node ifise kopi ya Blockchain, iyo na yo ikaba yemerera kugenzura amafaranga kandi igakingira ukugerageza kwose kw’ubuhendanyi. Uko iyo nzira yegerejwe ahantu hamwe bituma Bitcoin igira ubushobozi bwo kwihangana n’ubukomezi budasanzwe. Nkako, kugira ngo iyo porotokole ya Bitcoin ihagarike, ama node yose yo kw’isi yose yobwirizwa guhagarara. Kuva muri Nzero 2023 hariho nk’ibice [45.000](https://bitnodes.io/nodes/all/) vyakwiragijwe kw’isi yose.
+Buripfundo ifise ikopi ya Blockchain, bifasha isuzumwa ry'irungika n'irungikwa kandi bigafasha gukingira ubusuma ubwaribwo bwose. kameremere yokutagira aho uhengamiye umuryango bituma Bitcoin yizerwa kandi ikomera bidasanzwe. Ariko rero, muguhagarika urukwirikirane rwa Bitcoin, amapfundo yokwisi yose yomanza kuzimwa. Nkuko mukwicumi narimwe 2023 hariho nk'ibice vyababa [45.000](https://bitnodes.io/nodes/all/) vyakwiragijwe kw’isi yose.
 
 
-Nodes zirashobora kugenzura ukuri kw’amabuye n’amafaranga kuko zikurikiza amategeko y’amasezerano ya Bitcoin. Aya mategeko ashiraho politike y’amahera ya Bitcoin, nk’ingero y’impera ya Mining (ivyo tuzobivugako mu buryo burambuye mu gice gikurikira) n’ingero ya Bitcoin iri mu nzira. Mu buryo bumwe, ama node akora nk’uburyo bw’amategeko y’urubuga kuko ashira mu ngiro amategeko ya Bitcoin, agatuma urubuga ruguma rudafise aho rugarukira. Amategeko y’uguhurizako ntahinduka cane, nimba ari yo, kuko kugira ngo umuntu ahindure, bisaba kwemezwa kw’ibihimba vyose.
+Amapfundo arafise ububasha bwo gusuzuma imiryango hamwe n'irungika n'irungikwa kubera bikwirikira amategeko ya Bitcoin. Aya mategeko ashiraho ingengantwaro  y’amahera ya Bitcoin, Akarorero ni nkagashirukabute gahabwa abacukuzi (Ivyo tuzobiganirako cane mumajambo aramvuye mugace gakwirikira) hamwe n'igitigiri c'ama Bitcoin arimubantu. Mu buryo bumwe, ama node akora nk’uburyo bw’amategeko y’urubuga kuko ashira mu ngiro amategeko ya Bitcoin, agatuma urubuga ruguma rudafise aho rugarukira. Amategeko y’uguhurizako ntahinduka cane, nimba ari yo, kuko kugira ngo umuntu ahindure, bisaba kwemezwa kw’ibihimba vyose.
 
 
 ![image](assets/en/52.webp)
 
 
-Ubutegetsi mu masezerano burarengeye urugero rw'iyi nyigisho y'ishimikiro, ariko birahambaye kumenya ko umukoresha wese akoresha urudodo rwa Bitcoin ashobora guhitamwo amategeko yo gukurikiza. Uwukoresha ashobora guhitamwo kwubahiriza amategeko atandukanye (ni ukuvuga, guhindura kode), ariko iyo ayo mahinduka ahinduye amategeko y’uguhurizako ariho ubu, iyo node ntizosubira kuba igice c’urubuga rwa Bitcoin. Ku bw’ivyo, uguhindura gukomeye ni gake kandi bisaba uguhuza cane hagati y’ibihumbi vy’abaje mu nama bafise ivyiyumviro n’inyungu zitandukanye, ivyo bikaba bibahatira gutanga amakuru mashasha abonwa ko ari ‘meza’ n’abakoresha bose ba Bitcoin.
+Ubugenzuzi buri murukwirikirane burarengeye urugero rw'icigwa c'ibanze, ariko birakenewwe cane gufatako buri uwukoresha ipfundo rya Bitcoin ashobora guhitamwo n'ayahe mategeko yogukwirikirana. Uwukoresha ashobora guhitamwo kwubahiriza amategeko atandukanye ( Akarorero, guhindura kode), ariko iyo ayo mahinduka ahinduye amategeko y’uguhurizako ariho ubu, iryopfundo ntizosubira kuba igice c’umuryango wa Bitcoin. Kubwivyo, Ihinduka nyamukuru kuba gake kandi bisaba ugushirahamwe  hagati y’ibihumbi vy’abafise ivyiyumviro bitandukantye, n'inyungu zitandukany, ivyo bigatuma bategezwa gutanga amakuru mashasha ivyo bigafatwa nkikintu 'ciza' n’abakoresha bose ba Bitcoin.
 
 
-### None node isa gute?
+### None amapfudo asa gute ?
 
-
-Hariho uburyo bwinshi bwo gukoresha iyo ushaka gushiramwo node yawe bwite, n’ibiciro bitandukanye vyo kuyibungabunga. Ushobora gukoresha gusa porogarama ya Bitcoin Core kuri mudasobwa yawe, ariko bizosaba umwanya munini wo kubika, kuko Blockchain iri nk’~500GB. Kugira ngo ushobore gutsinda iyo nzitizi, ushobora guhitamwo gusa kubika amabuye N ya nyuma mu bwibuke ukoresheje "urudodo rwaciwe". Ku bijanye n’uwo muti wa kabiri, igiciro ni gito cane kuko iyo node ikora gusa iyo uyikeneye.
+Hariho uburyo bwinshi buhari bwo gukoresha iyo ushaka gushiraho ipfundo ryiwawe, n’ibiciro bitandukanye vyo kuyibungabunga. urashobora gukoresha bisanwe  porogarama ya Bitcoin Core kuri mudasobwa yawe, ariko bizogusaba ubushinguzi bunini bwo kubika, kuko Blockchain iri nk’~500GB. Kugira ngo ushobore gutsinda iyo nzitizi, ushobora guhitamwo gusa kubika amabuye N ya nyuma mu bwibuke ukoresheje "urudodo rwaciwe". Ku bijanye niyonyishu ya kabiri, igiciro ni gito cane kuko iyopfundo ikora gusa iyo uyikeneye.
 
 
 ![image](assets/en/53.webp)
 
 
-Ihitamwo rya kabiri ni ugukoresha igice c’ibikoresho vy’ubuhinga vyihariye ku bw’iyo ntumbero, nka Raspberry Pi 4 ifise SSD nini bihagije (nk’~2TB). Iyi yindi nzira irazimvye cane iyo ubwirizwa kugura ibikoresho, ariko iserukira gatoyi €10.00 ku mwaka mu bijanye n’amashanyarazi.
+Uburyo bwa kabiri ni ugukoresha igice c’ibikoresho vy’ubuhinga vyagenewe gukoresha kurino ntumbero, nka Raspberry Pi 4 ifise SSD nini bihagije (nk’~2TB). Iyi yindi nzira irazimvye cane iyo ubwirizwa kugura ibikoresho, ariko itwara ayababa gatoyi Amadorari 10.00 ku mwaka mu bijanye n’amashanyarazi.
 
 Uvuye ku bandwidth, uzirikanye block 1 ya 1MB buri minota 10, bihuye hafi na 5GB ku kwezi.
 
 
-### Nodes zitegerezwa kuguma zishikira umuntu wese!
+### Amapfundo ategezwa kuguma ashikira umuntu wese!
 
 
-Igiciro gishoboka n’ugushikira kw’uruzitiro rwa Bitcoin mu bijanye n’ibikoresho, ububiko, n’uburebure bw’uruja n’uruza ni ikintu gihambaye cane, kuko bifasha gusenyura uruja n’uruza.
+Igiciro kimeze neza hamwe n'ukuboneka kw'amapfundo ya Bitcoin mu bijanye n’ibikoresho, ububiko, n’uburebure bw’uruja n’uruza n'uburanga bukomeye cane, kuko birafasha gutuma umuryango utagira aho uhengamiye. 
 
-
-Nkako, umuntu wese arafise imvo yumvikana yo gukoresha node! Ivyo bihembo n’utwigoro bikoreshwa ni bike cane ugereranije n’inyungu umuntu aronka. Ubwirizwa gusa gutangura urugendo maze ukifatanya n’abandi ba bitcoiners ibihumbi n’ibihumbi kugira ngo ukore urubuga rwa Bitcoin bose hamwe.
+Mumpera, umuntu wese arafise imvo yumvikana yo gukoresha ifundo ryiwe! Igiciro hamwe n'inguvu nibikeyi cane ugereranije n'inyungu umuntu aronka. ukeneye gusa kuja muriruno rugendohama ukifadikanya n'abarenga igihumbi bavuye mumiryangi ya Bitcoin avuye yose hamwe. 
 
 
 ![image](assets/en/54.webp)
