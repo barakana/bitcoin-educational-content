@@ -1222,22 +1222,22 @@ Nkako, umuntu wese arafise imvo yumvikana yo gukoresha node! Ivyo bihembo n’ut
 ![image](assets/en/54.webp)
 
 
-Ahubwo, iyo amabuye aremereye incuro 100, twoshobora gukora amafaranga menshi incuro 100 mu minota 10 yose, ariko gukoresha node ya Bitcoin vyosaba disiki ya Hard y’amaTB 50, uburebure bw’uruja n’uruza burengeye 500GB/ukwezi, n’igice c’ibikoresho vy’amafaranga bishobora gukoreshwa. n’iminota 10. Muri iki gihe c’ivyiyumviro gifise amabuye manini incuro 100, gukoresha urudodo rwa Bitcoin ntivyoshoboka ku muntu asanzwe, ivyo bikaba vyotuma habaho ugusenyuka kw’amasezerano n’ukudahinduka kw’ibikorwa n’amategeko y’uguhurizako.
+Ahubwo, iyo amabuye aremereye incuro 100, twoshobora gukora ihanahanwa menshi incuro 100 buri minota 10 yose, ariko gukoresha ipfundo ya Bitcoin vyosaba disiki ikomeye y’ama TB 50, uburebure bw’uruja n’uruza burengeye 500GB/ukwezi, n’igice c’ibikoresho vy’amafaranga bishobora gukoreshwa. n’iminota 10. Muri iki gihe c’ivyiyumviro gifise amabuye manini incuro 100, gukoresha urudodo rwa Bitcoin ntivyoshoboka ku muntu asanzwe, ivyo bikaba vyotuma habaho ugusenyuka kw’amasezerano n’ukudahinduka kw’ibikorwa n’amategeko y’uguhurizako.
 
 
-Gutyo, inzitizi z’amasezerano zakozwe kugira ngo abantu benshi bashobore gukoresha ama node yabo bwite ya Bitcoin. Nkako, umwaka w'2017 wararanzwe n'impaka zikomeye zizwi nka "block size war". Iryo ntambara ryatumye abashaka guhindura Bitcoin mu kwongera ubunini bw’ibarabara kugira ngo bongere ubushobozi bwo gukorana (abacukuzi, ama platforms ya Exchange, n’inzego) barwanye abashaka kuzigama ubwigenge n’ububasha bw’abakoresha (ama node n’abakoresha). Amaherezo, umuhari wa kabiri waratsinze.
+Gutyo, inzitizi z’urukwirikirane zakozwe kugira ngo abantu benshi bashobore gukoresha amapfundo yabo bwite ya Bitcoin. Ariko, umwaka w'2017 wararanzwe n'impaka zikomeye zizwi nka "block size war". Iyi ntambara yatumye abashaka guhindura Bitcoin mu kwongera uburemere bw'urukwakira ihererekana (Abacukuzi, Imbuga z'ukuvunja, hamwe n'ibigo)  bitandukanye n'ababibona nkugukingira ubwigenge n'ubushobozi bw'abakoresha (amapfundo, hamwe n'abakoresha). Amaherezo umurwi wa kabiri waratsinze.
 
 
-Inyuma y’iyo ntsinzi, izo node zaciye zikoresha ubuhinga bushasha bwitwa SegWit, bica bituma habaho ugushirwa mu ngiro kwa Lightning Network, urubuga rwo kwishura rwa Bitcoin rwubatswe nk’urubuga rwa kabiri rwa Layer rwa Bitcoin Blockchain. Ivyo vyerekana ko abakoresha, biciye ku nzira zabo, bafise ububasha nyabwo muri Bitcoin, bikaba bituma bashobora guhagarara imbere y’inzego nini mu bihe vy’ukutumvikana.
+Inyuma y’iyo ntsinzi, amapfundo yarashize ahabona ubuhinga bushasha bwitwa SegWit, bica bituma habaho hashigwaho ubuhinga bwa Lightning Network, urubuga rwo kurihirako rwa Bitcoin rwubatswe nk’urubuga rwa kabiri rwa Layer rwa Bitcoin Blockchain. Ivyo vyerekana ko abakoresha, biciye ku nzira zabo, bafise ububasha nyabwo muri Bitcoin, bikaba bituma bashobora guhagarara imbere y’inzego nini mu bihe vy’ukutumvikana.
 
 
-## Abacukuzi b'amabuye y'agaciro
+## Abacukuzi
 
 
 <chapterId>dbb8264a-7434-57e4-9d1b-fbd1bae37fdf</chapterId>
 
 
-**Abacukuzi baracungera urubuga bongerako ama transactions ku ma blocs. Bakoresha umuyagankuba biciye mu mashini za ASIC kugira ngo bashobore gutorera umuti ikibazo ca Bitcoin Proof of Work.**
+**Abacukuzi bakingira urubuga bongerako irungikwa n'iyakira kuma blocs. Bakoresha umuyagankuba biciye mu mashini za ASIC kugira ngo bashobore gutorera inyishu ikibazo ca Bitcoin Proof of Work.**
 
 
 ![image](assets/en/55.webp)
@@ -1246,36 +1246,36 @@ Inyuma y’iyo ntsinzi, izo node zaciye zikoresha ubuhinga bushasha bwitwa SegWi
 ### Insobanuro ya Proof of Work
 
 
-"Proof of Work" (POW) ni uburyo bwo kwumvikana ku bijanye n'umutekano bw'amasezerano ya Bitcoin. Ni umushinge w'ibintu vyose kandi ufise uruhara runini mu vyiyumviro vy'urukino rwa Bitcoin.
+"Proof of Work" (POW) ni uburyo bwo kwumvikana ku bijanye n'umutekano bw'amasezerano ya Bitcoin. Ni umushinge w'ibintu vyose kandi ufise uruhara runini mu vyiyumviro vy'agakino ka Bitcoin.
 
 
-Kugira ngo usigure ingene bigenda, niwiyumvire urukino rwo kw’isi yose aho umuntu wese ashobora kugira uruharamwo. Intumbero ni ukurondera umubare wihariye ushoboza uwutsinze gusinya ku gitabu gifise akamaro, akaronka impembo muri Bitcoin. Uyu mubare ni woroshe cane kugenzura hakoreshejwe igikorwa ca SHA-256 Hash, ariko biragoye kuronka: abaje mu nama (abacukuzi) bazogerageza amamiliyaridi ku miliyaridi y’ibishoboka, nka 1, 52, 2648, 26874615, 15344854131313 gushika kuri kimwe.
+Mugusigura ingene bigenda, niwiyumvire urukino rw'amahirwe rwo kw’isi yose aho umuntu wese ashobora kugira uruharamwo. Intumbero nigutora igiharuro c'umwihariko gishobora uwutsinza atera igikumu kuriblock ifise akamaro, akaronka agashirukabute k'ama Bitcoin. Ikigiharuro kiroroshe cane gusuzuma ukoresheje igikorwa ca SHA-256 Hash, ariko biragoye kuronka: abitabira (abacukuzi) bazogerageza amahirwe amamiliyaridi ku miliyaridi, nka 1, 52, 2648, 26874615, 15344854131313 , n'ibindi n'ibindi gushika bavumbuye iyukuri.
 
 
-Nimba umubare watoye ari wo: Jackpot! Ahandi ho, ugushakashaka kurabandanya.
+Nimba igiharuro catowe aricukuri: Jackpot! Bitagenze uko, ukurondera birabandanya. 
 
-Kugira ngo bashobore gutuma umubare w'ibigeragezo ugenda neza, bazokoresha imashini zihariye zitwa ASICs, zifise uruhara rwonyene rwo kubara amamiliyaridi y'ibishoboka ku segonda (umubare wose w'ibigeragezo witwa "Hashrate"). Kugira ngo izo mashini zikore, bitegerezwa gukoreshwa umuyagankuba mwinshi cane. Ni co gituma POW ihindura inguvu mu mafaranga, igahuza isi nyakuri n’isi y’ubuhinga bwa none kugira ngo ireme amafaranga ya mbere ashingiye ku nguvu.
-
-
-Izo mashini zikora ubudasiba, kandi haciye iminota 10, haca hasohoka uwutsinda: uwo munywanyi yararonse neza Hash ibereye igwa munsi y’urugero rw’ingorane. Uwo mutsinzi umwe azoheza asinye igice gishasha ca server ya Timestamp, akagishira kuri Blockchain. Baronka impembo zabo bagasubira kugerageza amahirwe yabo kuri Mining block ikurikira. Ivyo vyamaze imyaka irenga cumi, uwutsinda yemeza amafaranga y’i Bitcoin buri minota 10 mu gihe kandi ashobora gukingira amafaranga y’imbere, ivyo bikaba bituma Bitcoin Blockchain ikomeza kandi itekanye.
+Mugukwiza amahirwe yogushikira igiharuro, bazokoresha imashine zabigenewe zitwa ASICs, zifise uruhara rwonyene rwo guharura amamiliyaridi y'ibishoboka ku segonda ( Incuro zose zaeragejwe zitwa "Hashrate"). Mukugirango zino mashini zikore, umuyagankuba mwinshi cane urakoreshwa. Ni co gituma POW ihindura inguvu mu mafaranga, igahuza isi nyakuri dutuyeko n’isi y’ubuhinga bwa none kugira ngo ireme amafaranga ya mbere ashingiye ku nguvu.
 
 
-Buri 2016 blocks (nk’inyuma y’indwi zibiri), **uguhindura ingorane** gusubiramwo urukino rwa Mining rwo kw’isi yose rushingiye ku mubare w’abawugize. Iryo hinduka ni ngombwa kubera ko igitigiri c’abacukuzi b’amabuye y’agaciro be n’ububasha bwabo bwo gukoresha ubuhinga bwa none bushobora guhinduka cane uko igihe kigenda kirarenga. Kugira ngo igihe c’amabuye kigumeko, iyo nzira isubiramwo urugero rw’ingorane bishingiye ku kuntu amabuye ya nyuma yo mu 2016 yacukuwe ningoga. Iyo zicukuwe ningoga cane, ingorane zirarushiriza, bigatuma bigorana kuronka Hash ibereye. Ahubwo iyo zacukuwe buhoro cane, ingorane ziragabanuka, bigatuma vyoroha.
+Izo mashini zikora ubudahagarara, kandi haciye iminota 10, uwutsinda araboneka : unomuntu yararonse neza Hash ibereye igwa munsi y’urugero rw’ingorane. Uwo yatsinze umwe rudende azoheza atere urukumu igice gishasha ca server ya Timestamp, akagishira kuri Blockchain. Baronka impembo zabo bagasubira kugerageza amahirwe yabo kuri Mining block ikurikira. Ivyo vyamaze imyaka irenga cumi, uwutsinda yemeza irungika n'irungikwa buri minota 10 mu gihe kandi ashobora gukingira irungika n'irungikwa vyabayembere, ivyo bikaba bituma Blockchain ya Bitcoin ikomera kandi igira umutekano.
+
+
+Buri ma blocks 2016 ( Vybababa burindwi zibiri ), **uguhindura ingorane** rusubizakugipimo urukinpo rwa gucukura rwo kw’isi yose bivanye n'igitigiri c'abarimwo. Iryo hinduka ni ngombwa kubera ko igitigiri c’abacukuzi be n’ububasha bwabo bwo gukoresha ubuhinga bwa none bushobora guhinduka cane uko igihe kigenda kirarenga. Mukugumana umwanya wa block utegekanijwe , iyo nzira isubiramwo urugero rw’ingorane bishingiye ku kuntu amabuye ya nyuma yo mu 2016 yacukuwe ningoga. Iyo zicukuwe ningoga cane, ingorane zirarushiriza, bigatuma bigorana kuronka Hash ibereye. Ahubwo iyo zacukuwe buhoro cane, ingorane ziragabanuka, bigatuma vyoroha gusumba.
 
 
 ![image](assets/en/24.webp)
 
 
-### Mining iguma itera imbere
+### Ugucukura biguma  bitera imbere
 
 
-Mu myaka iheze, abacukuzi b’amabuye y’agaciro barironse ibikoresho vy’urudandazwa vy’urudandazwa vy’urudandazwa kugira ngo bashobore gukora ama hashes menshi ashoboka ku segonda (Hashrate) mu gihe bakoresha inguvu nkeyi cane mu buryo buzimvye kuruta ubundi bwose. Abacukuzi ba mbere nka Satoshi canke Hal Finney, bacukura bakoresheje CPU yabo gusa, hanyuma abandi batangura Mining n’amakarata yabo y’ibishushanyo. Muri iki gihe, abacukuzi b’amabuye y’agaciro bakoresha amashini yitwa ASIC (Application-Spécifique Intégrée Circuit): imashini zagenewe gusa gukoresha ubuhinga bwa SHA256.
+Mu myaka iheze, abacukuzi bariyubatse n'ibikoresho ama porogarama ya zamudasobwa zihuta kugira ngo bashobore gukora ama hashes menshi ashoboka ku segonda (Hashrate) kandi bakoresha inguvu nkeyi cane mu buryo buzimvye kuruta ubundi bwose. Abacukuzi ba mbere nka Satoshi canke Hal Finney, bacukura bakoresheje CPU yabo gusa, hanyuma abandi batangura Mining n’amakarata yabo y’ibishushanyo. Muri iki gihe, abacukuzi  bakoresha amashini yitwa ASIC (Application-Spécifique Intégrée Circuit): imashini zagenewe gusa gukoresha ubuhinga bwa SHA256.
 
 
 ![image](assets/en/56.webp)
 
 
-Hashrate y’uruzitiro rwa Bitcoin igereranya umubare w’ibigeragezo bikorwa ku segonda kugira ngo umuntu aronke igice gikurikira. Ubu Hashrate irenga 500 TH/s, ni ukuvuga ukugerageza amamiliyaridi 500.000 ku segonda! Uko Hashrate y’isi yose igenda irakura, ni ko bigorana ko umukinyi w’umunyaruyeri ashobora kwigarurira ubutunzi bukenewe kugira ngo aronke ububasha bwinshi bwa Mining maze akoreshe amahera yiwe incuro zirenga imwe (ingorane yo gukoresha amahera incuro zibiri). Ni vyiza rero mu vy’ubutunzi gukurikiza amategeko y’amasezerano ya Bitcoin kuruta kuyarwanya.
+Hashrate y’uruzitiro rwa Bitcoin igereranya nigiharuro cokugerageza biba ku segonda kugira ngo umuntu aronke igice gikurikira. Ubu Hashrate irenga 500 TH/s, ni ukuvuga ukugerageza amamiliyaridi 500.000 ku segonda! Uko Hashrate y’isi yose igenda irakura, ni ko bigorana ko umukinyi w’umunyaruyeri ashobora kwigungirako ubutunzi bukenewe kugira ngo aronke ububasha bwinshi bw'ugucukura maze akoreshe amahera yiwe incuro zirenga imwe (ingorane yo gukoresha amahera incuro zibiri). Ni vyiza rero mu vy’ubutunzi gukurikiza amategeko y’amasezerano ya Bitcoin kuruta kuyarwanya.
 
 
 ![image](assets/en/57.webp)
