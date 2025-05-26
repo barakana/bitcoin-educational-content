@@ -1841,92 +1841,90 @@ Niba ushaka kurenga iyi ntangamarara maze ugatahura ingene Lightning Network iko
 
 https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
-## Lightning Network Gukoresha Ibibazo
+## Igihe ikora Lightning Network
 
 
 <chapterId>684e31f9-ebd1-51b6-91c0-1e6a315f1141</chapterId>
 
 
-Nk’uko twabibonye, ​​umurongo wa Bitcoin, naho ari uw’ihinduka, urafise ingorane zikomeye mu bijanye n’ugushobora gutera imbere bikenewe kugira ngo dushobore gukora ibikorwa vyose dukora ku musi ku musi. Kugira ngo ivyo bibazo bitorwe umuti, Lightning Network yarashikirijwe kandi kuva ico gihe yarateye imbere mu gushirwa mu ngiro gutandukanye, vyose bikaba bikorana:
+Nkuko twabibonye, urukwirikirane rwa Bitcoin, nubwo arurw'impinduka ruhura n'intambamyi zitandukanye kubijanye  n'izimba ryayo rikwiranye kugira ngo dushobore gukora irungika n'irungikwa rya burimisi yose. Mugukemura bino bibazo, Lightning Network yarashizweho kandi kuva icogihe yaratejwe imbere mubintu bitandukanye, ivyo dushobora vyose kubisangamwo ni : 
 
 
-
-- Umuravyo w'ishimikiro na Blockstream
-- Eclair na Acinq
-- LND n'umuravyo
-
-
-Iryo shirahamwe ry'abagenzi rigamije kworohereza amafaranga make (afise agaciro gato cane) ataco yobaye kubera amafaranga menshi n'ibihe birebire vyo kwemeza kuri Bitcoin Blockchain.
+- Core-lightning by Blockstream
+- Eclair by Acinq
+- LND by Lightning strike
 
 
-### Ni ibihe bikoresho vy’uruja n’uruza?
+Umuryango ushingiye kubantu babiri ufasha kworosha irungika n'irungikwa ritoyi (rifise agaciro gato cane) muyandi majambo bigoye gukora bivuye kumafaranga yokuriha menshi hamwe n'iyemeza rifata umwanya muremure kuri Blockchain ya Bitcoin.
 
 
-Ubu buhinga bufungura urugi rw'ibikorwa vyinshi bishobora gukoreshwa kuri Bitcoin vyari bitashoboka mbere kubera ingorane zikenewe kugira ngo umutekano n'ugusenyura Bitcoin bibeho. Muri ivyo bikoresho vya misi yose, turashobora kuvuga ugutanga amafaranga ubwo nyene mu bucuruzi bwo ku mubiri no kuri interineti, gutanga amafaranga y’uruja n’uruza kugira ngo umuntu yishure mu gihe nyaco, n’intererano ntoyi ku barema ibirimwo. Mu gutuma habaho uruja n’uruza rw’ibikorwa hafi vy’aho nyene, bitekanye kandi bitazimvye (mu giciro gitoyi, bishika munsi ya 0,5%), uburyo bwinshi bwo gukora ubudandaji bwari butashobora kwiyumvirwa mbere burashobora gushikwako. Ivyo birashoboka kubera ko Lightning Network ikoresha satoshis (Sats), ari yo nzira ntoyi kuruta izindi zo muri Bitcoin.
+### None niryari umuryango ukoreshwa? 
+
+
+Buno buhinga bwugurura imiryango myinshi kuma apirikasiyo ya Bitcoin yari ahora adashobora gukora kubera intambamyi zihora zihari z'ugucungera umutekano hamwe n'ukutagenzura Bitcoin. Hagati murikano kamaro turashobora kuvuga ugutanga amafaranga ubwo nyene mu bucuruzi busanzwe no kuri interineti, gutanga amafaranga y’uruja n’uruza kugira ngo umuntu yishure mu gihe nyaco, n’udushirukabute dutoyi kubakora ibikorwa mvabwenge. Mu gutuma habaho uruja n’uruza rw’ibikorwa hafi vy’aho nyene, bitekanye kandi bitazimvye (mu giciro gitoyi, bishika munsi ya 0,5%), uburyo bwinshi bwo gukora ubudandaji bwari butashobora kwiyumvirwa mbere burashobora gushikwako. Ivyo vyashoboye gukunda kubera Lightning Network ikoresha satoshis (Sats), agace gatoyi ka Bitcoin.
 
 
 ![image](assets/en/82.webp)
 
 
-Inganda zikora imikino ya videwo zitanga akarorero gashimishije cane k’ingene Lightning Network ishobora gukoreshwa mu guhindura uburyo bwo gukora ubudandaji busanzweho. Iciyumviro c'uko "urukoba ruri mu rukino" ni iciyumviro giherutse gukundwa cane muri iki gihe. Mu vy’ukuri, birimwo kugira uruhara rw’amahera mu vyo urukino ruzovamwo. Nkako, Lightning Network iremesha abakinyi gutera amahera make cane igihe bakina imikino, nk’amasatoshi makeyi (nk’agace k’isenti y’amayero) kugira ngo bashireho uruhara rutuma haba uguhiganwa mu gihe bongerera cane igiciro co gukoresha amabots.
+Inganda zikora imikino ya videwo zitanga akarorero gashimishije cane uko Lightning Network ishobora gukoreshwa mu guhindura uburyo bwo kudndandaza busanzweho. Iciyumviro citiriwe "skin in the game" ni iciyumviro cahurumbiwe cane murikino gihe. Ningira akamaro, birimwo kugira uruhara rw’amahera mu vyo urukino ruzovamwo. Ariko, Lightning Network iremesha abakinyi gutera amahera make cane igihe bakina imikino, nk’amasatoshi makeyi (nk’agace k’isenti y’amayero) kugira ngo bashireho uruhara rutuma haba uguhiganwa mu gihe bongerera cane igiciro co gukoresha amabots.
 
 
 ![image](assets/en/83.webp)
 
 
-Mu ncamake, kazoza k'ibikorwa bitobito na Bitcoin bisa n'ibitanga umuhango kubera ubuhinga bushasha nka Lightning Network. Uko ubwo buhinga bubandanya gutera imbere no gukura, turashobora kwitega kubona ubuhinga bushasha kandi buteye umunezero buzoza muri kazoza ka vuba.
+Mu ncamake, kazoza k'irungika n'irungikwa ntonto za Bitcoin biratanga icizere ibintu dukesha ubuhinga bushasha nka Lightning Network. Nkuko buno buhinga bushasha bubandanya gutera imbere no gukura, turashobora kwitega kubona ubuhinga bushasha kandi buteye umunezero buzoza muri kazoza ka vuba.
 
 
 ![image](assets/en/84.webp)
 
 
-Ikindi kigereranyo coshobora kuba "ugutanga amahera": biciye muri Lightning Network, turashobora gukora amasezerano makeyi buri munota (bishoboka ko ata muntu agira gatatu yizigirwa), ivyo bikaba bifungura urugi rwo kugerageza uburyo bw'ubutunzi aho abaguzi bariha ibirimwo bishingiye ku vyo bakoresha vy'ukuri. Birashoboka mbere ko umuntu akoresha iyo nzira mu gukodesha ibintu. Muri ubwo buryo, amahera aca agabanywa ubwo nyene, ashingiye ku rugero rwategekanijwe imbere y’igihe, mu bantu batandukanye batanga intererano ku gikorwa canke ku kintu kinaka. Ivyo vyoshobora guhindura cane uburyo twiyumvira ku bijanye n’uburyo bwo kwishura: aho kwishura amahera y’ukwezi ku kwezi ku bijanye n’igikorwa, abakoresha boshobora kwishurwa ku munota, canke mbere ku segonda, ku gihe bamara bakoresha ico gikorwa. Mwene iyo nzira y’ubutunzi yoshobora kugira ingaruka zikomeye ku barema ibintu, boshobora guterwa intege zo guhingura ibintu vyiza kugira ngo abakoresha bagume bavyitaho.
+Akandi karorero gashobora kuba "ugutanga amahera": biciye muri Lightning Network, turashobora gukora irungika n'iyakira ritoyi buri munota (irashoboka tutarinze guca kugice cagatatu c'umwizerwa), ibishobora kwugurura imiryango rwo kugerageza uburyo bw'ubutunzi aho abaguzi bariha ibirimwo bivanye n'ivyo bakoresheje. Birashoboka mbere ko umuntu akoresha iyo nzira mu gukotesha ibintu. Muri ubwo buryo, amahera aca agaburwa ubwo nyene, ashingiye ku rugero rwategekanijwe imbere y’igihe, mu bantu batandukanye batanga intererano ku gikorwa canke ku kintu kinaka. Ivyo vyoshobora guhindura cane uburyo twiyumvira ku bijanye n’uburyo bwo kwishura: aho kwishura amahera y’ukwezi ku kwezi ku bijanye n’igikorwa, abakoresha boshobora kwishurwa ku munota, canke mbere ku segonda, ku gihe bamara bakoresha ico gikorwa. Mwene iyo nzira y’ubutunzi yoshobora kugira ingaruka zikomeye ku barema ibintu, boshobora guterwa intege zo guhingura ibintu vyiza kugira ngo abakoresha bagume bavyitaho.
 
 
 ![image](assets/en/85.webp)
 
 
-Mu gusozera, Lightning Network ifungura uburyo bwinshi bwo gukoresha ibintu biteye umunezero ku bakoresha Bitcoin. Ivyo bivamwo ivyitegererezo vy’ubutunzi n’amahirwe y’ubudandaji ni vyinshi kandi biratandukanye, kandi turaguhimiriza kwisuzuma wewe nyene mu kugerageza porogarama ya podcast [Fountain](https://www.fountain.fm/), ishobora kugufasha guhembwa n’amahera makeyi ya Sats kubera wumvirije amakuru ukunda cane!
+Mu gusozera, Lightning Network yugurura amatsiko kwikoreshwa ritangaje kubantu bakoresha Bitcoin. Ivyo bivamwo ivyitegererezo vy’ubutunzi n’amahirwe y’ubudandaji atandukanye kandi menshi, kandi turaguteye intege kuvyirabira wewe nyene mukugerageza ino apirikasiyo y'ibiganiro [Fountain](https://www.fountain.fm/), Igufasha n'ukuronka udushirukabute dukeyi tw'ama Sats mukwumviriza ibiganiro ukunda cane!
 
 
-## Ikirungo c’umutuku canke ikirungo c’ubururu?
-
+## Ikinini gitukura canke ikinini c'ubururu?
 
 <chapterId>c81cdb45-6aa9-5462-9835-c4852084b2cc</chapterId>
 
 
-Nk'uko Morpheus yabibwiye Neo: "Ufata umuti w'ubururu, inkuru irahera, ukavyuka uri mu gitanda cawe, maze ukemera ivyo ushaka kwemera vyose. Ufata umuti w'umutuku, uguma mu Gihugu c'Ibitangaza, nkakwereka ingene umwobo w'inkwavu ushika kure cane." Woba witeguye gutohoza umwobo w’inkwavu wa Bitcoin? Urabe maso, kuko woshobora gusubira kuronka umwidegemvyo wawe wo mu vy’amahera!
+Nk'uko Morpheus yabibwiye Neo: "Ufata ikinini c'ubururu, inkuru ikaba iraheze, ukavyuka uri mu gitanda cawe, maze ukizera nimba ushaka kwizera. Ufata ikinini gitukura, wigugumira mubutaka bw'ibitangaza, nkakwereka ingene umwobo w'inkwavu ushika kure cane." Woba witeguye gutohoza umwobo w’inkwavu wa Bitcoin? Urabe maso, kuko woshobora gusubira kuronka umwidegemvyo wawe wo mu vy’amahera!
 
 
-### Akazoza k'ubuhinga n'ingaruka zavyo
+### Kazoza k'ubuhinga n'ico bukora
 
 
-Ikoranabuhanga ririko riratera imbere cane, kandi nta n’umwe ashobora kuvuga ata gukeka ivyo rizotera imbere muri kazoza. Uguhuza isi n’ubwenge bukorano birabandanya gutera imbere, kandi ubumenyi umuntu ashobora kuronka biciye kuri internet buragenda burarushiriza kuba ubudashobora gupimwa uko igihe kigenda kirarenga.
+Ikoranabuhanga ririko ririrasa bwampi, hama ntanumwe yoshobora kandi nta n’umwe ashobora kuvuga ata gukeka kazoza kiterambere ryayo. Ihuzwa ry'isi n'ubwenge mvaruganda bubandanya butera imbere,  kandi ubumenyi umuntu ashobora kuronka biciye kuri internet buragenda burarushiriza kuba ubudashobora gupimwa uko igihe kigenda kirarenga.
 
 
-Nitwafata akarorero ka AI, ubwo buhinga bwaramaze kurenga canke buriko burakwegera ubushobozi bwo gukora ku rugero rw’umuntu mu bintu vyinshi, nk’imikino ya videwo, gukora amashusho n’ivyanditswe, no gusesangura amakuru. Imwe mu mpamvu zishobora gushika ni uko akazi karenga 80% kazozimangana kubera AI n’ubuhinga bwo kwikoresha. Nk’inkurikizi, hariho uburyo bwinshi bwo kubigira, nk’uguhagarika iterambere ry’ubuhinga canke gukoresha umutungo wongerekanye uva ku nyungu z’umwimbu zaremwe na AI.
+Dufashe akarorero nka AI, ubwo buhinga bwaramaze kurenga canke buriko burakwegera ubushobozi bwo gukora ku rugero rw’umuntu mu bintu vyinshi, nk’imikino ya videwo, gukora amashusho n’ivyanditswe, no kwihweza ibiharuro. Imwe mubintu bishobora gushika nuko akazi karenga 80% kazozimangana kubera AI n’ubuhinga bwo kwikoresha. Nk’inkurikizi, hariho uburyo bwinshi bwo kubigira, nk’uguhagarika iterambere ry’ubuhinga canke kwongereza umutahe uva ku nyungu z’umwimbu zaremwe na AI.
 
 
-Turafise ibibazo bihambaye twokwibaza:
+Turafise ibibazo bihambaye dushaka kukubaza:
 
 
 
-- None tworongora gute igihugu aho 80% vy’akazi kazozimangana?
-- None twosubiza gute ubuzima mu bantu?
-- None hariho abakeneye abigisha benshi nk’abo?
-- Inkurikizi z’ubuhinga bwo kwikoresha ku bijanye n’ivy’ubuhinga bw’isi, ivy’ubutegetsi be n’ivy’abantu ntizivugwa bihagije.
+- None nigute tworongora gute igihugu aho 80% vy’akazi kazozimangana?
+- None nigute twosubiza agaciro kiremwa muntu ?
+- None hoba hakenewe abigisha benshi ?
+- Inkurikizi z’ubuhinga bwo kwikoresha ku bijanye n’ivy’ubuhinga bwanone, ivy’ubutegetsi be n’ivy’abantu ntizivugwa bihagije.
 
 Ivyuma vy’ubuhinga bwa none, internet, streaming, na VR bizohindura uburezi. Twoshobora kugira inyigisho y’abanyeshure bose b’igifaransa irongowe na leta n’abigisha batagitanga inyigisho ahubwo baherekeza abanyeshure ataco baciyeko. Abana boshobora kuja mw’isi y’ubuhinga bwa none bagaherekezwa mu kwiga amateka.
 
 
 
-- None urubibi ruri hagati y’umwigisha n’umuntu w’ubuhinga bwa none ruri hehe?
-- None twoshobora gute kwizera ko igihugu kibaho mu guterimbere?
+- None n'akahe karimbi kari hagati y’umwigisha n'ukwigana umuntu vya AI?
+- Nigute twokwizeza ikibano kibaho mwiterambere ?
 
 
-Ivyo bibazo vy’ishimikiro vy’akazoza kacu bitegerezwa gushikirizwa no gufatwa ingingo twese hamwe.
+Ivyo bibazo vy’ishimikiro vy’akazoza kacu bitegerezwa guharirwako no guhafirwa ingingo murirusanga.
 
-None Bitcoin ifitaniye isano irihe? Nk’uko nyene Internet yahinduye uburyo bwo guhanahana amakuru, Bitcoin igereranya ihinduka ry’ubuhinga ry’uburyo bushasha bwo gutunganya ibintu ku rugero runini, bikadushoboza guha agaciro Exchange ata muntu n’umwe twizigira. Twoba dushaka guhagarika iterambere ry’ubuhinga bw’amahera, canke twoba twipfuza kwakira ubushobozi bwo kwongerera umutungo biciye mu nyungu z’umwimbu zikubye incuro cumi zitangwa n’ugukoresha amasezerano ya Bitcoin na Lightning?
+None nirihe sano hamwe na Bitcoin ? Nk’uko nyene Internet yateje imbere uhuryo bwogutumatumanako amakuru, Bitcoin igereranya iterambere ry’ubuhinga ry’uburyo bushasha bwo gutunganya ibintu ku rugero runini, bikadushoboza guha agaciro kuvunjisha ata muntu n’umwe twizigira. Twoba dushaka guhagarika iterambere ry’ubuhinga bw’amahera, canke twoba twipfuza kwakira ubushobozi bwo kwongerera umutungo biciye mu nyungu z’umwimbu zikubye incuro cumi zitangwa n’ugukoresha amasezerano ya Bitcoin na Lightning?
 
 
 ### None kazoza k’ivy’amahera ni akahe?
