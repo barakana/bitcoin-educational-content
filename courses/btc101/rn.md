@@ -1776,55 +1776,53 @@ Niba ushaka kwagura ubumenyi bwawe ku vyerekeye Bitcoin, iki ni co gihe ciza: ab
 <partId>899fd35e-39e6-5a25-a73e-6fed6e725094</partId>
 
 
-## Intangamarara ngufi y’igitabu Lightning Network
+## Intangamarara ngufi kuri Lightning Network
 
 
 <chapterId>b403f1e4-f1ff-572b-a242-9b58cb3736d0</chapterId>
 
 
-Ubu ko dufise ivy’ishimikiro vy’umurongo wa Bitcoin, tuzozana urubuga rwo kwishura rukoresha umurongo wa Bitcoin kugira ngo bishobore gukora amafaranga yihuta nk’umuravyo: Lightning Network!
+Ubu ko dufise ivy’ishimikiro vy’urukwirikirane rwa Bitcoin, tuzobazanira urubuga rwo kurihisha rukoresha urukwirikirane rwa Bitcoin rufasha irihwa n'irihishwa ry'akaravyo ryihuta : Lightning Network!
 
 
-Menya ko ibi bikurikira ari insobanuro rusangi gusa, rero, niwaba ushaka kubitahura mu buryo burambuye, turagutumiye gufata inyigisho yacu ya LNP201.
+Menya ko ibi bikurikira n'insiguro muri rusangi vyonyene, rero, nimba ushaka gutahura vyimbitse, turagutumiye kwiga icigwa cacu ca LNP201.
 
 
 ### Muri make
 
 
-Lightning Network ni ubuhinga bushasha bwahinduye cane ukuntu tubona Bitcoin, kuko buvuga ku kibazo c'ubushobozi bwa Bitcoin.
+Lightning Network ni ubuhinga bushasha bwahinduye biboneka cane uko tubona Bitcoin, nkuko buvuga ku kibazo c'ubushobozi bwa Bitcoin.
 
 
-Kugira ngo umuntu atahure neza Lightning Network, birahambaye cane gutahura ingene Bitcoin itera imbere kandi igatera imbere mu bice vy'ibikorwa remezo: Layer ya mbere ni Blockchain, iya kabiri ni Lightning Network.
+Kugira ngo umuntu atahure neza Lightning Network, birahambaye cane gutahura ingene Bitcoin itera imbere kandi igateza imbere mu bice vy'inyubako : Agace kambere ni Blockchain, akakabiri ni Lightning Network.
 
 
 ![image](assets/en/78.webp)
 
 
-### Blockchain ntishobora gukura ibihe bidahera .
+### Blockchain ntishobora kuguma ikura bitagira iherezo. 
 
 
-Lightning Network yemejwe kandi irashirwa mu ngiro mu 2017 kugira ngo itore umuti w’ingorane y’ugushobora gutera imbere kwa Bitcoin, kuko ishobora gutuma umuntu ashobora gukoresha Bitcoin mu kanya nk’ako gukubita, ataco atwara.
+Lightning Network yemejwe kandi irashirwa mu ngiro mu 2017 kugira ngo itore inyishu ingorane y'izimba rya Bitcoin, nkuko ifasha, irungika n'irungikwa rizimbutse rya Bitcoin.
 
-
-Ikibazo c’ugushobora gutera imbere kivuga ingorane yo gushirwa mu ngiro uburyo bw’amahera bushobora gutanga umubare w’ibikorwa vy’ubudandaji biguma vyiyongera ku segonda mu kwishura ku kwiyongera kw’abavyemera. Iki kibazo kijanye n’ikibazo c’ubutatu ca Blockchain. Ibaze inkomoko y’inkomoko itatu ifise ugusenyura, umutekano n’ugushobora gutera imbere nk’isonga ryayo.
+Ikibazo c’ugushobora gutera imbere cerekana ingorane yo gushirwa mu ngiro uburyo bw’amahera bushobora gutanga ibiharuro vy’ibikorwa vy’ubudandaji biguma vyiyongera buri segonda mu kwishura ku kwiyongera kw’abavyemera. Iki kibazo kijanye n’ikibazo c’ubutatu ca Blockchain. Iyumvire inyabutatu rudafise aho rutwarirwa, umutekano n’ugushobora gutera imbere nk’isonga ryayo.
 
 
 ![image](assets/en/79.webp)
 
 
-Dukurikije iyo nzira, umurongo ushingiye kuri Blockchain ushobora gusa guhazwa n’ibintu bibiri muri ivyo bitatu. Mu masezerano ya Bitcoin, abahinguzi barahisemwo gushigikira kwegereza ubutegetsi abaturage n’umutekano. Ku ruhande rumwe, ubunini bw’amabuye bwa 1MB n’igihe kiri hagati y’amabuye abiri (mu mwanya w’iminota 10) bituma umuntu ashobora gukoresha urudodo rwa Bitcoin ku giciro gito, bikaba bifasha mu kwegereza ubutegetsi abantu bose. Ku rundi ruhande, gukora amabuye biciye muri Proof-of-Work bituma ubuhendanyi buri muri iyo porotokole buzimvye cane, mu gihe vyorosha kugenzura n’ibihimba vy’uruja n’uruza kandi bikaba bifasha umutekano. Ariko rero, ayo mahitamwo ashiraho umupaka ku mubare w’ibikorwa bikoreshwa mu gice kimwe, bikaba bihuye n’ibikorwa bikeyi bikoreshwa mu segonda. Uwo mubare ni uwuteye isoni iyo ugereranije n’ubushobozi bwo gukoresha ubuhinga bwo kwishura nka VISA (1700/s), ariko uwo mupaka ni ngombwa kugira ngo umuntu ashobore gukorana na Bitcoin mu buryo butagiramwo ubugenzuzi n’ubuhinga bwa Trustless. Naho ari ukwo, abatera imbere kuri Bitcoin baramaze kwiyumvira iyo ngorane kuva mu ntango.
+Dukurikije iyo nzira, urukwirikirane rwa Blockchain rushobora gusa gukwiriza n’ibintu bibiri muri ivyo bitatu. Murukwirikirane rwa Bitcoin, abahinguzi bashize imbere gushigikira kwegereza ubutegetsi abaturage n’umutekano. Ku ruhande rumwe, ubunini bwa block bwa 1MB hamwe n'umwanya hagati y'ama block abiri ( n'imiburiuri nink'ivy'iminota 10) bituma umuntu ashobora gukoresha ipfundo rwa Bitcoin ku giciro cohasi, bigashira imbere kwegereza ubutegetsi abantu bose. Ku rundi ruhande, igikorwa ca block biciye muri Proof-of-Work bituma ivyamagendu buri muri iyo porotokole bitagira ikiguzi, mugihe gufasha ugusuzuma n'umuryango w'amapfundo n'ugushira imbere umutekano. Ariko rero, ano mahitamwo ategeka imbibe kurugero rw'igitigiri c'irungika n'irungikwa kuri block, bikaba bihuye n’ibikorwa bikeyi bikoreshwa mu segonda. kino giharuro kirateye isoni iyo ugereranije n’ubushobozi bwo gukoresha ubuhinga bwo kuriha nka VISA (1700/s), ariko uno murongo ntarengwa ni ngombwa kugira ngo umuntu ashobore gukorana na Bitcoin mu buryo butagiramwo ubugenzuzi n’ubuhinga bw'icizere. Naho ari ukwo, abatera imbere kuri Bitcoin baramaze kwiyumvira iyo ngorane kuva mu ntango.
 
 
-### Umuravyo nk’uko Layer iri hejuru
+### Lightning nkagace kohejuru
 
 
-Inyuma y’imyaka myinshi yiyumvira no kugerageza kenshi, haciye hasohoka umurongo w’umuravyo. Ukoresheje umubare kanaka w’ibisobanuro, iyo porotokole yubaka urubuga rwo kwishura hagati y’abandi mu gukoresha umutekano n’ubushobozi bwo gutegura porotokole y’ugucuruza ya Bitcoin. Lightning Network ikora nk’uruja n’uruza rw’imihora yo kwishura, igatuma umuntu ashobora gutanga amafaranga ako kanya ataco atanga ku wuyirungitse, kandi mbere igatuma habaho inzira za Exchange hagati y’abantu badafise uburyo bwo kwishura butaziguye.
-
+Inyuma y’imyaka myinshi y'ukwiyumvira n'ukugerageza kwa cane, umuryango wa Lightning waragiyeho. Ukoresheje igiharuro kanaka c'ugusigura, iyo porotokole yubaka urubuga rwo kuriha hagati y’abantu babiri mu gukoresha umutekano n’ubushobozi bwo gutegura porotokole y’ugucuruza ya Bitcoin. Lightning Network ikora nk’umuryango w'ummuhora w'ukurihiramwo, igafasha irihwa n'irihishwa ryihuse kumahera makeyi kuwurungitse, wanashima biranashiraho inzira y'ukuvunjisha hagati y'abantu badafise umuhora w'ukurihiramwo wihuse.
 
 ![image](assets/en/80.webp)
 
 
-Ibikorwa vya kera vyo kohereza amahera nka Western Union, amabanki akomeye, Visa, na Mastercard vyoshobora kuzimangana iyo badakoresha ubuhinga bwa Lightning Network, bukora neza kandi butazimvye kuruta uburyo bwo kwishura buriho ubu. Nkako, Lightning Network irashoboza gukorana hafi ata n’aho igarukira hagati y’abantu babiri basangira umurongo, igatanga gusa amafaranga y’inguvu ajanye n’ugutangaza kugira ngo imenyeshe ivyemezo vy’uwo muhora, aho gukorana n’umuntu ku giti ciwe.
+Uburyo bwakera bwokurihiramwo amafaranga nka Western Union, amabanki makru, Visa, na Mastercard bushobora kuburirwa irengero nibutemeza ubuhinga bwa Lightning Network, busanzwe bukora neza kandi butazimvye kuruta uburyo bwo kuriha buriho ubu. Nubwo biruko, Lightning Network irataga hafi irungika n'irungikwa itagira urugero hagati y'abantu babiri basangiye umuhora bigatwara gusa igiciro c'umuyagankuba bifatanye n'irungika n'irungikwa y’inguvu ajanye n’ugutangaza kugira ngo imenyeshe ivyemezo vy’uwo muhora, aho gukorana n'irungika n'irungikwa ry'umuntu ku giti ciwe.
 
 
 ![image](assets/en/81.webp)
