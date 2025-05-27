@@ -1932,32 +1932,32 @@ None Bitcoin ifitaniye isano irihe? Nk’uko nyene Internet yahinduye uburyo bwo
 ### None kazoza k’ivy’amahera ni akahe?
 
 
-Ivyo bintu vyiyumviriwe biratuma kandi haba ibibazo ku bijanye n’uwukwiye gufata, guha uburenganzira no gukurikirana amahera dukoresha. Intumbero ni ugufata ingingo hagati y’uburyo bufunze bufise abarongozi batatowe canke uburyo bufunguye butagira abandi bantu bizigira, aho ukutagira aho twehamiye ari kwo guhambaye.
+Ivyo bintu vyiyumviriwe biratuma kandi haba ibibazo ku bijanye n’uwukwiye gufata, guha uburenganzira no gukurikirana amahera dukoresha. Ihangiro  ni ugufata ingingo hagati y’uburyo bwugaye bufise abarongozi batatowe canke uburyo bwuguruye butagira abandi babizigigwa bagatatu, ahibonekeza ukutagira aho duhengamiye.
 
 
 
-- Mbega amafaranga ni uburyo bw’itunga ry’umuntu ku giti ciwe?
-- Mbega amakonti y’abanyagihugu bariko barigaragaza yoshobora guhagarara ata tegeko ry’urukiko rw’ikirenga?
-- Ni nde yizeza urutonde rw’ivy’ubutunzi?
-- Ni gute umuntu yoshobora gutegeka amahera yiwe kandi akizigira uwundi muntu yizigirwa?
-- Amahera yoba yoherezwa ku rundi ruhande rw’isi ata mahera canke abahuza?
+- Mbega amafaranga yoba ari uburyo bw'umutungo w'ibanga?
+- Mbega amakonti y’abigaragamvya yoshobora guhagarikwa atategeko rivuye muri sentare nkuru?
+- Ninde yizeza uko politique yubutunzi yubatswe?
+- Nigute umuntu yoronka ubwigege ku amahera yiwe ashize icizere kuwundi muntu yizigirwa?
+- Amafaranga yoshobora kurungikwa kurundi ruhande rw'isi atarihiwe canke adaciye kuyundi muntu. 
 
 
-Kwemera ubu buhinga bushasha vyoshobora gutuma haba ubutunzi bwinshi kw’isi yose. Twoba dukwiye kwemera ko amafaranga y’igihugu agenda ataco akora? Ivyo guhagarika ibikorwa mpuzamakungu biragira ingaruka ku bukungu no ku vya politike. Mbega ni vyiza gukoresha abahuza b’ivy’amahera nka Western Union, rimwe na rimwe basaba amafaranga ashika kuri 25%? Twemera ko mw’isi iriko iratera imbere mu vy’ubuhinga bwa none, amahera akwiye guhindurwa mu buryo bwa demokarasi, akabonwa nk’ivyiza rusangi vy’abantu aho gufatwa nk’ivya Leta canke ivy’ibigo vy’imari bitaboneka.
+Kwemera ubu buhinga bushasha vyoshobora gutuma haba ubutunzi bwinshi kurugezo rw'isi yose. Twoba dukwiye kwemera kuriha amafaranga akagenda ataco akoze ? Ivyo guhagarika ibikorwa mpuzamakungu biragira ingaruka kubutunzi hanwe nokuri plitike. Mbega ni vyiza gukoresha abahuza b’ivy’amahera nka Western Union, rimwe na rimwe basaba amafaranga ashika kubice 25%? Twemera ko mw’isi iriko iratera imbere mu vy’ubuhinga bwa none, amahera akwiye guhindurwa mu buryo bwa demokarasi, akabonwa nk’ivyiza rusangi vy’abantu aho gufatwa nk’ivya Leta canke ivy’ibigo vy’imari bitaboneka.
 
 
-Ikibazo c’uwukwiye kugenzura uburyo bwo gukoresha amabanki ni ikintu gihambaye cane kuko amategeko y’urukino rwa banki adasobanutse kandi atahurwa na bose, bikaba vyemerera umugwi w’abanyapolitike n’abagenzuzi baguma bafise ububasha kuri iyo nzira, ni co gituma bihambaye kwibaza nimba isoko ry’uburenganzira canke umugwi w’inkerebutsi ari bo bakwiye kugira ububasha kuri yo.
+Ikibazo c’uwukwiye kugenzura uburyo bwo gukoresha amabanki nicingenzi kuko amategeko y’urukino rwa banki atarimwo umuco kandi adatahuirwa nabose, bikaba vyemerera umugwi w’abanyapolitike n’abagenzuzi baguma bafise ububasha kuri iyo nzira, ni co gituma bihambaye kwibaza nimba isoko ry’uburenganzira canke umugwi w’inkerebutsi ari bo bakwiye kugira ububasha kuri yo.
 
 
 ### Umwidegemvyo wacu uri mu kaga.
 
 
-Gucengera na vyo nyene bitegerezwa kwibazwa: ni nde afise ubumenyi bwo gufata ingingo y’ico gikwiye gucengera canke kitacengera? Ivyo binyamakuru vyahinduye ivyiyumviro vyavyo ku makuru amwamwe kandi abo bari baracengera mbere ntibagicengera uno musi.
+Ubucungezi nabwonyene butegezwa kwibazwa: ni nde afise ubumenyi bwo gufata ingingo y’igikwiye gucungengwa cank kutadacungenrwa? Ibinyamakuru vyarahinduye ikibanza cavyo kumakuru amwamwe  kandi abo bari baracengera mbere ntibagicengera uno musi.
 
 
 
-- Ni nde afata ingingo y’ico ari co censure canke propagande?
-- Ni nde afise ukuboko kw’Imana ku rutonde rwacu?
+- Ninde afata ingingo y’icemewe canke imyiyamamazo ?
+- Ninde afise ukuboko kw’Isumbavyose kurino ndinganizo yacu ?
 
 
 Twemera cane ko kwihanganira ugucengera bishobora gusenyura umwidegemvyo wo kuvuga n’uburenganzira bwo gukoranira hamwe, kuko bishobora kugira ingaruka mbi ku guhingura ibintu bishasha no ku kwihitiramwo. Gutegeka gucengera biragoye mu buryo bw’ubuhinga ata dystopie yuzuye. None ni ikihe kigo gikwiye kugira ububasha bwo gucengera? Ikibazo kiragoye, kandi biragoye no gufata ingingo y’uwukwiye kubuzwa canke kutabuzwa.
